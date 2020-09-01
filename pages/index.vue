@@ -86,7 +86,7 @@ export default Vue.extend({
 .page {
   margin: 0 auto;
   max-width: 800px;
-  padding: 4rem 1rem;
+  padding: 3rem 1rem;
 }
 
 h1 {
