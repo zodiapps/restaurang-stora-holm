@@ -31,6 +31,7 @@ export default {
       },
       {
         src: '/netlify.js',
+        body: true,
       },
     ],
   },
