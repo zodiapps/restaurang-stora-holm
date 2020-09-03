@@ -1,8 +1,7 @@
 <template lang="pug">
   div.page
     header
-      h1 Restaurang Stora Holm
-      img(src="~/assets/restaurant.jpg")
+      img(src="~/assets/logo.jpg" alt="Restaurang Stora Holm")
     main
       article.menu
         h2 Lunchmeny (vecka {{ week }})
@@ -100,7 +99,8 @@ h2 {
 }
 
 img {
-  height: 240px;
+  width: 320px;
+  max-width: 100%;
 }
 
 table {
