@@ -20,7 +20,8 @@ collections:
             widget: list
             fields:
               - label: Veckodag,
-                widget: 'select'
+                widget: 'select',
+                name: weekday,
                 options:
                   - { label: 'Måndag', value: 0 }
                   - { label: 'Tisdag', value: 1 }
