@@ -19,9 +19,9 @@ collections:
             name: menu
             widget: list
             fields:
-              - label: Veckodag,
-                widget: 'select',
-                name: weekday,
+              - label: Veckodag
+                widget: 'select'
+                name: weekday
                 options:
                   - { label: 'Måndag', value: 0 }
                   - { label: 'Tisdag', value: 1 }
@@ -34,12 +34,10 @@ collections:
                 name: options
                 widget: list
                 field: { label: Beskrivning, name: option, widget: string }
-          - {
-              label: Pris,
-              name: price,
-              widget: string,
-              default: 'Pris 120 kr inkl kaffe',
-            }
+          - label: Pris,
+            name: price,
+            widget: string
+            default: 'Pris 120 kr inkl kaffe'
       - label: 'Kontaktinformation'
         name: 'contact'
         file: 'content/contact.md'
