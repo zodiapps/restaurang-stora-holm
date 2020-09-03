@@ -1,7 +1,7 @@
 import Vue from 'vue'
 
 Vue.filter('weekday', (value: any): string => {
-  switch (value) {
+  switch (+value) {
     case 0:
       return 'Måndag'
     case 1:
