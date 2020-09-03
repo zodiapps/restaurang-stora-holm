@@ -19,7 +19,7 @@
 <script lang="ts">
 import Vue from 'vue'
 
-export default {
+export default Vue.extend({
   async asyncData({ $content }) {
     const [week, contact] = await Promise.all([
       $content('week').fetch(),
@@ -31,7 +31,7 @@ export default {
       contact,
     }
   },
-}
+})
 </script>
 
 <style lang="scss" scoped>

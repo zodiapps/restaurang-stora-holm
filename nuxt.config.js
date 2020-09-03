@@ -21,7 +21,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'Välkommen till Restaurangen på Stora Holm!',
+        content: 'Välkommen till lunch hos Restaurangen på Stora Holm!',
       },
       { name: 'msapplication-TileColor', content: '#da532c' },
       { name: 'theme-color', content: '#ffffff' },
