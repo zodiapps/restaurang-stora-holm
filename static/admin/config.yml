@@ -24,12 +24,12 @@ collections:
                 name: 'weekday'
                 options:
                   - { label: 'Måndag', value: '0' }
-                  - { label: 'Tisdag', value: 1 }
-                  - { label: 'Onsdag', value: 2 }
-                  - { label: 'Torsdag', value: 3 }
-                  - { label: 'Fredag', value: 4 }
-                  - { label: 'Lördag', value: 5 }
-                  - { label: 'Söndag', value: 6 }
+                  - { label: 'Tisdag', value: '1' }
+                  - { label: 'Onsdag', value: '2' }
+                  - { label: 'Torsdag', value: '3' }
+                  - { label: 'Fredag', value: '4' }
+                  - { label: 'Lördag', value: '5' }
+                  - { label: 'Söndag', value: '6' }
               - label: 'Rätter'
                 name: 'options'
                 widget: 'list'
