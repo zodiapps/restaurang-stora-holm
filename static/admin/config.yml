@@ -33,9 +33,10 @@ collections:
               - label: 'Rätter'
                 name: 'options'
                 widget: 'list'
-                field: { label: 'Beskrivning', name: 'option', widget: 'string' }
-          - label: 'Pris',
-            name: 'price',
+                field:
+                  { label: 'Beskrivning', name: 'option', widget: 'string' }
+          - label: 'Pris'
+            name: 'price'
             widget: 'string'
             default: 'Pris 120 kr inkl kaffe'
       - label: 'Kontaktinformation'
