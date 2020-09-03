@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: 'git-gateway'
+  branch: 'master'
 collections:
   - label: 'Pages'
     name: 'pages'
@@ -9,41 +9,41 @@ collections:
         name: 'week'
         file: 'content/week.md'
         fields:
-          - label: Veckonummer
-            name: number
-            widget: number
+          - label: 'Veckonummer'
+            name: 'number'
+            widget: 'number'
             value_type: 'int'
             min: 1
             max: 52
-          - label: Meny
-            name: menu
-            widget: list
+          - label: 'Meny'
+            name: 'menu'
+            widget: 'list'
             fields:
-              - label: Veckodag
+              - label: 'Veckodag'
                 widget: 'select'
-                name: weekday
+                name: 'weekday'
                 options:
-                  - { label: 'Måndag', value: 0 }
+                  - { label: 'Måndag', value: '0' }
                   - { label: 'Tisdag', value: 1 }
                   - { label: 'Onsdag', value: 2 }
                   - { label: 'Torsdag', value: 3 }
                   - { label: 'Fredag', value: 4 }
                   - { label: 'Lördag', value: 5 }
                   - { label: 'Söndag', value: 6 }
-              - label: Rätter
-                name: options
-                widget: list
-                field: { label: Beskrivning, name: option, widget: string }
-          - label: Pris,
-            name: price,
-            widget: string
+              - label: 'Rätter'
+                name: 'options'
+                widget: 'list'
+                field: { label: 'Beskrivning', name: 'option', widget: 'string' }
+          - label: 'Pris',
+            name: 'price',
+            widget: 'string'
             default: 'Pris 120 kr inkl kaffe'
       - label: 'Kontaktinformation'
         name: 'contact'
         file: 'content/contact.md'
         fields:
-          - { label: Google Maps länk, name: address, widget: string }
-          - { label: Telefonnummer, name: phone, widget: string }
-          - { label: Email, name: email, widget: string }
-          - { label: Facebook länk, name: facebook, widget: string }
+          - { label: 'Google Maps länk', name: 'address', widget: 'string' }
+          - { label: 'Telefonnummer', name: 'phone', widget: 'string' }
+          - { label: 'Email', name: 'email', widget: 'string' }
+          - { label: 'Facebook länk', name: 'facebook', widget: 'string' }
 media_folder: 'assets/images/uploads' # Media files will be stored in the repo under assets/images/uploads
