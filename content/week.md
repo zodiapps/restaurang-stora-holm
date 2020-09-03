@@ -1,5 +1,5 @@
 ---
-number: 38
+number: 36
 menu:
   - weekday: "1"
     options:
