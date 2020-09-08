@@ -1,21 +1,21 @@
 ---
-number: 36
+number: 37
 menu:
   - weekday: "1"
     options:
-      - Pluma, chimichurri & paprikarostad potatis
-      - Betor, svartvinbärsvinägrett & chevre
+      - Wallenbergare, potatispuré, ärtor & skirat smör
+      - Morotsbiffar, rostade rotfrukter & kumminyoghurt
   - weekday: "2"
     options:
-      - Dagens fångst, hollandaisesås, krondill & fänkål
-      - Bakad rotselleri, mandel & hollandaisesås
+      - Dagens fångst, dill potatis & sandefjordsås
+      - Zucchinirösti, brieost & fänkålsröra
   - weekday: "3"
     options:
-      - Porchetta, konfiterade tomater & kronärtskockkräm
-      - Falafel, picklad majrova, vitlökskräm & saltgurka
+      - Kålpudding, rårörda vinbär & gräddsås
+      - Vegetarisk kålpudding, rårörda vinbär & gräddsås
   - weekday: "4"
     options:
-      - Dagens fångst, dansk remoulad & potatis
-      - Zucchini, fetaost, linser & tomatsås
+      - Bakad fisk, brynt smör, puré och chips på kronärtskocka
+      - Svamprisotto, semitorkade tomater & jordärtskockschips
 price: Pris 120 kr inkl kaffe
 ---
