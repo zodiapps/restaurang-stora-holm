@@ -3,19 +3,19 @@ number: 37
 menu:
   - weekday: "1"
     options:
-      - Wallenbergare, potatispuré, ärtor & skirat smör
-      - Morotsbiffar, rostade rotfrukter & kumminyoghurt
+      - Lammfärsbiffar, örtrostad rotfrukter & tomatsås
+      - Svampfrittata, potatis, spenat & örtkräm
   - weekday: "2"
     options:
-      - Dagens fångst, dill potatis & sandefjordsås
-      - Zucchinirösti, brieost & fänkålsröra
+      - Ångad fisk, pocherat ägg & vitvinssås
+      - Auberginegratäng, buffelmozzarella & tomat
   - weekday: "3"
     options:
-      - Kålpudding, rårörda vinbär & gräddsås
-      - Vegetarisk kålpudding, rårörda vinbär & gräddsås
+      - Kalops, kokt potatis & morot
+      - Couscoussallad, färskost, portobello & vitlökskräm
   - weekday: "4"
     options:
-      - Bakad fisk, brynt smör, puré och chips på kronärtskocka
-      - Svamprisotto, semitorkade tomater & jordärtskockschips
+      - Stekt strömming, potatispuré & lingon
+      - Gnocchi, ratatouille & riven parmesan
 price: Pris 120 kr inkl kaffe
 ---
