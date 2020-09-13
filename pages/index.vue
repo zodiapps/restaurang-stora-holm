@@ -55,11 +55,14 @@ main {
   margin-bottom: 2rem;
 
   table {
+    $border-spacing: 1rem;
+
     width: 100%;
     border-collapse: separate;
-    margin: -1rem;
+    margin-left: -$border-spacing;
+    margin-right: -$border-spacing;
     margin-bottom: 2rem;
-    border-spacing: 1rem;
+    border-spacing: $border-spacing;
   }
 
   td {
