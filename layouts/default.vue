@@ -12,6 +12,8 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  background: url('~assets/background.jpg') #a19d93;
+  background-size: cover;
 }
 
 *,
@@ -28,12 +30,18 @@ h1 {
 
 h2 {
   font-size: 1.6rem;
-  margin: 2rem 0 1rem 0;
+  margin: 2rem 0 1.5rem 0;
 }
 
 .layout {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 920px;
+  min-height: 100vh;
+  background: white;
   padding: 3rem 1rem;
+
+  @screen sm {
+    padding: 4rem 4rem;
+  }
 }
 </style>

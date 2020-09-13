@@ -15,22 +15,28 @@
 <script lang="ts">
 import Vue from 'vue'
 
-export default {
+export default Vue.extend({
   props: {
     data: {
       type: Object,
       required: true,
     },
   },
-}
+})
 </script>
 
 <style lang="scss" scoped>
-address {
-  font-size: 1.5rem;
+footer {
+  address {
+    font-size: 1.5rem;
 
-  a {
-    padding: 1rem;
+    a {
+      padding: 1rem;
+
+      @screen sm {
+        padding: 1rem 2rem;
+      }
+    }
   }
 }
 </style>

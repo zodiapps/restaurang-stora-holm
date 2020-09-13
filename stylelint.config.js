@@ -17,5 +17,6 @@ module.exports = {
         ],
       },
     ],
+    'block-no-empty': null,
   },
 }

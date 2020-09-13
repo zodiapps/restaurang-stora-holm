@@ -13,7 +13,7 @@
                 ul
                   li(v-for="option in day.options") {{ option }}
         p {{ week.price }}
-    TheFooter(:data="contact")
+    TheFooter.footer(:data="contact")
 </template>
 
 <script lang="ts">
@@ -35,17 +35,40 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
-img {
-  width: 320px;
-  max-width: 100%;
+.page {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
 }
 
-table {
-  border-collapse: separate;
-  border-spacing: 1rem;
+header {
+  align-self: center;
+  margin-bottom: 2rem;
+  img {
+    width: 400px;
+    max-width: 100%;
+  }
 }
 
-td {
-  vertical-align: baseline;
+main {
+  margin-bottom: 2rem;
+
+  table {
+    width: 100%;
+    border-collapse: separate;
+    margin: -1rem;
+    margin-bottom: 2rem;
+    border-spacing: 1rem;
+  }
+
+  td {
+    vertical-align: baseline;
+    ul {
+      li {
+        margin-bottom: 0.7em;
+      }
+    }
+  }
 }
 </style>
