@@ -1,21 +1,21 @@
 ---
-number: 39
+number: 40
 menu:
   - weekday: "1"
     options:
-      - Högrevsburgare, grillade grönsaker & rostad vitlöksdipp
-      - Halloumiburgare, grillade grönsaker & rostad vitlöksdipp
+      - Köttbullar, potatispuré, lingon & gräddsås
+      - Kikärtsbiffar, couscous & gremolata
   - weekday: "2"
     options:
-      - Dagens fångst, picklade kålrabbi & dillsås
-      - Pumparisotto, parmesan, salvia & rostade pumpakärnor
+      - Fiskfärsbiff, broccoli, potatiskaka & skaldjurssås
+      - Svampomelette, bakad tomat & pesto
   - weekday: "3"
     options:
-      - Panerad kalvschnitzel, ljummen potatissallad & friterad kapris
-      - Spenatlasagne, kålsallad & tre sorters ost
+      - Grillad kyckling, timjanbakad potatis & bearnaisesås
+      - "Bakad spetskål, rostad potatis & dragonkräm "
   - weekday: "4"
     options:
-      - Ångad fisk, amadinepotatis & räkröra
-      - Quinoa, panerad blomkål & hummus
+      - Panerad fisk, dillpotatis & remoulad
+      - Spenatlasagne med tomat & tre ostar
 price: Pris 120 kr inkl kaffe
 ---
