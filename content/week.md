@@ -1,21 +1,21 @@
 ---
-number: 41
+number: 42
 menu:
   - weekday: "1"
     options:
-      - Helstekt fläskkarré, saltbakad rotselleri, blekselleri & äppelsky
-      - Rökt confiterad morot, svartkål, belugalinser & grön tahinisås
+      - Örtbakad kyckling, rostade grönsaker & ramslökskräm
+      - Quinoabiffar, kanarisk potatis & mojo rojo
   - weekday: "2"
     options:
-      - Vinpocherad fisk, pepparrot & brynt smörsås
-      - Panerad zucchini, picklad chili & rödbetshummus
+      - Fiskgryta med räkor, koktpotatis & dillolja
+      - Svamp- & mozzarellalasagne
   - weekday: "3"
     options:
-      - Köttfärslimpa, potatispuré, rårörda svarta vinbär & gräddsås
-      - Svampgryta, jordärtskocka & potatispuré
+      - Oxbringa, rotfruktspuré & pepparrotssås
+      - Kikärtsbiff, linssallad & kumminyoghurt
   - weekday: "4"
     options:
-      - Halstrad lax, mandelpotatis & citronkräm
-      - Friterade getostbollar, pumpa & brynt salviasmör
+      - Pankobakad fisk, bönor, potatisstomp & tartarsås
+      - Panerad ost, ljummen bönsallad & örtkräm
 price: Pris 120 kr inkl kaffe
 ---
