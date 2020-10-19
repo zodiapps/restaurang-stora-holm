@@ -1,21 +1,21 @@
 ---
-number: 42
+number: 43
 menu:
   - weekday: "1"
     options:
-      - Örtbakad kyckling, rostade grönsaker & ramslökskräm
-      - Quinoabiffar, kanarisk potatis & mojo rojo
+      - Pulled porkchili, bönris & myntayoghurt
+      - Västerbottenrisotto, rostad palsternacka & ramslöksolja
   - weekday: "2"
     options:
-      - Fiskgryta med räkor, koktpotatis & dillolja
-      - Svamp- & mozzarellalasagne
+      - Dagens fångst, broccolikräm, ramslöksmajonnäs & syrlig crudité
+      - Färskostgratinerad zucchini, rosmarinpotatis & tomatsallad
   - weekday: "3"
     options:
-      - Oxbringa, rotfruktspuré & pepparrotssås
-      - Kikärtsbiff, linssallad & kumminyoghurt
+      - Pannbiff, karamelliserad lök & skysås
+      - Rotfruktsbourginon & rostad örtpotatis
   - weekday: "4"
     options:
-      - Pankobakad fisk, bönor, potatisstomp & tartarsås
-      - Panerad ost, ljummen bönsallad & örtkräm
+      - Fiskfärsbiffar, pepparrot & skirat smör
+      - "Moussaka med linser & fetaost "
 price: Pris 120 kr inkl kaffe
 ---
