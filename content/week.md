@@ -1,21 +1,22 @@
 ---
-number: 44
+number: 45
 menu:
   - weekday: "1"
     options:
-      - Wallenbergare, potatispuré, skirat smör & ärtor
-      - Rostad majsbiff, chilikräm & grönsaksris
+      - Köttfärslimpa, lingon & svampsås
+      - Canelloni med fyra sorters ost & tomatsås
   - weekday: "2"
     options:
-      - Fiskrullader, färskost & skaldjurssås
-      - Svampbiff, picklad chili & rostade rotfrukter
+      - Panerad fisk, grillad potatis & remouladsås
+      - Falafel, ris, picklad chili & yoghurtsås
   - weekday: "3"
     options:
-      - Raggmunk, stekt fläsk & rårörda lingon
-      - Auberginepiccata, rostad potatis & färskostkräm
+      - Kåldolmar, svartvinbärsgelé & gräddsås
+      - Parmesangratinerad zucchini, grillad tomat & rostad vitlökskräm
+      - Ärtsoppa & pannkakor
   - weekday: "4"
     options:
-      - Varmrökt lax, koktpotatis & räkröra
-      - Gnocchi, creme dubbel & skogschampinjon
+      - Ångad torsk, pepparrot & äggsås
+      - Friterade risbollar, mozzarella, picklad zucchini & ruccolapesto
 price: Pris 120 kr inkl kaffe
 ---
