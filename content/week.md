@@ -1,21 +1,21 @@
 ---
-number: 46
+number: 47
 menu:
   - weekday: "1"
     options:
-      - Mozzarellabakad kyckling , grönsaksris & apelsinsås
-      - Rostad pumpa, rotselleripuré & grönkålschips
+      - Wallenbergare, lingon & gröna ärtor
+      - Morotsbiffar, rostad pumpasallad & vitlökskräm
   - weekday: "2"
     options:
-      - "Panerad fisk, picklade betor & brynt smörmajonnäs "
-      - Vitkålsplättar, chili & jordnötskräm
+      - Fisktacos, rökt paprikakräm, koriander & salsa
+      - Falafel, ris & tahiniyoghurt
   - weekday: "3"
     options:
-      - "Gulasch & gnocchi "
-      - Quinoabiff, rostad blomkål & ramslökskräm
+      - Lasagne, parmesan & ruccolapesto
+      - Cannelloni, ricotta & grillad paprikasås
   - weekday: "4"
     options:
-      - Fiskfärsbiff, citronkräm & gröna ärtor
-      - Panerad blomkål, pocherat ägg, brynt smörmajonnäs & mandel
+      - Smörsekt kolja, skaldjurssås & purjolökpotatis
+      - Pankopanerad aubergine, purjolökssås & potatis.
 price: Pris 120 kr inkl kaffe
 ---
