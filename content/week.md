@@ -1,21 +1,20 @@
 ---
-number: 47
+number: 48
 menu:
   - weekday: "1"
     options:
-      - Wallenbergare, lingon & gröna ärtor
-      - Morotsbiffar, rostad pumpasallad & vitlökskräm
+      - STÄNGT
   - weekday: "2"
     options:
-      - Fisktacos, rökt paprikakräm, koriander & salsa
-      - Falafel, ris & tahiniyoghurt
+      - Vinpocherad fisk med vitvinssås & pepparrot
+      - Svampomelette, bakad tomat & örtkräm
   - weekday: "3"
     options:
-      - Lasagne, parmesan & ruccolapesto
-      - Cannelloni, ricotta & grillad paprikasås
+      - Pannbiff, karamelliserad lök & skysås
+      - Friterade getostbollar, pumpapuré & brynt salviasmör
   - weekday: "4"
     options:
-      - Smörsekt kolja, skaldjurssås & purjolökpotatis
-      - Pankopanerad aubergine, purjolökssås & potatis.
+      - Pankobakad fisk, ramslöksmajonnäs & syrad crudité
+      - Kikärtsbiffar, rödbetshummus & couscous
 price: Pris 120 kr inkl kaffe
 ---
