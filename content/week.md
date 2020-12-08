@@ -1,20 +1,20 @@
 ---
-number: 49
+number: 50
 menu:
   - weekday: "1"
     options:
       - STÄNGT
   - weekday: "2"
     options:
-      - Stekt fisk med pepparrotssås & rostade grönsaker
-      - Rostad romanesco, parmesan, gremolata & mandel
+      - Örtbakad fisk, smörstekt jordärtskocka & dillsås
+      - Gnocchi, kikärtsbiffar & örtkräm
   - weekday: "3"
     options:
-      - Lammfärsbiffar, honungsyoghurt & paprikarostad potatis
-      - Linsgryta, stekt ris & koriander
+      - "Schnitzel, rödvinssås & rostad potatis "
+      - "Falafel, rostade rotfrukter &  korianderyoghurt "
   - weekday: "4"
     options:
-      - Pocherad fisk med brynt smörsås & krossad potatis
-      - Färskostfylld portabellosvamp, rostad potatis & rödvinssås
+      - Fiskfärsbiffar, potatispuré & räkröra
+      - Vegetariska kåldolmar, gräddsås & potatis
 price: Pris 120 kr inkl kaffe
 ---
