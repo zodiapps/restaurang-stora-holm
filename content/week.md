@@ -6,15 +6,15 @@ menu:
       - STÄNGT
   - weekday: "2"
     options:
-      - Örtbakad fisk, smörstekt jordärtskocka & dillsås
-      - Gnocchi, kikärtsbiffar & örtkräm
+      - "Stekt strömming, potatispuré & lingon "
+      - Rödbetsbiffar, rostad potatis & fetaost
   - weekday: "3"
     options:
-      - "Schnitzel, rödvinssås & rostad potatis "
-      - "Falafel, rostade rotfrukter &  korianderyoghurt "
+      - Gulasch, kumminyoghurt & potatis
+      - Panerad blomkål, rostade rotfrukter & persiljekräm
   - weekday: "4"
     options:
-      - Fiskfärsbiffar, potatispuré & räkröra
-      - Vegetariska kåldolmar, gräddsås & potatis
+      - Halstrad lax, citronkräm & örtpotatis
+      - Linsgryta, stekt grönsaksris & korianderyoghurt
 price: Pris 120 kr inkl kaffe
 ---
