@@ -1,20 +1,20 @@
 ---
-number: 2
+number: 3
 menu:
   - weekday: "1"
     options:
       - STÄNGT
   - weekday: "2"
     options:
-      - Isterband, potatis & rödbeta
-      - Panerad getost, rostade rotfrukter & örtkräm
+      - Panerad fisk, dansk remoulade & brynt smörpotatis
+      - Panerad zucchini, inlagd chili & rödbetshummus
   - weekday: "3"
     options:
-      - Pocherad fisk, brynt smörsås & ramslök
-      - Linslasagne, kålsallad & ostchips
+      - Lasagne, parmesan & örtkräm
+      - Kikärtsbiff, picklad morot, rostad potatis & honungssmetana
   - weekday: "4"
     options:
-      - Pluma, rödvinssås & Palsternackspuré
-      - Vegetarisk böntaco med ananassalsa & koriander
+      - Laxfärsbiff, potatispuré & fänkålsslaw
+      - Svampgryta, potatispuré & persiljerot
 price: Pris 120 kr inkl kaffe
 ---
