@@ -16,11 +16,9 @@ menu:
     options:
       - Fiskgratäng med ramslök och räkor
       - Linsgryta, ris & limeyoghurt
-  - options:
-      - Helgkasse
+      - "Helgkasse (310kr):"
       - Jordärtskocksoppa, ramslöksolja & svartkål
       - Entrecote, rödvinssås & pommes anna
       - Mjölkchokladkräm med apelsin & hasselnötter
-    weekday: "4"
 price: Pris 120 kr inkl kaffe
 ---
