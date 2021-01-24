@@ -14,7 +14,7 @@ menu:
       - Ärtbiff, rostad vitlökskräm & palsternacka
   - weekday: "4"
     options:
-      - Fiskgratäng med ramslök och räkor
+      - Fiskgratäng med räkor och ramslök
       - Linsgryta, ris & limeyoghurt
       - "Helgkasse (310kr):"
       - Jordärtskocksoppa, ramslöksolja & svartkål
