@@ -18,7 +18,7 @@ menu:
       - Linsgryta, ris & limeyoghurt
       - "Helgkasse (310kr):"
       - Jordärtskocksoppa, ramslöksolja & svartkål
-      - Entrecote, rödvinssås & pommes anna
+      - Slaktarbiff från bondens skafferi, rödvinssås & pommes anna
       - Mjölkchokladkräm med apelsin & hasselnötter
 price: Pris 120 kr inkl kaffe
 ---
