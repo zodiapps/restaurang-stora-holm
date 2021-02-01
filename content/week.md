@@ -19,6 +19,6 @@ menu:
       - "Helgkasse (305kr):"
       - Räkröra, friterat tunnbröd & krasse
       - Fisk med brynt smörsås, dillolja & potatis
-      - Bärpaj med vaniljsås och rostad vit choklad
+      - Äppelpaj med vaniljsås och rostad vit choklad
 price: Pris 120 kr inkl kaffe
 ---
