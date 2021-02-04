@@ -109,7 +109,7 @@ export default {
   fontawesome: {
     icons: {
       solid: ['faEnvelope', 'faPhone', 'faMapMarkerAlt'],
-      brands: ['faFacebook'],
+      brands: ['faFacebook', 'faInstagram'],
     },
   },
 }

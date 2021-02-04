@@ -10,6 +10,8 @@ footer
       font-awesome-icon(:icon='["fas", "map-marker-alt"]')
     a(:href='data.facebook', target='_blank')
       font-awesome-icon(:icon='["fab", "facebook"]')
+    a(:href='data.instagram', target='_blank')
+      font-awesome-icon(:icon='["fab", "instagram"]')
 </template>
 
 <script lang="ts">
