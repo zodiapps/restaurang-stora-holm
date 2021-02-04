@@ -1,6 +1,5 @@
 <template lang="pug">
-  .layout
-    Nuxt
+Nuxt
 </template>
 
 <style lang="scss">
@@ -12,7 +11,6 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
-  background: url('~assets/background.jpg') #a19d93;
   background-size: cover;
 }
 
@@ -33,7 +31,7 @@ h2 {
   margin: 2rem 0 1.5rem 0;
 }
 
-.layout {
+/* .layout {
   margin: 0 auto;
   max-width: 920px;
   min-height: 100vh;
@@ -43,5 +41,5 @@ h2 {
   @screen sm {
     padding: 4rem 4rem;
   }
-}
+} */
 </style>

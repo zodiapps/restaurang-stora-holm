@@ -1,17 +1,18 @@
 <template lang="pug">
-footer
-  h2 Kontakta oss
-  address
-    a(:href='"tel:" + data.phone')
-      font-awesome-icon(:icon='["fas", "phone"]')
-    a(:href='"mailto:" + data.email')
-      font-awesome-icon(:icon='["fas", "envelope"]')
-    a(:href='data.address', target='_blank')
-      font-awesome-icon(:icon='["fas", "map-marker-alt"]')
-    a(:href='data.facebook', target='_blank')
-      font-awesome-icon(:icon='["fab", "facebook"]')
-    a(:href='data.instagram', target='_blank')
-      font-awesome-icon(:icon='["fab", "instagram"]')
+footer.bg-yellow-400
+  .container.mx-auto.px-4
+    h2 Kontakta oss
+    address.d-flex.text-xl
+      a.p-3.sm_px-6(:href='"tel:" + data.phone')
+        font-awesome-icon(:icon='["fas", "phone"]')
+      a.p-3.sm_px-6(:href='"mailto:" + data.email')
+        font-awesome-icon(:icon='["fas", "envelope"]')
+      a.p-3.sm_px-6(:href='data.address', target='_blank')
+        font-awesome-icon(:icon='["fas", "map-marker-alt"]')
+      a.p-3.sm_px-6(:href='data.facebook', target='_blank')
+        font-awesome-icon(:icon='["fab", "facebook"]')
+      a.p-3.sm_px-6(:href='data.instagram', target='_blank')
+        font-awesome-icon(:icon='["fab", "instagram"]')
 </template>
 
 <script lang="ts">
@@ -26,19 +27,3 @@ export default Vue.extend({
   },
 })
 </script>
-
-<style lang="scss" scoped>
-footer {
-  address {
-    font-size: 1.5rem;
-
-    a {
-      padding: 1rem;
-
-      @screen sm {
-        padding: 1rem 2rem;
-      }
-    }
-  }
-}
-</style>
