@@ -50,4 +50,5 @@ collections:
           - { label: 'Telefonnummer', name: 'phone', widget: 'string' }
           - { label: 'Email', name: 'email', widget: 'string' }
           - { label: 'Facebook länk', name: 'facebook', widget: 'string' }
+          - { label: 'Instagram länk', name: 'instagram', widget: 'string' }
 media_folder: 'assets/images/uploads' # Media files will be stored in the repo under assets/images/uploads

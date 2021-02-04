@@ -1,19 +1,19 @@
 <template lang="pug">
-  div.page
-    header
-      img(src="~/assets/logo.jpg" alt="Restaurang Stora Holm")
-    main
-      article.menu
-        h2 Lunchmeny (vecka {{ week.number }})
-        table
-          tbody
-            tr(v-for="(day) in week.menu" v-if="day")
-              td {{ day.weekday | weekday }}
-              td
-                ul
-                  li(v-for="option in day.options") {{ option }}
-        p {{ week.price }}
-    TheFooter.footer(:data="contact")
+.page
+  header
+    img(src='~/assets/logo.jpg', alt='Restaurang Stora Holm')
+  main
+    article.menu
+      h2 Lunchmeny (vecka {{ week.number }})
+      table
+        tbody
+          tr(v-for='day in week.menu', v-if='day')
+            td {{ day.weekday | weekday }}
+            td
+              ul
+                li(v-for='option in day.options') {{ option }}
+      p {{ week.price }}
+  TheFooter.footer(:data='contact')
 </template>
 
 <script lang="ts">
