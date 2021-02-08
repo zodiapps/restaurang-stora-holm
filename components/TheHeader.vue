@@ -1,7 +1,7 @@
 <template lang="pug">
-header.bg-yellow-200
+header.py-8.bg-yellow-200
   .container.mx-auto.px-4
-    img.max-w-sm(src='~/assets/logo.jpg', alt='Restaurang Stora Holm')
+    img.w-full.max-w-sm(src='~/assets/logo.png', alt='Restaurang Stora Holm')
 </template>
 
 <script lang="ts">

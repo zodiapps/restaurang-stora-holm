@@ -2,7 +2,7 @@
 footer.bg-yellow-400
   .container.mx-auto.px-4
     h2 Kontakta oss
-    address.d-flex.text-xl
+    address.flex.sm_-mx-6.text-xl
       a.p-3.sm_px-6(:href='"tel:" + data.phone')
         font-awesome-icon(:icon='["fas", "phone"]')
       a.p-3.sm_px-6(:href='"mailto:" + data.email')
