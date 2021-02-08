@@ -3,7 +3,7 @@ number: 5
 menu:
   - weekday: "1"
     options:
-      - STÄNGT
+      - Stängt
   - weekday: "2"
     options:
       - Fläsksida, skysås & morotspuré
