@@ -6,19 +6,18 @@ menu:
       - STÄNGT
   - weekday: "2"
     options:
-      - Slaktarbiff, dragonkräm & rostade rotsaker
-      - Risotto med chevre och inlagd tomat
+      - Fläsksida, skysås & morotspuré
+      - Ärtbiff, couscous & chimichurriyoghurt
   - weekday: "3"
     options:
-      - Dagens fångst, brynt smörsås & smörade grönsaker
-      - Falafelwrap med hummus och syrade grönsaker
+      - Pankopanerad fisk, dansk remoulade och potatis
+      - Panerad rotselleri, brynt hollandaisesås & äpple
   - weekday: "4"
     options:
-      - Majskyckling, kumminrostad potatis & citronyoghurt
-      - Svampbiff, blomkålspuré och brynt salviasmör
-      - "Helgkasse (305kr):"
-      - Räkröra, friterat tunnbröd & krasse
-      - Fisk med brynt smörsås, dillolja & potatis
-      - Äppelpaj med vaniljsås och rostad vit choklad
-price: Pris 120 kr inkl kaffe
+      - Färsbiff, karamelliserad lök & gräddsås
+      - Morotsbiffar med halloumi & polentarostade grönsaker
+price: Gårdens fisksoppa med skaldjur och fänkål Jordärtskockssoppa med ramslök
+  Burgare med ost, karamelliserad lök & kålsallad  Melodikryss & frukost mellan
+  9.30 och 10.45 på lördag Ring och boka på 0706028569 så vi kan duka med mycket
+  avstånd.
 ---
