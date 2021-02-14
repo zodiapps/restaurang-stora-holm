@@ -1,20 +1,21 @@
 ---
-number: 5
+number: 7
 menu:
   - weekday: "1"
     options:
-      - Stängt
+      - Extraöppet! Vi bakar semlor
   - weekday: "2"
     options:
-      - Fläsksida, skysås & morotspuré
-      - Ärtbiff, couscous & chimichurriyoghurt
+      - Panerad fisk, kålsallad, dillkräm & morot
+      - Svampomelett, semitorkad tomat & dragonmajonnäs
+      - "Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon"
   - weekday: "3"
     options:
-      - Pankopanerad fisk, dansk remoulade och potatis
-      - Panerad rotselleri, brynt hollandaisesås & äpple
+      - Sotad lax, panerad pumpa & örtkräm
+      - Färskostbakad portabello, grillad kål & brynt smörsås
   - weekday: "4"
     options:
-      - Färsbiff, karamelliserad lök & gräddsås
-      - Morotsbiffar med halloumi & polentarostade grönsaker
+      - Pocherad fisk, sandefjordsås, krossad potatis med brynt smör
+      - Confiterad rotselleri, jordärtskockspuré och svamp
 price: Info om helgkasse och helgmeny hittar du på vår instagram och facebooksida.
 ---
