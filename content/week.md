@@ -13,9 +13,11 @@ menu:
     options:
       - Sotad lax, panerad pumpa & örtkräm
       - Färskostbakad portabello, grillad kål & brynt smörsås
+      - "Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon"
   - weekday: "4"
     options:
       - Pocherad fisk, sandefjordsås, krossad potatis med brynt smör
       - Confiterad rotselleri, jordärtskockspuré och svamp
+      - "Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon"
 price: Info om helgkasse och helgmeny hittar du på vår instagram och facebooksida.
 ---
