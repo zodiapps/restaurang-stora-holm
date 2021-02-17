@@ -1,6 +1,6 @@
 <template lang="pug">
-footer.bg-yellow-400
-  .container.mx-auto.px-4
+footer
+  .container.mx-auto.border-t.py-8.px-4
     h2 Kontakta oss
     address.flex.sm_-mx-6.text-xl
       a.p-3.sm_px-6(:href='"tel:" + data.phone')

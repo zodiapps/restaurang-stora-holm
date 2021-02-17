@@ -1,6 +1,6 @@
 <template lang="pug">
-header.py-8.bg-yellow-200
-  .container.mx-auto.px-4
+header
+  .container.mx-auto.py-8.px-4.border-b
     img.w-full.max-w-sm(src='~/assets/logo.png', alt='Restaurang Stora Holm')
 </template>
 
