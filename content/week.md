@@ -1,23 +1,29 @@
 ---
 number: 7
 menu:
-  - weekday: '1'
+  - weekday: "1"
     options:
       - Extraöppet! Vi bakar semlor
-  - weekday: '2'
+  - weekday: "2"
     options:
       - Panerad fisk, kålsallad, dillkräm & morot
       - Svampomelett, semitorkad tomat & dragonmajonnäs
-      - 'Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon'
-  - weekday: '3'
+      - "Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon"
+  - weekday: "3"
     options:
       - Sotad lax, panerad pumpa & örtkräm
       - Färskostbakad portabello, grillad kål & brynt smörsås
-      - 'Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon'
-  - weekday: '4'
+      - "Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon"
+  - weekday: "4"
     options:
       - Pocherad fisk, sandefjordsås, krossad potatis med brynt smör
       - Confiterad rotselleri, jordärtskockspuré och svamp
-      - 'Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon'
+      - "Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon"
 price: Info om helgkasse och helgmeny hittar du på vår instagram och facebooksida.
 ---
+## Testar
+
+hej
+
+1. hej
+2. o hå
