@@ -1,5 +1,5 @@
 <template lang="pug">
-article.menu
+article
   h2 Lunchmeny (vecka {{ week.number }})
   table
     tbody
@@ -25,6 +25,10 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
+article {
+  @apply my-4 flex flex-col;
+}
+
 table {
   $border-spacing: 1rem;
 
@@ -32,15 +36,17 @@ table {
   border-collapse: separate;
   margin-left: -$border-spacing;
   margin-right: -$border-spacing;
-  margin-bottom: 2rem;
   border-spacing: $border-spacing;
 }
 
 td {
-  vertical-align: baseline;
+  @apply align-baseline;
+
   ul {
+    @apply list-none;
+
     li {
-      margin-bottom: 0.7em;
+      @apply mb-3;
     }
   }
 }

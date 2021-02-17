@@ -22,24 +22,26 @@ html {
 }
 
 h1 {
-  font-size: 2rem;
-  margin-bottom: 2rem;
+  @apply text-3xl pt-4 pb-5;
 }
 
 h2 {
-  font-size: 1.6rem;
-  margin: 2rem 0 1.5rem 0;
+  @apply text-2xl pt-3 pb-4;
 }
 
-/* .layout {
-  margin: 0 auto;
-  max-width: 920px;
-  min-height: 100vh;
-  background: white;
-  padding: 3rem 1rem;
+h3 {
+  @apply text-xl pt-2 pb-3 font-bold;
+}
 
-  @screen sm {
-    padding: 4rem 4rem;
-  }
-} */
+h4 {
+  @apply text-lg pt-2 pb-2 font-bold;
+}
+
+ul {
+  @apply list-decimal list-inside;
+}
+
+ol {
+  @apply list-disc list-inside;
+}
 </style>
