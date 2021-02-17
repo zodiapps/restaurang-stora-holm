@@ -8,7 +8,7 @@ article.menu
         td
           ul
             li(v-for='option in day.options') {{ option }}
-  p {{ week.price }}
+  nuxt-content(:document='post')
 </template>
 
 <script lang="ts">

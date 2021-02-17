@@ -38,6 +38,7 @@ collections:
                 summary: '{{fields.option}}'
                 field:
                   { label: 'Beskrivning', name: 'option', widget: 'string' }
+          - { label: 'Brödtext', name: 'body', widget: 'markdown' }
       - label: 'Kontaktinformation'
         name: 'contact'
         file: 'content/contact.md'
