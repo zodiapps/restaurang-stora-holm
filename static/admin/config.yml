@@ -8,6 +8,7 @@ collections:
       - label: 'Veckans meny'
         name: 'week'
         file: 'content/week.md'
+        format: 'frontmatter'
         fields:
           - label: 'Veckonummer'
             name: 'number'
@@ -37,11 +38,6 @@ collections:
                 summary: '{{fields.option}}'
                 field:
                   { label: 'Beskrivning', name: 'option', widget: 'string' }
-          - label: 'Pris'
-            name: 'price'
-            widget: 'string'
-            required: false
-            default: 'Pris 120 kr inkl kaffe'
       - label: 'Kontaktinformation'
         name: 'contact'
         file: 'content/contact.md'
