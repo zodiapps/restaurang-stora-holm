@@ -1,8 +1,9 @@
 <template lang="pug">
 header
   .container
-    img(src='~/assets/logo.png', alt='Restaurang Stora Holm')
-    AppSocial.social(:data='social')
+    NuxtLink(to='/')
+      img(src='~/assets/logo.png', alt='Restaurang Stora Holm')
+    AppSocial.social(v-if='social', :data='social')
 </template>
 
 <script lang="ts">
@@ -12,7 +13,6 @@ export default Vue.extend({
   props: {
     social: {
       type: Object,
-      required: true,
     },
   },
 })

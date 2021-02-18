@@ -26,7 +26,7 @@ export default Vue.extend({
 
 <style lang="scss" scoped>
 article {
-  @apply my-4 flex flex-col;
+  @apply flex flex-col;
 }
 
 table {

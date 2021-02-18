@@ -1,10 +1,6 @@
 <template lang="pug">
-.min-h-screen.flex.flex-col
-  TheHeader(:social='contact')
-  main.container.mx-auto.flex-1.py-4.px-4
-    TheSiteNavigation.mb-6(:pages='pages')
-    TheLunchMenu(:week='week')
-  TheFooter(:social='contact')
+div
+  TheLunchMenu(:week='week')
 </template>
 
 <script lang="ts">
@@ -12,11 +8,9 @@ import Vue from 'vue'
 
 export default Vue.extend({
   async asyncData({ $content }) {
-    const [week, contact, pages] = await Promise.all([
+    const [week, pages] = await Promise.all([
       $content('week').fetch(),
-      $content('contact').fetch(),
       $content('pages')
-        .only(['title', 'description', 'slug', 'thumbnail'])
         .fetch()
         // eslint-disable-next-line no-console
         .catch(console.error),
@@ -24,9 +18,15 @@ export default Vue.extend({
 
     return {
       week,
-      contact,
       pages,
     }
+  },
+  transition(to, from) {
+    console.log({ to, from })
+    if (!from) {
+      return 'slide-left'
+    }
+    return +to.query.page < +from.query.page ? 'slide-right' : 'slide-left'
   },
   head() {
     return {

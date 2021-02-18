@@ -2,7 +2,7 @@
 footer
   .container.mx-auto.border-t.py-8.px-4
     h2 Kontakta oss
-    AppSocial(:data='social')
+    AppSocial(v-if='social', :data='social')
 </template>
 
 <script lang="ts">
@@ -12,7 +12,6 @@ export default Vue.extend({
   props: {
     social: {
       type: Object,
-      required: true,
     },
   },
 })

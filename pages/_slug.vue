@@ -7,7 +7,7 @@ import Vue from 'vue'
 
 export default Vue.extend({
   async asyncData({ $content, params }) {
-    const page = await $content(`articles/${params.slug}`).fetch()
+    const page = await $content(`pages/${params.slug}`).fetch()
 
     return {
       page,
