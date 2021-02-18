@@ -16,7 +16,7 @@ import Vue from 'vue'
 export default Vue.extend({
   props: {
     pages: {
-      type: Object,
+      type: Array,
       default() {
         return []
       },
