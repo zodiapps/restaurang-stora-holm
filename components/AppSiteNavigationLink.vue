@@ -31,7 +31,7 @@ export default Vue.extend({
 
 <style lang="scss" scoped>
 a {
-  @apply relative py-8 px-4 flex flex-col shadow-lg rounded-md border border-gray-100 border-solid overflow-hidden transition-shadow duration-200;
+  @apply relative py-8 px-4 flex flex-col shadow-lg rounded-md overflow-hidden transition-shadow duration-200;
 
   img {
     @apply absolute top-0 left-0 right-0 bottom-0 w-full h-full object-cover opacity-25 transition-opacity duration-150;

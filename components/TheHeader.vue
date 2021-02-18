@@ -3,7 +3,7 @@ header
   .container
     NuxtLink(to='/')
       img(src='~/assets/logo.png', alt='Restaurang Stora Holm')
-    AppSocial.social(v-if='social', :data='social')
+    AppSocial.social(v-if='social', :data='headerSocial')
 </template>
 
 <script lang="ts">
@@ -13,6 +13,14 @@ export default Vue.extend({
   props: {
     social: {
       type: Object,
+    },
+  },
+  computed: {
+    headerSocial() {
+      if (this.social) {
+        const { facebook, instagram } = this.social
+        return { facebook, instagram }
+      }
     },
   },
 })
@@ -27,7 +35,7 @@ export default Vue.extend({
   }
 
   .social {
-    @apply hidden;
+    @apply hidden w-16;
 
     @screen md {
       @apply flex;
