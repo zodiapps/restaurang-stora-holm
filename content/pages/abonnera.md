@@ -1,7 +1,7 @@
 ---
 title: Abonnera
 description: Ordna ert event hos oss
-thumbnail: /assets/images/uploads/stora_holm_4.jpg
+thumbnail: /assets/images/uploads/stora_holm_3.jpg
 ---
 # Sidan håller på att fixas
 
