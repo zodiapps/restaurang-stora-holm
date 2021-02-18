@@ -44,4 +44,8 @@ ul {
 ol {
   @apply list-disc list-inside;
 }
+
+p {
+  @apply mb-4;
+}
 </style>

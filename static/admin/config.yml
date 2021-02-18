@@ -2,8 +2,22 @@ backend:
   name: 'git-gateway'
   branch: 'develop'
 collections:
-  - label: 'Pages'
+  - label: 'Sidor'
     name: 'pages'
+    folder: 'content/pages'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Navigations-rubrik', name: 'title', widget: 'string' }
+      - {
+          label: 'Navigations-beskrivning',
+          name: 'description',
+          widget: 'string',
+        }
+      - { label: 'Brödtext', name: 'body', widget: 'markdown' }
+  - label: 'Annat'
+    name: 'misc'
     files:
       - label: 'Veckans meny'
         name: 'week'
