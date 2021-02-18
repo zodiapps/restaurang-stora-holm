@@ -3,10 +3,10 @@ nav
   AppSiteNavigationLink(
     v-for='(page, index) in pages',
     :key='page.slug',
-    :to='page.slug',
+    :to='page.title',
     :title='page.title',
     :subtitle='page.description',
-    :imageUrl='require(`~/assets/stora_holm_${index}.jpg`)'
+    :imageUrl='page.thumbnail'
   )
 </template>
 

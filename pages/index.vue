@@ -16,7 +16,7 @@ export default Vue.extend({
       $content('week').fetch(),
       $content('contact').fetch(),
       $content('pages')
-        .only(['title', 'description'])
+        .only(['title', 'description', 'slug', 'thumbnail'])
         .fetch()
         // eslint-disable-next-line no-console
         .catch(console.error),

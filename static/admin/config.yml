@@ -8,14 +8,21 @@ collections:
     format: 'frontmatter'
     create: true
     slug: '{{slug}}'
+    editor:
+      preview: false
     fields:
-      - { label: 'Navigations-rubrik', name: 'title', widget: 'string' }
-      - {
-          label: 'Navigations-beskrivning',
-          name: 'description',
-          widget: 'string',
-        }
-      - { label: 'Brödtext', name: 'body', widget: 'markdown' }
+      - label: 'Navigations-rubrik'
+        name: 'title'
+        widget: 'string'
+      - label: 'Navigations-beskrivning'
+        name: 'description'
+        widget: 'string'
+      - label: 'Navigations-bild'
+        name: 'thumbnail'
+        widget: 'image'
+      - label: 'Brödtext'
+        name: 'body'
+        widget: 'markdown'
   - label: 'Annat'
     name: 'misc'
     files:
