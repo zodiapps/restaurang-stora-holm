@@ -15,7 +15,11 @@ export default Vue.extend({
     const [week, contact, pages] = await Promise.all([
       $content('week').fetch(),
       $content('contact').fetch(),
-      $content('pages').only(['title', 'description']).fetch(),
+      $content('pages')
+        .only(['title', 'description'])
+        .fetch()
+        // eslint-disable-next-line no-console
+        .catch(console.error),
     ])
 
     return {

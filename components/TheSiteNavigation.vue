@@ -2,6 +2,7 @@
 nav
   AppSiteNavigationLink(
     v-for='(page, index) in pages',
+    :key='page.slug',
     :to='page.slug',
     :title='page.title',
     :subtitle='page.description',
