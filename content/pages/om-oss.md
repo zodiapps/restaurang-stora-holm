@@ -1,7 +1,7 @@
 ---
 title: Om oss
 description: Hitta hit
-thumbnail: /assets/images/uploads/stora_holm_2.jpg
+thumbnail: /assets/images/uploads/stora_holm_4.jpg
 ---
 # Sidan håller på att fixas
 
