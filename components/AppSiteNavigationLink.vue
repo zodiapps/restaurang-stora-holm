@@ -1,6 +1,6 @@
 <template lang="pug">
 NuxtLink(:to='to')
-  img(:src='imageUrl')
+  img(:src='require(imageUrl)')
   h3 {{ title }}
   p {{ subtitle }}
 </template>
