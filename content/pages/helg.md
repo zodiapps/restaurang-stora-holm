@@ -1,7 +1,7 @@
 ---
 title: Helg
 description: Läs mer om helgkasse och helgmeny
-thumbnail: /assets/images/uploads/stora_holm_3.jpg
+thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 # Sidan håller på att fixas
 
