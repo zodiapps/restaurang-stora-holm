@@ -3,7 +3,7 @@
   TheHeader(:social='contact')
   main.container.mx-auto.flex-1.py-4.px-4
     TheSiteNavigation.mb-6(:navigation='navigation')
-    Nuxt
+    Nuxt(:nuxt-child-key='routerViewKey', keep-alive)
   TheFooter(:social='contact')
 </template>
 
@@ -27,6 +27,13 @@ export default Vue.extend({
       contact: null as any,
       navigation: [] as Result[],
     }
+  },
+  computed: {
+    routerViewKey() {
+      const key = this.$route.fullPath
+      console.log('Route key:', key)
+      return key
+    },
   },
 })
 </script>
