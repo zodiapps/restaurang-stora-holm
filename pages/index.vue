@@ -10,10 +10,7 @@ export default Vue.extend({
   async asyncData({ $content }) {
     const [week, pages] = await Promise.all([
       $content('week').fetch(),
-      $content('pages')
-        .fetch()
-        // eslint-disable-next-line no-console
-        .catch(console.error),
+      $content('pages').fetch(),
     ])
 
     return {
