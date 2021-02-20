@@ -13,18 +13,35 @@ collections:
     editor:
       preview: false
     fields:
-      - label: 'Navigations-rubrik'
+      - label: 'Rubrik'
         name: 'title'
         widget: 'string'
-      - label: 'Navigations-beskrivning'
-        name: 'description'
-        widget: 'string'
-      - label: 'Navigations-bild'
-        name: 'thumbnail'
-        widget: 'image'
       - label: 'Brödtext'
         name: 'body'
         widget: 'markdown'
+  - label: 'Navigation'
+    name: 'navigation'
+    folder: 'content/navigation'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: 'Rubrik'
+        name: 'title'
+        widget: 'string'
+      - label: 'Beskrivning'
+        name: 'description'
+        widget: 'string'
+      - label: 'Bild'
+        name: 'thumbnail'
+        widget: 'image'
+      - label: 'Länk'
+        name: 'link'
+        widget: 'relation'
+        collection: 'pages'
+        search_fields: ['title']
+        value_field: '{{slug}}'
+        display_fields: ['title']
   - label: 'Annat'
     name: 'misc'
     files:

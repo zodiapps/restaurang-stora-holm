@@ -1,12 +1,12 @@
 <template lang="pug">
 nav
   AppSiteNavigationLink(
-    v-for='(page, index) in pages',
-    :key='page.slug',
-    :to='page.slug',
-    :title='page.title',
-    :subtitle='page.description',
-    :imageUrl='page.thumbnail'
+    v-for='(item, index) in navigation',
+    :key='item.slug',
+    :to='item.link',
+    :title='item.title',
+    :subtitle='item.description',
+    :imageUrl='item.thumbnail'
   )
 </template>
 
@@ -15,7 +15,7 @@ import Vue from 'vue'
 
 export default Vue.extend({
   props: {
-    pages: {
+    navigation: {
       type: Array,
       default() {
         return []

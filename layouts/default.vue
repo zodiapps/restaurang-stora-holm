@@ -2,7 +2,7 @@
 .min-h-screen.flex.flex-col
   TheHeader(:social='contact')
   main.container.mx-auto.flex-1.py-4.px-4
-    TheSiteNavigation.mb-6(:pages='pages')
+    TheSiteNavigation.mb-6(:navigation='navigation')
     Nuxt
   TheFooter(:social='contact')
 </template>
@@ -13,19 +13,19 @@ import Vue from 'vue'
 
 export default Vue.extend({
   async fetch() {
-    const [contact, pages] = await Promise.all([
+    const [contact, navigation] = await Promise.all([
       this.$content('contact').fetch(),
-      this.$content('pages')
-        .only(['title', 'description', 'slug', 'thumbnail'])
+      this.$content('navigation')
+        .only(['title', 'description', 'link', 'slug', 'thumbnail'])
         .fetch(),
     ])
     this.contact = contact
-    this.pages = pages as Result[]
+    this.navigation = navigation as Result[]
   },
   data() {
     return {
       contact: null as any,
-      pages: [] as Result[],
+      navigation: [] as Result[],
     }
   },
 })

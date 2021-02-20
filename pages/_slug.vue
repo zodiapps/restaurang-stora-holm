@@ -1,5 +1,7 @@
 <template lang="pug">
-nuxt-content(:document='page')
+article
+  h1 {{ page.title }}
+  nuxt-content(:document='page')
 </template>
 
 <script lang="ts">
