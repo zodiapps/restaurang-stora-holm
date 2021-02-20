@@ -1,7 +1,7 @@
 ---
 title: Catering
 description: Vi erbjuder catering
-thumbnail: /assets/images/uploads/stora_holm_1.jpg
+thumbnail: /images/uploads/stora_holm_3.jpg
 ---
 # Sidan håller på att fixas
 
