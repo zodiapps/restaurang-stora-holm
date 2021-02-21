@@ -9,36 +9,32 @@
   )
   main.container.mx-auto.flex-1.py-4.px-4
     .hidden.md_block
-      AppSiteNavigation.mb-6(:navigation='navigation')
+      AppSiteNavigation.mb-6(:items='navigation.items')
     Nuxt
   TheFooter(:social='contact')
 </template>
 
 <script lang="ts">
-import { Result } from '@nuxt/content'
 import Vue from 'vue'
 
 export default Vue.extend({
   async fetch() {
     const [contact, navigation] = await Promise.all([
       this.$content('contact').fetch(),
-      this.$content('navigation')
-        .only(['title', 'description', 'link', 'slug', 'thumbnail'])
-        .fetch(),
+      this.$content('navigation').fetch(),
     ])
     this.contact = contact
-    this.navigation = navigation as Result[]
+    this.navigation = navigation
   },
   data() {
     return {
       menu: false,
       contact: null as any,
-      navigation: [] as Result[],
+      navigation: null as any,
     }
   },
   methods: {
     onToggleMenu() {
-      console.log('toggle')
       this.menu = !this.menu
     },
   },

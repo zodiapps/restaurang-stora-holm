@@ -19,43 +19,47 @@ collections:
       - label: 'Brödtext'
         name: 'body'
         widget: 'markdown'
-  - label: 'Navigation'
-    name: 'navigation'
-    folder: 'content/navigation'
-    create: true
+  - label: 'Diverse'
+    name: 'misc'
     editor:
       preview: false
-    fields:
-      - label: 'Rubrik'
-        name: 'title'
-        widget: 'string'
-      - label: 'Beskrivning'
-        name: 'description'
-        widget: 'string'
-      - label: 'Bild'
-        name: 'thumbnail'
-        widget: 'image'
-      - label: 'Länk'
-        name: 'link'
-        widget: 'relation'
-        collection: 'pages'
-        search_fields: ['title']
-        value_field: '{{slug}}'
-        display_fields: ['title']
-  - label: 'Annat'
-    name: 'misc'
     files:
+      - label: 'Navigation'
+        name: 'navigation'
+        file: 'content/navigation.md'
+        fields:
+          - label: 'Titel'
+            name: 'title'
+            widget: 'string'
+          - label: 'Länkar'
+            name: 'items'
+            widget: 'list'
+            summary: '{{fields.title}}'
+            fields:
+              - label: 'Rubrik (i mobil-meny)'
+                name: 'title'
+                widget: 'string'
+              - label: 'Beskrivning'
+                name: 'description'
+                widget: 'string'
+              - label: 'Bild'
+                name: 'thumbnail'
+                widget: 'image'
+              - label: 'Länk'
+                name: 'link'
+                widget: 'relation'
+                collection: 'pages'
+                search_fields: ['title']
+                value_field: '{{slug}}'
+                display_fields: ['title']
       - label: 'Veckans meny'
         name: 'week'
         file: 'content/week.md'
         format: 'frontmatter'
         fields:
-          - label: 'Veckonummer'
-            name: 'number'
-            widget: 'number'
-            value_type: 'int'
-            min: 1
-            max: 52
+          - label: 'Titel'
+            name: 'title'
+            widget: 'string'
           - label: 'Meny'
             name: 'menu'
             widget: 'list'

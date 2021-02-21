@@ -1,5 +1,5 @@
 ---
-number: 7
+title: 'Lunchmeny (vecka 7)'
 menu:
   - weekday: '1'
     options:
@@ -19,5 +19,6 @@ menu:
       - Pocherad fisk, sandefjordsås, krossad potatis med brynt smör
       - Confiterad rotselleri, jordärtskockspuré och svamp
       - 'Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon'
-price: Info om helgkasse och helgmeny hittar du på vår instagram och facebooksida.
 ---
+
+Info om helgkasse och helgmeny hittar du på vår instagram och facebooksida.

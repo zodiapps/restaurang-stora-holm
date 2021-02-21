@@ -1,6 +1,6 @@
 <template lang="pug">
 article
-  h2 Lunchmeny (vecka {{ week.number }})
+  h2 {{ week.title }}
   table
     tbody
       tr(v-for='day in week.menu', v-if='day')

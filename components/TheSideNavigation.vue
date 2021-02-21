@@ -7,8 +7,8 @@ div
       .header
         button(@click='$emit("hide")')
           img(:src='"~assets/cross.svg"')
-        h3 Meny
-      AppSiteNavigation(:navigation='navigation')
+        h3 {{ navigation.title }}
+      AppSiteNavigation(:items='navigation.items')
       AppSocial.social(:data='social')
 </template>
 
@@ -22,10 +22,7 @@ export default Vue.extend({
       default: false,
     },
     navigation: {
-      type: Array,
-      default() {
-        return []
-      },
+      type: Object,
     },
     social: {
       type: Object,
