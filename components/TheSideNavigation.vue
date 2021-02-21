@@ -9,6 +9,7 @@ div
           img(:src='"~assets/cross.svg"')
         h3 Meny
       AppSiteNavigation(:navigation='navigation')
+      AppSocial.social(:data='social')
 </template>
 
 <script lang="ts">
@@ -26,6 +27,9 @@ export default Vue.extend({
         return []
       },
     },
+    social: {
+      type: Object,
+    },
   },
 })
 </script>
@@ -38,7 +42,7 @@ export default Vue.extend({
 }
 
 aside.sidenav {
-  @apply h-full w-full max-w-sm fixed top-0 left-0 z-20 py-8 px-4 flex flex-col bg-white;
+  @apply h-full w-full max-w-sm fixed top-0 left-0 z-20 py-8 px-4 flex flex-col bg-white overscroll-none;
 
   .header {
     @apply mb-6 flex items-center;
@@ -50,6 +54,10 @@ aside.sidenav {
     h3 {
       @apply ml-6 p-0;
     }
+  }
+
+  .social {
+    @apply mt-8 w-full px-4;
   }
 }
 

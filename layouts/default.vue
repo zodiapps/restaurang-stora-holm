@@ -4,6 +4,7 @@
   TheSideNavigation(
     :show='menu',
     :navigation='navigation',
+    :social='contact',
     @hide='menu = false'
   )
   main.container.mx-auto.flex-1.py-4.px-4
