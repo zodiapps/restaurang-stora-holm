@@ -28,7 +28,7 @@ collections:
         name: 'navigation'
         file: 'content/navigation.md'
         fields:
-          - label: 'Titel'
+          - label: 'Titel (mobil)'
             name: 'title'
             widget: 'string'
           - label: 'Länkar'
@@ -36,7 +36,7 @@ collections:
             widget: 'list'
             summary: '{{fields.title}}'
             fields:
-              - label: 'Rubrik (i mobil-meny)'
+              - label: 'Rubrik'
                 name: 'title'
                 widget: 'string'
               - label: 'Beskrivning'
