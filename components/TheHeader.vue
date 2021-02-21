@@ -28,14 +28,14 @@ export default Vue.extend({
 
 <style lang="scss" scoped>
 .container {
-  @apply mx-auto py-8 px-4 flex justify-between items-end border-b;
+  @apply mx-auto py-8 px-4 flex justify-between items-center border-b;
 
   img {
-    @apply flex-grow max-w-sm;
+    @apply flex-grow w-full max-w-sm;
   }
 
   .social {
-    @apply hidden w-16;
+    @apply hidden w-16 ml-4 self-end;
 
     @screen md {
       @apply flex;
