@@ -42,7 +42,7 @@ export default Vue.extend({
 }
 
 aside.sidenav {
-  @apply h-full w-full max-w-sm fixed top-0 left-0 z-20 py-8 px-4 flex flex-col bg-white overscroll-none;
+  @apply h-full w-full max-w-sm fixed top-0 left-0 z-20 py-8 px-4 flex flex-col bg-white overflow-auto overscroll-none;
 
   .header {
     @apply mb-6 flex items-center;
