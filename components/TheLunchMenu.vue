@@ -30,10 +30,10 @@ article {
 }
 
 table {
+  @apply w-full border-separate;
+
   $border-spacing: 1rem;
 
-  width: 100%;
-  border-collapse: separate;
   margin-left: -$border-spacing;
   margin-right: -$border-spacing;
   border-spacing: $border-spacing;

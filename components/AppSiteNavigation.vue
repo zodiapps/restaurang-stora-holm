@@ -29,10 +29,6 @@ export default Vue.extend({
 nav {
   @apply grid gap-4 grid-cols-1;
 
-  @screen sm {
-    @apply grid-cols-2;
-  }
-
   @screen md {
     @apply grid-cols-4;
   }

@@ -1,8 +1,14 @@
 <template lang="pug">
 .min-h-screen.flex.flex-col
-  TheHeader(:social='contact')
+  TheHeader(:menu='menu', :social='contact', @toggleMenu='onToggleMenu()')
+  TheSideNavigation(
+    :show='menu',
+    :navigation='navigation',
+    @hide='menu = false'
+  )
   main.container.mx-auto.flex-1.py-4.px-4
-    TheSiteNavigation.mb-6(:navigation='navigation')
+    .hidden.md_block
+      AppSiteNavigation.mb-6(:navigation='navigation')
     Nuxt
   TheFooter(:social='contact')
 </template>
@@ -24,9 +30,21 @@ export default Vue.extend({
   },
   data() {
     return {
+      menu: false,
       contact: null as any,
       navigation: [] as Result[],
     }
+  },
+  methods: {
+    onToggleMenu() {
+      console.log('toggle')
+      this.menu = !this.menu
+    },
+  },
+  watch: {
+    $route() {
+      this.menu = false
+    },
   },
 })
 </script>
