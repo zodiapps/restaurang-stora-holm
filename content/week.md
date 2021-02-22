@@ -1,24 +1,25 @@
 ---
-title: 'Lunchmeny (vecka 7)'
+title: Lunchmeny (vecka 8)
 menu:
-  - weekday: '1'
+  - weekday: "1"
     options:
-      - Extraöppet! Vi bakar semlor
-  - weekday: '2'
+      - Stängt
+  - weekday: "2"
     options:
-      - Panerad fisk, kålsallad, dillkräm & morot
-      - Svampomelett, semitorkad tomat & dragonmajonnäs
-      - 'Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon'
-  - weekday: '3'
+      - Pankobakad torsk, citronmajonnäs & friterad kapris
+      - Svamprisotto med jordärtskockchips
+      - "Veckans kött: Schnitzel, örtkräm, friterad kapris & stekt potatis"
+  - weekday: "3"
     options:
-      - Sotad lax, panerad pumpa & örtkräm
-      - Färskostbakad portabello, grillad kål & brynt smörsås
-      - 'Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon'
-  - weekday: '4'
+      - Fiskfärsbiff, potatispuré & ärtor
+      - Rostad majsbiff, inlagd chili & koriander
+      - "Veckans kött: Schnitzel, örtkräm, friterad kapris & stekt potatis"
+  - weekday: "4"
     options:
-      - Pocherad fisk, sandefjordsås, krossad potatis med brynt smör
-      - Confiterad rotselleri, jordärtskockspuré och svamp
-      - 'Veckans kött: Wallenbergare, potatispuré, skirat smör & rårörda lingon'
+      - Vinpocherad fisk, dillpotatis och vitvinssås
+      - Kålknyte, jordnötskräm & rostade ärtor
+      - "Veckans kött: Schnitzel, örtkräm, friterad kapris & stekt potatis"
 ---
+Dagens fisk och vegetarisk 120:-
 
-Info om helgkasse och helgmeny hittar du på vår instagram och facebooksida.
+Veckans kött 145:-
