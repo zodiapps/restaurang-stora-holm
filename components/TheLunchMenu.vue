@@ -30,7 +30,7 @@ article {
 }
 
 table {
-  @apply w-full border-separate;
+  @apply border-separate;
 
   $border-spacing: 1rem;
 

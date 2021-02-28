@@ -15,5 +15,13 @@ export default Vue.extend({
       page,
     }
   },
+  transition(to, from) {
+    if (!from) {
+      return 'slide-left'
+    }
+    const fromIndex = from.query.i
+    const toIndex = to.query.i
+    return toIndex < fromIndex ? 'slide-right' : 'slide-left'
+  },
 })
 </script>

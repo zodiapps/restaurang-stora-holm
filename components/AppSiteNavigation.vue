@@ -4,6 +4,7 @@ nav
     v-for='(item, index) in items',
     :key='item.slug',
     :to='item.link',
+    :index='index',
     :title='item.title',
     :subtitle='item.description',
     :imageUrl='item.thumbnail'

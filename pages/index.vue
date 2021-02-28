@@ -18,13 +18,6 @@ export default Vue.extend({
       pages,
     }
   },
-  transition(to, from) {
-    console.log({ to, from })
-    if (!from) {
-      return 'slide-left'
-    }
-    return +to.query.page < +from.query.page ? 'slide-right' : 'slide-left'
-  },
   head() {
     return {
       script: [

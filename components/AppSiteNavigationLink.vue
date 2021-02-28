@@ -1,5 +1,5 @@
 <template lang="pug">
-NuxtLink(:to='to')
+NuxtLink(:to='link')
   img(:src='imageUrl')
   h3 {{ title }}
   p {{ subtitle }}
@@ -25,6 +25,14 @@ export default Vue.extend({
     imageUrl: {
       type: String,
     },
+    index: {
+      type: Number,
+    },
+  },
+  computed: {
+    link() {
+      return `${this.to}?i=${this.index}`
+    },
   },
 })
 </script>
@@ -44,12 +52,15 @@ a {
     @apply font-bold;
   }
 
+  &.nuxt-link-active,
   &:hover {
-    @apply shadow-xl;
-
     img {
       @apply opacity-50;
     }
+  }
+
+  &:hover {
+    @apply shadow-xl;
   }
 }
 </style>

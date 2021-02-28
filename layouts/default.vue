@@ -10,7 +10,8 @@
   main.container.mx-auto.flex-1.py-4.px-4
     .hidden.md_block
       AppSiteNavigation.mb-6(:items='navigation.items')
-    Nuxt
+    .relative
+      Nuxt
   TheFooter(:social='contact')
 </template>
 
@@ -97,7 +98,10 @@ p {
 .slide-left-leave-active,
 .slide-right-enter-active,
 .slide-right-leave-active {
-  transition-duration: 0.5s;
+  position: absolute;
+  left: 0;
+  right: 0;
+  transition-duration: 0.6s;
   transition-property: height, opacity, transform;
   transition-timing-function: cubic-bezier(0.55, 0, 0.1, 1);
   overflow: hidden;
@@ -106,12 +110,12 @@ p {
 .slide-left-enter,
 .slide-right-leave-active {
   opacity: 0;
-  transform: translateX(2em);
+  transform: translateX(20vw);
 }
 
 .slide-left-leave-active,
 .slide-right-enter {
   opacity: 0;
-  transform: translateX(-2em);
+  transform: translateX(-20vw);
 }
 </style>

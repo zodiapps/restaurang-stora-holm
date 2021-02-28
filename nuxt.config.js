@@ -113,4 +113,7 @@ export default {
       brands: ['faFacebook', 'faInstagram'],
     },
   },
+  pageTransition: {
+    mode: '',
+  },
 }
