@@ -11,9 +11,9 @@ menu:
       - "Veckans kött: Boeuf bourguignon med potatispuré"
   - weekday: "3"
     options:
-      - Fiskfärsbiff, potatispuré & ärtor
-      - Rostad majsbiff, inlagd chili & koriander
-      - "Veckans kött: Schnitzel, örtkräm, friterad kapris & stekt potatis"
+      - Torsk med äggsås och pepparrot
+      - Panerad zucchini med dansk remoulad
+      - "Veckans kött: Boeuf bourguignon med potatispuré"
   - weekday: "4"
     options:
       - Fisk med skaldjurssås och fänkålscrudité
