@@ -6,19 +6,19 @@ menu:
       - Stängt
   - weekday: "2"
     options:
-      - Kummel, tomatsås och bakad fänkål
-      - Falafel, rostad blomkål & yoghurt
-      - "Veckans kött: Boeuf bourguignon med potatispuré"
+      - Stekt strömming, potatispuré, lingon och skirat smör
+      - Panerad rotselleri, kaprismajonnäs och rostad potatis
+      - "Veckans kött: Hjortfärsbiff, svampsås, potatispuré och lingon"
   - weekday: "3"
     options:
-      - Torsk med äggsås och pepparrot
-      - Panerad zucchini med dansk remoulad
-      - "Veckans kött: Boeuf bourguignon med potatispuré"
+      - Fiskfärsbiff, räkröra och potatis
+      - Linsgryta med ris, limeyoghurt och koriander
+      - "Veckans kött: Hjortfärsbiff, svampsås, potatispuré och lingon"
   - weekday: "4"
     options:
-      - Fisk med skaldjurssås och fänkålscrudité
-      - Svampbiff, potatispuré och gräddsås
-      - "Veckans kött: Boeuf bourguignon med potatispuré"
+      - Örtbakad fisk, rostad jordärtskocka och broccolipuré
+      - Rödbetsbiff, getostkräm och rostade rotsaker
+      - "Veckans kött: Hjortfärsbiff, svampsås, potatispuré och lingon"
 ---
 Dagens fisk och vegetarisk 120:-
 
