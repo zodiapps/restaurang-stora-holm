@@ -10,7 +10,7 @@ items:
     thumbnail: /images/uploads/stora_holm_2.jpg
     link: abonnera
   - title: Helg
-    description: Läs mer om vår helgkasse och helgmeny
+    description: Läs mer om vår helgmeny
     thumbnail: /images/uploads/stora_holm_1.jpg
     link: helg
   - title: Om oss
