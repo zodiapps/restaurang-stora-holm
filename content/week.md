@@ -1,25 +1,27 @@
 ---
-title: Lunchmeny (vecka 10)
+title: Lunchmeny (vecka 11)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Stekt strömming, potatispuré, lingon och skirat smör
-      - Panerad rotselleri, kaprismajonnäs och rostad potatis
-      - "Veckans kött: Hjortfärsbiff, svampsås, potatispuré och lingon"
+      - Örtbakad fisk, citronkräm & rostade rotfrukter
+      - Aubergine, puylinser och tomatsås
+      - "Veckans kött: Wallenbergare med potatispuré, lingon & ärtor"
   - weekday: "3"
     options:
-      - Fiskfärsbiff, räkröra och potatis
-      - Linsgryta med ris, limeyoghurt och koriander
-      - "Veckans kött: Hjortfärsbiff, svampsås, potatispuré och lingon"
+      - Panerad fisk med dansk remoulad och kokt potatis
+      - Ratatouille, stekt gnocchi & parmesan
+      - "Veckans kött: Wallenbergare med potatispuré, lingon & ärtor"
   - weekday: "4"
     options:
-      - Örtbakad fisk, rostad jordärtskocka och broccolipuré
-      - Rödbetsbiff, getostkräm och rostade rotsaker
-      - "Veckans kött: Hjortfärsbiff, svampsås, potatispuré och lingon"
+      - Ångad fisk, smörstekt kål & dillsås
+      - Böntacos med ananassalsa & inlagd chili
+      - "Veckans kött: Wallenbergare med potatispuré, lingon & ärtor"
 ---
 Dagens fisk och vegetarisk 120:-
 
 Veckans kött 145:-
+
+Helgmeny hittar ni under rubriken ''Helg''
