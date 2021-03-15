@@ -15,6 +15,6 @@ items:
     link: helg
   - title: Om oss
     description: Hitta hit
-    thumbnail: /images/uploads/semlor.jpg
+    thumbnail: /images/uploads/brod.jpg
     link: om-oss
 ---
