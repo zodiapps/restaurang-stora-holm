@@ -3,8 +3,7 @@ title: Abonnera
 description: Ordna ert event hos oss
 thumbnail: /images/uploads/stora_holm_2.jpg
 ---
-Räkmacka med lättöl eller mineralvatten\
-180 gram räkor med dillmajonnäs, picklad fänkål, tomat & ägg
+Vill ni ha kalas eller minnesstund hos oss?\
+Hör av er så arrangerar vi det efter era önskemål.
 
-Nybakad kaka och kaffe eller te \
-270kr
+![](/images/uploads/img_5800.jpg)
