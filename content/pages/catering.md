@@ -3,6 +3,10 @@ title: Catering
 description: Vi erbjuder catering
 thumbnail: /images/uploads/stora_holm_3.jpg
 ---
+Vi fixar gärna mat till ert bröllop, kalas eller liknande.
+
+Tveka inte att höra av er så fixar vi det.
+
 ### Förrätter:
 
 Kammussla, vitvinssås, friterad purjolök & örtolja 130
@@ -33,3 +37,8 @@ Pannacotta med hjortron 95
 Creme brulee, sorbet och rostad vit choklad 110
 
 Karamelliserad chokladkräm, bakat plommon & havrechips 110
+
+### Hamburgare
+
+Vi tar med oss grejer och kommer och grillar supergoda burgare hos er\
+Färs från bondens skafferi, majonnäs, karamelliserad lök och kålsallad.
