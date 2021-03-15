@@ -7,7 +7,7 @@ items:
     link: catering
   - title: Abonnera
     description: Ordna ert event hos oss
-    thumbnail: /images/uploads/stora_holm_2.jpg
+    thumbnail: /images/uploads/img_4769.jpg
     link: abonnera
   - title: Helg
     description: Läs mer om vår helgmeny
