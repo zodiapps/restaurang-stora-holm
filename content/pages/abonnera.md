@@ -3,6 +3,8 @@ title: Abonnera
 description: Ordna ert event hos oss
 thumbnail: /images/uploads/stora_holm_2.jpg
 ---
-# Sidan håller på att fixas
+Räkmacka med lättöl eller mineralvatten\
+180 gram räkor med dillmajonnäs, picklad fänkål, tomat & ägg
 
-Håll ut så kommer det snart mer info!
+Nybakad kaka och kaffe eller te \
+270kr
