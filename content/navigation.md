@@ -3,7 +3,7 @@ title: Meny
 items:
   - title: Catering
     description: Vi erbjuder catering
-    thumbnail: /images/uploads/stora_holm_3.jpg
+    thumbnail: /images/uploads/hjortron.jpg
     link: catering
   - title: Abonnera
     description: Ordna ert event hos oss
