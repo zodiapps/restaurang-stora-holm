@@ -23,10 +23,13 @@ Huvudrätter:
 Grillbuffé sharing
 Styckdetaljer av nöt eller lamm samt hemgjord korv, varm och kall sås, sallad och potatis
 500
+
 Fisk, vitvinssås, ramslök & potatis
 från 270
+
 Röding, brynt smörsås, örtpotatis och tegelost
 270
+
 Rostad jordärtskocka, grillad morot, brynt sojasmör, gravad citron & brynt sojasmör
 260
 
