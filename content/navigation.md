@@ -1,5 +1,5 @@
 ---
-title: 'Meny'
+title: Meny
 items:
   - title: Catering
     description: Vi erbjuder catering
@@ -15,6 +15,6 @@ items:
     link: helg
   - title: Om oss
     description: Hitta hit
-    thumbnail: /images/uploads/stora_holm_4.jpg
+    thumbnail: /images/uploads/semlor.jpg
     link: om-oss
 ---
