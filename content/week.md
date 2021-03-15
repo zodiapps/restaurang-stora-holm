@@ -24,4 +24,4 @@ Dagens fisk och vegetarisk 120:-
 
 Veckans kött 145:-
 
-Helgmeny hittar ni under rubriken ''Helg''
+Helgmeny hittar ni under rubriken [''Helg''](https://www.restaurangstoraholm.se/helg?i=2)
