@@ -5,7 +5,6 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 # vecka 11
 
-\
 Melodikryss mellan 9.30 och 10.45, ring oss och boka!
 
 
