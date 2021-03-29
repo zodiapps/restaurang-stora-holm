@@ -6,14 +6,14 @@ menu:
       - Stängt
   - weekday: "2"
     options:
-      - Halstrad lax med örtkräm & rostad palsternacka
-      - Rödbetsrisotto med getost och brynt smör
-      - "Veckans kött: Skånsk kalops med potatis och inlagd rödbeta"
+      - Kolja med sandefjordsås och örtpotatis
+      - Ärtbiffar med rostade rotsaker och svart vitlökskräm
+      - "Veckans kött: Oxkind med potatispuré och rödvinssås"
   - weekday: "3"
     options:
       - Fishcakes med stekt ris och jordnötsdipp
-      - Panerad blomkål med ärthummus
-      - "Veckans kött: Skånsk kalops med potatis och inlagd rödbeta"
+      - Örtbakad portabello med rostad jordärtskocka och skummig sås
+      - "Veckans kött: Oxkind med potatispuré och rödvinssås"
   - weekday: "4"
     options:
       - Dillpankobakad fisk med potatis och hollandaisesås
