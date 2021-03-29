@@ -16,9 +16,7 @@ menu:
       - "Veckans kött: Oxkind med potatispuré och rödvinssås"
   - weekday: "4"
     options:
-      - Dillpankobakad fisk med potatis och hollandaisesås
-      - Morotsråraka med aubergine och brynt smör
-      - "Veckans kött: Skånsk kalops med potatis och inlagd rödbeta"
+      - Långfredag! Då serverar vi smörrebröd och en vegetarisk soppa
 ---
 Dagens fisk och vegetarisk 120:-
 
