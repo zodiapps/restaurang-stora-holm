@@ -11,7 +11,7 @@ menu:
       - "Veckans kött: Oxkind med potatispuré och rödvinssås"
   - weekday: "3"
     options:
-      - Fishcakes med stekt ris och jordnötsdipp
+      - Dagens fångst med gubbröra och brynt smör
       - Örtbakad portabello med rostad jordärtskocka och skummig sås
       - "Veckans kött: Oxkind med potatispuré och rödvinssås"
   - weekday: "4"
