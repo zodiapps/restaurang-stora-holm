@@ -9,20 +9,6 @@ Melodikryss mellan 9.30 och 10.45, ring oss och boka!
 
 Maten vi serverar i helgen är:
 
-Gårdens fisksoppa med skaldjur och jordärtskockschips
+Tre slags smörrebröd med eller utan snaps
 
-Soppbuffé: Jordärtskocksoppa med ramslök
-
-Hjortfärsbiff med rostad potatis & kantarellsås
-
-På lördag serverar vi även en 5-rättersmeny klockan 17.30. Vi har ett fåtal platser så hör av dig om du vill boka. Menyn består av:
-
-Pilgrimsmussla
-
-Råbiff
-
-Skrei
-
-Creme Brulee
-
-Choklad
+Soppbuffé: Krämig grönsakssoppa med ramslök
