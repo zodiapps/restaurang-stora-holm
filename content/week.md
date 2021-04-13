@@ -6,19 +6,19 @@ menu:
       - Stängt
   - weekday: "2"
     options:
-      - Panerad torsk med örtkräm och brynt smör
-      - Bakad spetskål, bearnaisesås & hasselnötter
-      - "Schnitzel med rödvinssås & rostad potatis "
+      - Kolja med rostad jordärtskocka och brynt smör
+      - Falafelbowl med hummus och tahinidressingötter
+      - Wallenbergare med potatispuré, skirat smör, lingon & ärtor
   - weekday: "3"
     options:
-      - Bakad fisk med vitvinssås och broccoli
-      - Getostbollar med pumpapuré och salviasmör
-      - "Veckans kött: Schnitzel med rostad potatis och rödvinssås"
+      - Torsk med rökt musselsås och dillpotatis
+      - Friterade risottobollar med tomatsås & rostade rotsaker
+      - Wallenbergare med potatispuré, skirat smör, lingon & ärtor
   - weekday: "4"
     options:
-      - Dagens fångst med skaldjurssås ocg fänkål
-      - Linsgryta med ris, korianderyoghurt och lime
-      - Schnitzel med rostad potatis & rödvinssås
+      - Fisk med pepparrotsås och smörstekta betor 
+      - Smörstekt kungsmussling med purjolöksmajonnäs & rostad jordärtskocka
+      - Wallenbergare med potatispuré, skirat smör, lingon & ärtor
 ---
 Dagens fisk och vegetarisk 120:-
 
