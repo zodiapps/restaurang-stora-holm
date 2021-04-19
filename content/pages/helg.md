@@ -7,14 +7,10 @@ På helgerna har vi en annan meny än på veckodagarna och fler bakverk.
 
 Melodikryssfrukost mellan 9.30 och 10.45, ring oss och boka!
 
-
-
-
-
 Maten vi serverar i helgen är:
 
-Focaccia med flankstek, chimichurri och friterad potatis 
-
-Fisksoppa med musslor, räkor och fänkål 
+Räkmacka med dillmajonnäs & picklad fänkål
 
 Jordärtskocksoppa med ramslök
+
+Varmrökt lax med sparris, potatis och brynt smör
