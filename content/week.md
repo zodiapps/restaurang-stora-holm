@@ -1,24 +1,27 @@
 ---
-title: Lunchmeny (vecka 15)
+title: Lunchmeny (vecka 16)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Kolja med rostad jordärtskocka och brynt smör
-      - Falafelbowl med hummus och tahinidressingötter
-      - Wallenbergare med potatispuré, skirat smör, lingon & ärtor
+      - Stekt strömming med potatispuré, rårörda lingon & skirat smör
+      - Sparris med hollandaisesås, pocherat ägg, potatis och brynt smör
+      - Hemgjord korv med ljummen potatissallad, friterad kapris & svart
+        vitlökskräm
   - weekday: "3"
     options:
-      - Torsk med rökt musselsås och dillpotatis
-      - Friterade risottobollar med tomatsås & rostade rotsaker
-      - Wallenbergare med potatispuré, skirat smör, lingon & ärtor
+      - Kummel med vitvinssås & potatis
+      - Svampomelett med svart vitlökskräm & örtsallad
+      - Hemgjord korv med ljummen potatissallad, friterad kapris & svart
+        vitlökskräm
   - weekday: "4"
     options:
-      - Fisk med pepparrotsås och smörstekta betor 
-      - Smörstekt kungsmussling med purjolöksmajonnäs & rostad jordärtskocka
-      - Wallenbergare med potatispuré, skirat smör, lingon & ärtor
+      - Fiskfärsbiff med räkröra och kålrabbi
+      - Vegetarisk kåldolme med potatis och gräddsås
+      - Hemgjord korv med ljummen potatissallad, friterad kapris & svart
+        vitlökskräm
 ---
 Dagens fisk och vegetarisk 120:-
 
