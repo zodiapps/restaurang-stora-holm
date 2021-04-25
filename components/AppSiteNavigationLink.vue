@@ -31,7 +31,7 @@ export default Vue.extend({
   },
   computed: {
     link() {
-      return `${this.to}?i=${this.index}`
+      return `/${this.to}/?i=${this.index}`
     },
   },
 })
