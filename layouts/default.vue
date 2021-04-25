@@ -12,7 +12,6 @@
       AppSiteNavigation.mb-6(:items='navigation.items')
     .relative
       Nuxt
-  TheFooter.footer.hidden.md_block(:social='contact')
 </template>
 
 <script lang="ts">
@@ -117,9 +116,5 @@ p {
 .slide-right-enter {
   opacity: 0;
   transform: translateX(-20vw);
-}
-
-.footer {
-  @apply sticky bottom-0 left-0 right-0;
 }
 </style>

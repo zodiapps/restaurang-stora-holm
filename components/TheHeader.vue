@@ -3,7 +3,7 @@ header
   .container
     NuxtLink(to='/')
       img(src='~/assets/logo.png', alt='Restaurang Stora Holm')
-    AppSocial.social(v-if='social', :data='headerSocial')
+    AppSocial.social(v-if='social', :data='social')
     AppHamburgerMenu.menu(:value='menu', @update='onMenuClick()')
 </template>
 
@@ -18,14 +18,6 @@ export default Vue.extend({
     menu: {
       type: Boolean,
       default: false,
-    },
-  },
-  computed: {
-    headerSocial() {
-      if (this.social) {
-        const { facebook, instagram } = this.social
-        return { facebook, instagram }
-      }
     },
   },
   methods: {
@@ -45,7 +37,7 @@ export default Vue.extend({
   }
 
   .social {
-    @apply hidden w-16 ml-4 self-end;
+    @apply hidden w-48 ml-4 self-end;
 
     @screen md {
       @apply flex;
