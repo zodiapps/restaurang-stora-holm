@@ -1,27 +1,24 @@
 ---
-title: Lunchmeny (vecka 16)
+title: Lunchmeny (vecka 17)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Stekt strömming med potatispuré, rårörda lingon & skirat smör
-      - Sparris med hollandaisesås, pocherat ägg, potatis och brynt smör
-      - Hemgjord korv med ljummen potatissallad, friterad kapris & svart
-        vitlökskräm
+      - Stekt makrill med stuvade nässlor och potatis
+      - Svamprisotto med parmesanolja
+      - Rödvinsbräserad oxkind med rödvinssås & potatispuré
   - weekday: "3"
     options:
-      - Kummel med vitvinssås & potatis
-      - Svampomelett med svart vitlökskräm & örtsallad
-      - Hemgjord korv med ljummen potatissallad, friterad kapris & svart
-        vitlökskräm
+      - Halstrad lax med citronkräm och potatis
+      - Halloumibiffar med rostade rotsaker och örtkräm
+      - Rödvinsbräserad oxkind med rödvinssås & potatispuré
   - weekday: "4"
     options:
-      - Fiskfärsbiff med räkröra och kålrabbi
-      - Vegetarisk kåldolme med potatis och gräddsås
-      - Hemgjord korv med ljummen potatissallad, friterad kapris & svart
-        vitlökskräm
+      - Havskatt med vit sparrissås och ängsyra
+      - Panerad zucchini med dansk remoulad och potatispuré
+      - Rödvinsbräserad oxkind med rödvinssås & potatispuré
 ---
 Dagens fisk och vegetarisk 120:-
 
