@@ -1,24 +1,24 @@
 ---
-title: Lunchmeny (vecka 17)
+title: Lunchmeny (vecka 18)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Stekt makrill med stuvade nässlor och potatis
-      - Svamprisotto med parmesanolja
-      - Rödvinsbräserad oxkind med rödvinssås & potatispuré
+      - Bakad fisk med vitvinssås, purjolök & potatis
+      - Vegetarisk kålpudding med gräddsås och lingon
+      - Flankstek med dragonmajonnäs & confiterad potatisfondant
   - weekday: "3"
     options:
-      - Halstrad lax med citronkräm och potatis
-      - Halloumibiffar med rostade rotsaker och örtkräm
-      - Rödvinsbräserad oxkind med rödvinssås & potatispuré
+      - Panerad spätta med potatis och skaldjursröra
+      - Huevos rancheros med jalapenoquesadillas
+      - Flankstek med dragonmajonnäs & confiterad potatisfondant
   - weekday: "4"
     options:
-      - Havskatt med vit sparrissås och ängsyra
-      - Panerad zucchini med dansk remoulad och potatispuré
-      - Rödvinsbräserad oxkind med rödvinssås & potatispuré
+      - Torsk med äggsås och pepparrot
+      - Confiterad rotselleri med jordärtskockapuré och brynt citronsmör
+      - Flankstek med dragonmajonnäs & confiterad potatisfondant
 ---
 Dagens fisk och vegetarisk 120:-
 
