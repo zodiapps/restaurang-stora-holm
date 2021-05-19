@@ -1,20 +1,24 @@
 ---
-title: Lunchmeny (vecka 18)
+title: Lunchmeny (vecka 20)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Lubb med bönor och saffransaioli
-      - Rostad majsbiff med rostad potatis och vitlökskräm
-      - Wallenbergare, potatispuré, lingon & skirat smör
+      - Laxfärsbiff, potatispuré och romsås
+      - Sötpotatisråraka med rostade rotsaker och örtkräm
+      - " Boeuf Bourguinon med potatispuré och rökt sidfläsk"
   - weekday: "3"
     options:
-      - se helgmeny
+      - Panerad långa med baconmajonnäs och gröna bönor
+      - Falafel med hummus, rostad vitlökskräm och tomatsallad
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
   - weekday: "4"
     options:
-      - se helgmeny
+      - Pocherad fisk med sandefjordsås och potatis
+      - Vegetarisk lasagne med soltorkad tomat och getost
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
 ---
 Dagens fisk och vegetarisk 120:-
 
