@@ -1,24 +1,24 @@
 ---
-title: Lunchmeny (vecka 20)
+title: Lunchmeny (vecka 21)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Laxfärsbiff, potatispuré och romsås
-      - Sötpotatisråraka med rostade rotsaker och örtkräm
-      - " Boeuf Bourguinon med potatispuré och rökt sidfläsk"
+      - Fishcakes med picklad chili, ris och jordnötsdipp
+      - Svamprisotto med ostronskivling och brynt smör
+      - Schnitzel med dragonsmör, rödvinssås och rostad potatis
   - weekday: "3"
     options:
-      - Panerad långa med baconmajonnäs och gröna bönor
-      - Falafel med hummus, rostad vitlökskräm och tomatsallad
-      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
+      - Kummel med räkröra och pepparrot
+      - Panerad blomkål med ramslöksmajonnäs och rostad potatis
+      - Schnitzel med dragonsmör, rödvinssås och rostad potatis
   - weekday: "4"
     options:
-      - Pocherad fisk med sandefjordsås och potatis
-      - Vegetarisk lasagne med soltorkad tomat och getost
-      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
+      - Pocherad fisk med pocherat ägg och hollandaisesås
+      - Linsgryta med ris och koriander
+      - Schnitzel med dragonsmör, rödvinssås och rostad potatis
 ---
 Dagens fisk och vegetarisk 120:-
 
