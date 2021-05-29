@@ -10,5 +10,3 @@ Maten vi serverar i helgen är:
 Räkmacka med dillmajonnäs & picklad fänkål
 
 Vit sparrissoppa med ramslök
-
-Varmrökt lax med sparris, potatis och brynt smör
