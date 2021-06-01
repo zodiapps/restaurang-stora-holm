@@ -8,5 +8,3 @@ Melodikryssfrukost mellan 9.30 och 10.45 på lördag, ring oss och boka!
 Maten vi serverar i helgen är:
 
 Räkmacka med dillmajonnäs & picklad fänkål
-
-Vit sparrissoppa med ramslök
