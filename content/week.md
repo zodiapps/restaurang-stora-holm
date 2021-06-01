@@ -1,24 +1,24 @@
 ---
-title: Lunchmeny (vecka 21)
+title: Lunchmeny (vecka 22)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Fishcakes med picklad chili, ris och jordnötsdipp
-      - Svamprisotto med ostronskivling och brynt smör
-      - Schnitzel med dragonsmör, rödvinssås och rostad potatis
+      - Pocherad fisk med romsås & picklad fänkål
+      - Taco med svarta bönor och chimichurri
+      - Wallenbergare med potatispuré, lingon och skirat smör
   - weekday: "3"
     options:
-      - Kummel med räkröra och pepparrot
-      - Panerad blomkål med ramslöksmajonnäs och rostad potatis
-      - Schnitzel med dragonsmör, rödvinssås och rostad potatis
+      - Panerad fisk med dansk remoulad och potatis
+      - Quinoabiff med rostade rotsaker och chimichurri
+      - Wallenbergare med potatispuré, lingon och skirat smör
   - weekday: "4"
     options:
-      - Pocherad fisk med pocherat ägg och hollandaisesås
-      - Linsgryta med ris och koriander
-      - Schnitzel med dragonsmör, rödvinssås och rostad potatis
+      - Fisk med blomkålspuré och brynt smör
+      - Zucchinifrittata med tomatsallad
+      - Wallenbergare med potatispuré, lingon och skirat smör
 ---
 Dagens fisk och vegetarisk 120:-
 
