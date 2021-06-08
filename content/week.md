@@ -1,24 +1,24 @@
 ---
-title: Lunchmeny (vecka 22)
+title: Lunchmeny (vecka 23)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Pocherad fisk med romsås & picklad fänkål
-      - Taco med svarta bönor och chimichurri
-      - Wallenbergare med potatispuré, lingon och skirat smör
+      - Stekt strömming, potatispuré och lingon
+      - Steamed bun med tofu och chilimajonnäs
+      - Flankstek med rostad potatis och bearnaisesås
   - weekday: "3"
     options:
-      - Panerad fisk med dansk remoulad och potatis
-      - Quinoabiff med rostade rotsaker och chimichurri
-      - Wallenbergare med potatispuré, lingon och skirat smör
+      - Lubb med dillsås och musslor
+      - Smörstekt svamp med rostade rotsaker och ärtpesto
+      - Flankstek med rostad potatis och bearnaisesås
   - weekday: "4"
     options:
-      - Fisk med blomkålspuré och brynt smör
-      - Zucchinifrittata med tomatsallad
-      - Wallenbergare med potatispuré, lingon och skirat smör
+      - Färskostbakad portabello med rostad potatis och bearnaisesås
+      - Kummel med tomatsås och fänkål
+      - Flankstek med rostad potatis och bearnaisesås
 ---
 Dagens fisk och vegetarisk 120:-
 
