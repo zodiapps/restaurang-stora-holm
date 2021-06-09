@@ -7,17 +7,17 @@ menu:
   - weekday: "2"
     options:
       - Stekt strömming, potatispuré och lingon
-      - Steamed bun med tofu och chilimajonnäs
+      - Smörstekt svamp med rostade rotsaker och ärtpesto
       - Flankstek med rostad potatis och bearnaisesås
   - weekday: "3"
     options:
       - Lubb med dillsås och musslor
-      - Smörstekt svamp med rostade rotsaker och ärtpesto
+      - Ångat bröd med tofu och chilimajonnäs
       - Flankstek med rostad potatis och bearnaisesås
   - weekday: "4"
     options:
-      - Färskostbakad portabello med rostad potatis och bearnaisesås
       - Kummel med tomatsås och fänkål
+      - Färskostbakad portabello med rostad potatis och bearnaisesås
       - Flankstek med rostad potatis och bearnaisesås
 ---
 Dagens fisk och vegetarisk 120:-
