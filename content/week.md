@@ -1,24 +1,24 @@
 ---
-title: Lunchmeny (vecka 23)
+title: Lunchmeny (vecka 24)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Stekt strömming, potatispuré och lingon
-      - Smörstekt svamp med rostade rotsaker och ärtpesto
-      - Flankstek med rostad potatis och bearnaisesås
+      - Fiskfärsbiff med räkröra och pepparrot
+      - Panerad zucchini med gremolata och gnocchi
+      - Schnitzel med rödvinssås, örtsmör och rostad potatis
   - weekday: "3"
     options:
-      - Lubb med dillsås och musslor
-      - Ångat bröd med tofu och chilimajonnäs
-      - Flankstek med rostad potatis och bearnaisesås
+      - Havskatt med brynt smörsås och skärbönor
+      - Ärtbiff med rostad vitlökskräm och krossad potatis
+      - Schnitzel med rödvinssås, örtsmör och rostad potatis
   - weekday: "4"
     options:
-      - Kummel med tomatsås och fänkål
-      - Färskostbakad portabello med rostad potatis och bearnaisesås
-      - Flankstek med rostad potatis och bearnaisesås
+      - Lax med zucchini, morot och gräslöksolja
+      - Tabbouleh med rostade grönsaker och grillad ost
+      - Schnitzel med rödvinssås, örtsmör och rostad potatis
 ---
 Dagens fisk och vegetarisk 120:-
 
