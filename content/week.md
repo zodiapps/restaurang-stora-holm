@@ -8,7 +8,7 @@ menu:
     options:
       - Torsk med örtsås och potatis
       - Lasagne med örtsås och tomatsallad
-      - Schnitzel med rödvinssås, örtsmör och rostad potatis
+      - Hjortfärsbiff med potatispuré och svampsås
   - weekday: "3"
     options:
       - Matjessill med potatis, brynt smör och ostkräm
