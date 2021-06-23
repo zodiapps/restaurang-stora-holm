@@ -1,24 +1,24 @@
 ---
-title: Lunchmeny (vecka 24)
+title: Lunchmeny (vecka 25)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Fiskfärsbiff med räkröra och pepparrot
-      - Panerad zucchini med gremolata och gnocchi
+      - Torsk med örtsås och potatis
+      - Lasagne med örtsås och tomatsallad
       - Schnitzel med rödvinssås, örtsmör och rostad potatis
   - weekday: "3"
     options:
-      - Havskatt med brynt smörsås och skärbönor
-      - Ärtbiff med rostad vitlökskräm och krossad potatis
-      - Schnitzel med rödvinssås, örtsmör och rostad potatis
+      - Matjessill med potatis, brynt smör och ostkräm
+      - Grönsaksbiff med rostad vitlökskräm
+      - Hjortfärsbiff med potatispuré och svampsås
   - weekday: "4"
     options:
-      - Lax med zucchini, morot och gräslöksolja
-      - Tabbouleh med rostade grönsaker och grillad ost
-      - Schnitzel med rödvinssås, örtsmör och rostad potatis
+      - Stängt
+      - Stängt
+      - Stängt
 ---
 Dagens fisk och vegetarisk 120:-
 
