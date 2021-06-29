@@ -1,24 +1,24 @@
 ---
-title: Lunchmeny (vecka 25)
+title: Lunchmeny (vecka 26)
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Torsk med örtsås och potatis
-      - Lasagne med örtsås och tomatsallad
-      - Hjortfärsbiff med potatispuré och svampsås
+      - Pankopanerad fisk med dansk remoulad och potatis
+      - Linsgryta med lime, ris och korianderkräm
+      - Boeuf Bourguignon med potatis och rökt sidfläsk
   - weekday: "3"
     options:
-      - Matjessill med potatis, brynt smör och ostkräm
-      - Grönsaksbiff med rostad vitlökskräm
-      - Hjortfärsbiff med potatispuré och svampsås
+      - Ångad fisk med sandefjordsås och potatis
+      - Rostad majsbiff med rostad potatis och pickad chili
+      - "Boeuf Bourguignon med potatis och rökt sidfläsk "
   - weekday: "4"
     options:
-      - Stängt
-      - Stängt
-      - Stängt
+      - Torsk med äggsås och pepparrot
+      - Panerad blomkål med gnocchi och chimichurri
+      - Boeuf Bourguignon med rökt sidfläsk och potatis
 ---
 Dagens fisk och vegetarisk 120:-
 
