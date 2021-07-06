@@ -6,19 +6,19 @@ menu:
       - Stängt
   - weekday: "2"
     options:
-      - Pankopanerad fisk med dansk remoulad och potatis
-      - Linsgryta med lime, ris och korianderkräm
-      - Boeuf Bourguignon med potatis och rökt sidfläsk
+      - Fiskfärsbiff med dillkräm
+      - Pankopanerad tofu med rotsaker och gravad citronmajo
+      - Flapsteak med rostad potatis och bearnaisesås
   - weekday: "3"
     options:
-      - Ångad fisk med sandefjordsås och potatis
-      - Rostad majsbiff med rostad potatis och pickad chili
-      - "Boeuf Bourguignon med potatis och rökt sidfläsk "
+      - Lax med vitvinssås och potatis
+      - Halloumibiff med tomatsalsa och rostad morot
+      - Flapsteak med rostad potatis och bearnaisesås
   - weekday: "4"
     options:
-      - Torsk med äggsås och pepparrot
-      - Panerad blomkål med gnocchi och chimichurri
-      - Boeuf Bourguignon med rökt sidfläsk och potatis
+      - Fisk med smörstekt kål och brynt smör
+      - Frittata med spenat, tomat och parmesankräm
+      - Flapsteak med rostad potatis och bearnaisesås
 ---
 Dagens fisk och vegetarisk 120:-
 
