@@ -1,5 +1,5 @@
 ---
-title: Lunchmeny (vecka 26)
+title: Lunchmeny (vecka 27)
 menu:
   - weekday: "1"
     options:
