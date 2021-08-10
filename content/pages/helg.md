@@ -3,4 +3,10 @@ title: Helg
 description: Läs mer om helgkasse och helgmeny
 thumbnail: /images/uploads/stora_holm_1.jpg
 ---
-Vi har semesterstängt 12/7 till den 11/8
+Helgen vecka 32 serverar vi:
+
+Fisksoppa med räkor, musslor & friterad jordärtskocka\
+Hjortfärsbiff med gräddsås, potatis och rårörda lingon\
+Vegetarisk soppa
+
+och supergoda bakverk.
