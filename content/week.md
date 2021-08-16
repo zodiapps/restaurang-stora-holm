@@ -1,23 +1,23 @@
 ---
-title: Lunchmeny
+title: Lunchmeny vecka 33
 menu:
   - weekday: "1"
     options:
       - Stängt
   - weekday: "2"
     options:
-      - Wallenbergare med potatispuré, lingon, ärtor & skirat smör
-      - Panerad torsk med dansk remoulad, potatis och brynt smör
-      - Rostad majsbiff med picklad chili och grillad paprikasås
+      - Flapsteak med potatisfondant, örtsmör och vaxbönor
+      - Dagens fångst med gulbetssallad, grönkål och sandefjordssås
+      - Morotsbiff med pepparrotsaioli och pak choi
   - weekday: "3"
     options:
-      - Wallenbergare med potatispuré, lingon, ärtor & skirat smör
-      - Ångad kolja med vitvinssås & broccolipuré
-      - Panerad blomkål med svart vitlökskräm och brynt smör
+      - Flapsteak med potatisfondant och örtsmör och vaxbönor
+      - Örtstekt makrill med råraka och pepparrotskräm
+      - Småländsk stekost med grönkål, gulbetor och bondbönekräm
   - weekday: "4"
     options:
       - Wallenbergare med potatispuré, lingon, ärtor & skirat smör
-      - Fisk med räkröra, brynt smör och potatis
-      - Sotad kål med ärthummus, picklad morot och brynt citronsmör
+      - Dagens fångst med  pak choi, rostad potatis och misokräm
+      - Matveterisotto med västerbottensost och ostronskivling
 ---
 > Helgmeny hittar du under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
