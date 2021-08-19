@@ -16,8 +16,8 @@ menu:
       - Småländsk stekost med grönkål, gulbetor och bondbönekräm
   - weekday: "4"
     options:
-      - Wallenbergare med potatispuré, lingon, ärtor & skirat smör
       - Dagens fångst med  pak choi, rostad potatis och misokräm
       - Matveterisotto med västerbottensost och ostronskivling
+      - Köttfärsbiff med örtrostad potatis och gräddsås
 ---
 > Helgmeny hittar du under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
