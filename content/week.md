@@ -23,3 +23,7 @@ menu:
 Allt kött kommer från Björlanda Kött
 
 Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
+
+📫 info@restaurangstoraholm.se
+
+☎️ 070-602 85 69
