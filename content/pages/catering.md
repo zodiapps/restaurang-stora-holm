@@ -40,5 +40,4 @@ Karamelliserad chokladkräm, bakat plommon & havrechips 110
 
 ### Hamburgare
 
-Vi tar med oss grejer och kommer och grillar supergoda burgare hos er\
-Färs från bondens skafferi, majonnäs, karamelliserad lök och kålsallad.
+Burgare med karamelliserad lök, ost och kålsallad (hör av er för pris)
