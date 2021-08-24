@@ -1,8 +1,8 @@
 ---
-title: Om oss
+title: Kontakta oss
 description: Hitta hit
 thumbnail: /images/uploads/stora_holm_4.jpg
 ---
-# Sidan håller på att fixas
+📫 info@restaurangstoraholm.se
 
-Håll ut så kommer det snart mer info!
+☎️ 070-602 85 69
