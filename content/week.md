@@ -6,20 +6,23 @@ menu:
       - Stängt
   - weekday: "2"
     options:
-      - Flapsteak med potatisfondant, örtsmör och vaxbönor
-      - Dagens fångst med gulbetssallad, grönkål och sandefjordssås
-      - Morotsbiff med pepparrotsaioli och pak choi
+      - Stekt strömming med lingon och skirat smör
+      - Panerad pumpa med pumpapuré, ost och picklad lök
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
   - weekday: "3"
     options:
-      - Flapsteak med potatisfondant och örtsmör och vaxbönor
-      - Örtstekt makrill med råraka och pepparrotskräm
-      - Småländsk stekost med grönkål, gulbetor och bondbönekräm
+      - Kummel med dillsås, vaxbönor och potatis
+      - Rödbetsbiff med rostad palsternacka och örtpesto
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
   - weekday: "4"
     options:
-      - Dagens fångst med  pak choi, rostad potatis och misokräm
-      - Matveterisotto med västerbottensost och ostronskivling
-      - Köttfärsbiff med örtrostad potatis och gräddsås
+      - Dagens fångst med romsås, grönkålschips och potatis
+      - Linsgryta med koriander och ris
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
 ---
-> Helgmeny hittar du under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
->
-> Kontakta oss
+Allt kött kommer från Björlanda Kött
+
+Helgmeny hittar du under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
+
+[Kontakta oss]
+(https://www.restaurangstoraholm.se/om-oss/?i=3)
