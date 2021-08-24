@@ -17,7 +17,7 @@ menu:
       - Linsgryta med koriander och ris
       - Boeuf Bourguignon med potatispuré och rökt sidfläsk
 ---
-Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se)
+Allt kött vi serverar kommer från [Björlanda Gård](https://www.bjorlandagard.se)
 
 Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
