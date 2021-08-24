@@ -21,3 +21,5 @@ menu:
       - Köttfärsbiff med örtrostad potatis och gräddsås
 ---
 > Helgmeny hittar du under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
+>
+> Kontakta oss
