@@ -22,7 +22,4 @@ menu:
 ---
 Allt kött kommer från Björlanda Kött
 
-Helgmeny hittar du under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
-
-[Kontakta oss]
-(https://www.restaurangstoraholm.se/om-oss/?i=3)
+Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
