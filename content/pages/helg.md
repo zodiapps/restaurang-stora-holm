@@ -3,4 +3,4 @@ title: Helg
 description: Läs mer om helgkasse och helgmeny
 thumbnail: /images/uploads/stora_holm_1.jpg
 ---
-Helgmenyn planeras just nu och vi lägger ut den senare i veckan.
+Helgen vecka 34 serverar vi tre olika pizzor och en vegetarisk soppa samt massor med fika.
