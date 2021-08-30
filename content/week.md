@@ -3,19 +3,19 @@ title: Lunchmeny vecka 34
 menu:
   - weekday: "2"
     options:
-      - Stekt strömming med lingon och skirat smör
-      - Panerad pumpa med pumpapuré, ost och picklad lök
-      - Boeuf Bourguignon med potatispuré och rökt sidfläsk
+      - Kummel med smörstekt kål och dillmajonnäs
+      - Falafel med chilimajo & svart bönsallad
+      - Wallenbergare med potatispuré, lingon och ärtor
   - weekday: "3"
     options:
-      - Kummel med dillsås, vaxbönor och potatis
-      - Rödbetsbiff med rostad palsternacka och örtpesto
-      - Boeuf Bourguignon med potatispuré och rökt sidfläsk
+      - Fiskfärsbiff med potatispuré & räkröra
+      - Råraka med stekost, tomatsallad & persiljekräm
+      - Wallenbergare med potatispuré, lingon och ärtor
   - weekday: "4"
     options:
-      - Dagens fångst med romsås, grönkålschips och potatis
-      - Linsgryta med koriander och ris
-      - Boeuf Bourguignon med potatispuré och rökt sidfläsk
+      - Lax med zucchini, morot och skirat smör
+      - Panerad zucchini med tomatsås och gnocchi
+      - Wallenbergare med potatispuré, lingon och ärtor
 ---
 Allt kött vi serverar kommer från [Björlanda Gård](https://www.bjorlandagard.se)
 
