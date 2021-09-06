@@ -3,19 +3,19 @@ title: Lunchmeny vecka 35
 menu:
   - weekday: "2"
     options:
-      - Kummel med smörstekt kål och dillmajonnäs
-      - Falafel med chilimajo & svart bönsallad
-      - Wallenbergare med potatispuré, lingon och ärtor
+      - "Fisk med potatis, vitvinssås och örtolja "
+      - Quinoabiff med rostade rotsaker och bearnaisesås
+      - Schnitzel med örtsmör, rostad potatis och friterad kapris
   - weekday: "3"
     options:
-      - Fiskfärsbiff med potatispuré & räkröra
-      - Råraka med stekost, tomatsallad & persiljekräm
-      - Wallenbergare med potatispuré, lingon och ärtor
+      - Fisk med skaldjurssås och råraka
+      - Vegetarisk kålpudding med gräddsås, västeråsgurka och lingon
+      - Schnitzel med örtsmör, rostad potatis och friterad kapris
   - weekday: "4"
     options:
-      - Lax med zucchini, morot och skirat smör
-      - Panerad zucchini med tomatsås och gnocchi
-      - Wallenbergare med potatispuré, lingon och ärtor
+      - Torsk med äggsås och pepparrot
+      - Svampragu med potatisstomp och picklad jordärtskocka
+      - Schnitzel med örtsmör, rostad potatis och friterad kapris
 ---
 Allt kött vi serverar kommer från [Björlanda Gård](https://www.bjorlandagard.se)
 
