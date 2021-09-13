@@ -3,19 +3,19 @@ title: Lunchmeny vecka 37
 menu:
   - weekday: "2"
     options:
-      - "Fisk med potatis, vitvinssås och örtolja "
-      - Quinoabiff med rostade rotsaker och bearnaisesås
-      - Schnitzel med örtsmör, rostad potatis och friterad kapris
+      - Örtbakad fisk med brynt smörsås och morot
+      - Svampragu med rotfruktsråraka och purjolöksemulsion
+      - Nattbakat högrev från Björlanda med rotfruktsråraka och bearnaisesås
   - weekday: "3"
     options:
-      - Fisk med skaldjurssås och råraka
-      - Vegetarisk kålpudding med gräddsås, västeråsgurka och lingon
-      - Schnitzel med örtsmör, rostad potatis och friterad kapris
+      - Pocherad fisk med dillmajonnäs och smörstekt kål
+      - Svampragu med rotfruktsråraka och purjolöksemulsion
+      - Nattbakat högrev från Björlanda med rotfruktsråraka och bearnaisesås
   - weekday: "4"
     options:
-      - Torsk med äggsås och pepparrot
-      - Svampragu med potatisstomp och picklad jordärtskocka
-      - Schnitzel med örtsmör, rostad potatis och friterad kapris
+      - Bakad fisk med ramslökssås och broccolipuré
+      - Svampragu med rotfruktsråraka och purjolöksemulsion
+      - Nattbakat högrev från Björlanda med rotfruktsråraka och bearnaisesås
 ---
 Allt kött vi serverar kommer från [Björlanda Gård](https://www.bjorlandagard.se)
 
