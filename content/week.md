@@ -13,7 +13,7 @@ menu:
       - Oxkind från Björlanda med confiterad potatis och rödvinssky
   - weekday: "4"
     options:
-      - Bakad fisk med ramslökssås och broccolipuré
+      - Pankobakad fisk med picklat äpple och brynt smör
       - Rotfruktslasagne med mozzarella, parmesan och kålsallad
       - Oxkind från Björlanda med confiterad potatis och rödvinssky
 ---
