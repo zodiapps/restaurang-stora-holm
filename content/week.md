@@ -1,21 +1,21 @@
 ---
-title: Lunchmeny vecka 37
+title: Lunchmeny vecka 38
 menu:
   - weekday: "2"
     options:
-      - Örtbakad fisk med brynt smörsås och morot
-      - Svampragu med rotfruktsråraka och purjolöksemulsion
-      - Nattbakat högrev från Björlanda med rotfruktsråraka och bearnaisesås
+      - Pocherad fisk med blåmusslor och bakad fänkål
+      - Rotfruktslasagne med mozzarella, parmesan och kålsallad
+      - Oxkind från Björlanda med confiterad potatis och rödvinssky
   - weekday: "3"
     options:
-      - Pocherad fisk med dillmajonnäs och smörstekt kål
-      - Svampragu med rotfruktsråraka och purjolöksemulsion
-      - Nattbakat högrev från Björlanda med rotfruktsråraka och bearnaisesås
+      - Halstrad lax med örtpotatis och smörsås med stenbitsrom
+      - Rotfruktslasagne med mozzarella, parmesan och kålsallad
+      - Oxkind från Björlanda med confiterad potatis och rödvinssky
   - weekday: "4"
     options:
       - Bakad fisk med ramslökssås och broccolipuré
-      - Svampragu med rotfruktsråraka och purjolöksemulsion
-      - Nattbakat högrev från Björlanda med rotfruktsråraka och bearnaisesås
+      - Rotfruktslasagne med mozzarella, parmesan och kålsallad
+      - Oxkind från Björlanda med confiterad potatis och rödvinssky
 ---
 Allt kött vi serverar kommer från [Björlanda Gård](https://www.bjorlandagard.se)
 
