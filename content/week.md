@@ -17,7 +17,7 @@ menu:
       - Rödbeta med stekost, purjolökskräm och friterade linser
       - Färsbiff från Björlanda gård med grönpepparsås och inlagd västeråsgurka
 ---
-Allt kött vi serverar kommer från [Björlanda Gård](https://www.bjorlandagard.se)
+Allt kött vi serverar kommer från [Björlanda Gård](http://www.bjorlandagard.se), 13 kilometer från restaurangen.[](https://www.bjorlandagard.se)
 
 Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
