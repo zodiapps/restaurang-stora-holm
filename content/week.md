@@ -1,21 +1,21 @@
 ---
-title: Lunchmeny vecka 38
+title: Lunchmeny vecka 39
 menu:
   - weekday: "2"
     options:
-      - Pocherad fisk med blåmusslor och bakad fänkål
-      - Rotfruktslasagne med mozzarella, parmesan och kålsallad
-      - Oxkind från Björlanda med confiterad potatis och rödvinssky
+      - Fisk med blomkålspuré, brynt smörsås och syrlig broccoli
+      - Rödbeta med stekost och friterade linser
+      - Färsbiff från Björlanda gård med grönpepparsås och inlagd västeråsgurka
   - weekday: "3"
     options:
-      - Halstrad lax med örtpotatis och smörsås med stenbitsrom
-      - Rotfruktslasagne med mozzarella, parmesan och kålsallad
-      - Oxkind från Björlanda med confiterad potatis och rödvinssky
+      - Fisk med smörstekt spetskål, örtolja och sparrispotatis
+      - Rödbeta med stekost och friterade linser
+      - Färsbiff från Björlanda gård med grönpepparsås och inlagd västeråsgurka
   - weekday: "4"
     options:
-      - Pankobakad fisk med picklat äpple och brynt smör
-      - Rotfruktslasagne med mozzarella, parmesan och kålsallad
-      - Oxkind från Björlanda med confiterad potatis och rödvinssky
+      - Fisk med sotad pak choi och purjolökskräm
+      - Rödbeta med stekost, purjolökskräm och friterade linser
+      - Färsbiff från Björlanda gård med grönpepparsås och inlagd västeråsgurka
 ---
 Allt kött vi serverar kommer från [Björlanda Gård](https://www.bjorlandagard.se)
 
