@@ -3,19 +3,19 @@ title: Lunchmeny vecka 39
 menu:
   - weekday: "2"
     options:
-      - Fisk med blomkålspuré, brynt smörsås och syrlig broccoli
-      - Rödbeta med stekost och friterade linser
-      - Färsbiff från Björlanda gård med grönpepparsås och inlagd västeråsgurka
+      - Fisk med panerad pumpa, friterad grönkål och vitvinssås
+      - Broccolibiff med confiterad pumpa och svart vitlökskräm
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
   - weekday: "3"
     options:
-      - Fisk med smörstekt spetskål, örtolja och sparrispotatis
-      - Rödbeta med stekost och friterade linser
-      - Färsbiff från Björlanda gård med grönpepparsås och inlagd västeråsgurka
+      - Lax med pak choi, syrad grädde och picklad gulbeta
+      - Broccolibiff med confiterad pumpa och svart vitlökskräm
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
   - weekday: "4"
     options:
-      - Fisk med sotad pak choi och purjolökskräm
-      - Rödbeta med stekost, purjolökskräm och friterade linser
-      - Färsbiff från Björlanda gård med grönpepparsås och inlagd västeråsgurka
+      - Panerad fisk med svart vitlöksbröd och rostad potatis
+      - Broccolibiff med confiterad pumpa och svart vitlökskräm
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
 ---
 Allt kött vi serverar kommer från [Björlanda Gård](http://www.bjorlandagard.se), 13 kilometer från restaurangen.[](https://www.bjorlandagard.se)
 
