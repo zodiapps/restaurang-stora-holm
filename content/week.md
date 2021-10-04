@@ -13,7 +13,7 @@ menu:
       - Boeuf Bourguinon med potatispuré och rökt sidfläsk
   - weekday: "4"
     options:
-      - Panerad fisk med svart vitlöksbröd och rostad potatis
+      - Panerad fisk med svart vitlökskräm och rostad potatis
       - Broccolibiff med confiterad pumpa och svart vitlökskräm
       - Boeuf Bourguinon med potatispuré och rökt sidfläsk
 ---
