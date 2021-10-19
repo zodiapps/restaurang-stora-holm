@@ -19,6 +19,10 @@ menu:
 ---
 Allt kött vi serverar kommer från [Björlanda Gård](http://www.bjorlandagard.se), 13 kilometer från restaurangen.[](https://www.bjorlandagard.se)
 
+[](https://www.bjorlandagard.se)
+
+På söndag kommer Marigold jazz och spelar hos oss. Brunch och livemusik 295kr (förboka på mailen)
+
 Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
 📫 info@restaurangstoraholm.se
