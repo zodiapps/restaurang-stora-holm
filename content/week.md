@@ -10,7 +10,7 @@ menu:
     options:
       - Fisk med rökt musselsås, jordärtskocka och sotad broccoli
       - Grillad spetskål med svart bönbiff, ostronskivling och persiljemajonnäs
-      - Grillad spetskål med svart bönbiff, ostronskivling och persiljemajonnäs
+      - Nattbakad bringa med bearnaisesås, confiterad potatis och spetskål
   - weekday: "4"
     options:
       - Halstrad lax med sandefjorsås och krossad potatis
