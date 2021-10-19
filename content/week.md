@@ -1,21 +1,21 @@
 ---
-title: Lunchmeny vecka 41
+title: Lunchmeny vecka 42
 menu:
   - weekday: "2"
     options:
-      - Pocherad fisk med dillsås, råraka och broccoliskott
-      - Schnitzel från Björlanda med örtsmör, rostad potatis och rödvinssås
-      - Svampragu med rostad potatis och jordärtskockchips
+      - Fisk med smörstekt rödbeta, pepparrot och friterad svartkål
+      - Grillad spetskål med svart bönbiff, ostronskivling och persiljemajonnäs
+      - Nattbakad bringa med bearnaisesås, confiterad potatis och spetskål
   - weekday: "3"
     options:
-      - Fisk med brynt smörsås, picklad morot och räkor
-      - Svampragu med rostad potatis och jordärtskockchips
-      - Schnitzel från Björlanda med örtsmör, rostad potatis och rödvinssås
+      - Fisk med rökt musselsås, jordärtskocka och sotad broccoli
+      - Grillad spetskål med svart bönbiff, ostronskivling och persiljemajonnäs
+      - Grillad spetskål med svart bönbiff, ostronskivling och persiljemajonnäs
   - weekday: "4"
     options:
-      - Fiskgryta med fänkål och dillolja
-      - Svampragu med rostad potatis och jordärtskockchips
-      - Schnitzel från Björlanda med örtsmör, rostad potatis och rödvinssås
+      - Halstrad lax med sandefjorsås och krossad potatis
+      - Grillad spetskål med svart bönbiff, ostronskivling och persiljemajonnäs
+      - Nattbakad bringa med bearnaisesås, confiterad potatis och spetskål
 ---
 Allt kött vi serverar kommer från [Björlanda Gård](http://www.bjorlandagard.se), 13 kilometer från restaurangen.[](https://www.bjorlandagard.se)
 
