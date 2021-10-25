@@ -1,21 +1,21 @@
 ---
-title: Lunchmeny vecka 42
+title: Lunchmeny vecka 43
 menu:
   - weekday: "2"
     options:
-      - Fisk med smörstekt rödbeta, pepparrot och friterad svartkål
-      - Grillad spetskål med svart bönbiff, ostronskivling och persiljemajonnäs
-      - Nattbakad bringa med bearnaisesås, confiterad potatis och spetskål
+      - Smörstekt fisk med fermenterad ramslökssås, rostad morot och potatis
+      - Linsgryta med ris, limeyoghurt och friterad stekost
+      - Wallenbergare med rårörda lingon, ärtor och potatispuré
   - weekday: "3"
     options:
-      - Fisk med rökt musselsås, jordärtskocka och sotad broccoli
-      - Grillad spetskål med svart bönbiff, ostronskivling och persiljemajonnäs
-      - Nattbakad bringa med bearnaisesås, confiterad potatis och spetskål
+      - Fisk med brynt smörsås, purjolök och örtpotatis
+      - Linsgryta med ris, limeyoghurt och friterad stekost
+      - Wallenbergare med rårörda lingon, ärtor och potatispuré
   - weekday: "4"
     options:
-      - Halstrad lax med sandefjorsås och krossad potatis
-      - Grillad spetskål med svart bönbiff, ostronskivling och persiljemajonnäs
-      - Nattbakad bringa med bearnaisesås, confiterad potatis och spetskål
+      - Pocherad fisk med vitvinssås och pommes anna
+      - Linsgryta med ris, limeyoghurt och friterad stekost
+      - Wallenbergare med rårörda lingon, ärtor och potatispuré
 ---
 Allt kött vi serverar kommer från [Björlanda Gård](http://www.bjorlandagard.se), 13 kilometer från restaurangen.[](https://www.bjorlandagard.se)
 
