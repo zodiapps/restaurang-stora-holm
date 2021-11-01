@@ -1,22 +1,24 @@
 ---
-title: Lunchmeny vecka 43
+title: Lunchmeny vecka 44
 menu:
   - weekday: "2"
     options:
-      - Smörstekt fisk med fermenterad ramslökssås, rostad morot och potatis
-      - Linsgryta med ris, limeyoghurt och friterad stekost
-      - Wallenbergare med rårörda lingon, ärtor och potatispuré
+      - Pocherad fisk med bakat ägg och dillmajonnäs
+      - Svampgryta med potatispuré och friterade linser
+      - Boeuf Bourguinon med rökt sidfläsk och potatispuré
   - weekday: "3"
     options:
-      - Fisk med brynt smörsås, purjolök och örtpotatis
-      - Linsgryta med ris, limeyoghurt och friterad stekost
-      - Wallenbergare med rårörda lingon, ärtor och potatispuré
+      - Fiskfärsbiff med räkröra, brynt smör och potatispuré
+      - Svampgryta med potatispuré och friterade linser
+      - Boeuf Bourguinon med rökt sidfläsk och potatispuré
   - weekday: "4"
     options:
-      - Pocherad fisk med vitvinssås och pommes anna
-      - Linsgryta med ris, limeyoghurt och friterad stekost
-      - Wallenbergare med rårörda lingon, ärtor och potatispuré
+      - Fisk med skaldjurssås, picklad fänkål och amandinepotatis
+      - Svampgryta med potatispuré och friterade linser
+      - Boeuf Bourguinon med rökt sidfläsk och potatispuré
 ---
+Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se), 11 minuter från restaurangen. [](http://www.bjorlandagard.se)
+
 [](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
 📫 info@restaurangstoraholm.se
