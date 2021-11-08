@@ -1,21 +1,24 @@
 ---
-title: Lunchmeny vecka 44
+title: Lunchmeny vecka 45
 menu:
   - weekday: "2"
     options:
-      - Pocherad fisk med bakat ägg och dillmajonnäs
-      - Svampgryta med potatispuré och friterade linser
-      - Boeuf Bourguinon med rökt sidfläsk och potatispuré
+      - Vitling med smörstekt spetskål och dillmajonnäs
+      - Svampfrittata med semitorkad tomat och persiljekräm
+      - Färsbiff från Björlanda med gräddsås, potatis, inlagd västeråsgurka och
+        lingon
   - weekday: "3"
     options:
-      - Fiskfärsbiff med räkröra, brynt smör och potatispuré
-      - Svampgryta med potatispuré och friterade linser
-      - Boeuf Bourguinon med rökt sidfläsk och potatispuré
+      - Pocherad torsk med brynt smörsås och broccoli
+      - Svampfrittata med semitorkad tomat och persiljekräm
+      - Färsbiff från Björlanda med gräddsås, potatis, inlagd västeråsgurka och
+        lingon
   - weekday: "4"
     options:
-      - Fisk med skaldjurssås, picklad fänkål och amandinepotatis
-      - Svampgryta med potatispuré och friterade linser
-      - Boeuf Bourguinon med rökt sidfläsk och potatispuré
+      - Torsk med äggsås, potatis och pepparrot
+      - Svampfrittata med semitorkad tomat och persiljekräm
+      - Färsbiff från Björlanda med gräddsås, potatis, inlagd västeråsgurka och
+        lingon
 ---
 Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se), 11 minuter från restaurangen. [](http://www.bjorlandagard.se)
 
