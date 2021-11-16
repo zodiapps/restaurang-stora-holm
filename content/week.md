@@ -3,22 +3,22 @@ title: Lunchmeny vecka 45
 menu:
   - weekday: "2"
     options:
-      - Vitling med smörstekt spetskål och dillmajonnäs
-      - Svampfrittata med semitorkad tomat och persiljekräm
-      - Färsbiff från Björlanda med gräddsås, potatis, inlagd västeråsgurka och
-        lingon
+      - Pankobakad fisk med pepparrotskräm och brynt smörpotatis
+      - Risotto med getost, picklad pumpa och brynt salviasmör
+      - Nattbakad bringa från Björlanda med dragonmajonnäs, rostad potatis och
+        picklad lök
   - weekday: "3"
     options:
-      - Pocherad torsk med brynt smörsås och broccoli
-      - Svampfrittata med semitorkad tomat och persiljekräm
-      - Färsbiff från Björlanda med gräddsås, potatis, inlagd västeråsgurka och
-        lingon
+      - Bakad lubb med gubbröra, bakad fänkål och brynt smör
+      - Risotto med getost, picklad pumpa och brynt salviasmör
+      - Nattbakad bringa från Björlanda med dragonmajonnäs, rostad potatis och
+        picklad lök
   - weekday: "4"
     options:
-      - Torsk med äggsås, potatis och pepparrot
-      - Svampfrittata med semitorkad tomat och persiljekräm
-      - Färsbiff från Björlanda med gräddsås, potatis, inlagd västeråsgurka och
-        lingon
+      - Lax med citronmajonnäs, picklad lök och sotad pak choi
+      - Risotto med getost, picklad pumpa och brynt salviasmör
+      - Nattbakad bringa från Björlanda med dragonmajonnäs, rostad potatis och
+        picklad lök
 ---
 Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se), 11 minuter från restaurangen. [](http://www.bjorlandagard.se)
 
