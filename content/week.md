@@ -1,5 +1,5 @@
 ---
-title: Lunchmeny vecka 45
+title: Lunchmeny vecka 46
 menu:
   - weekday: "2"
     options:
