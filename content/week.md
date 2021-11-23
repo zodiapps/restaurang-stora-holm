@@ -5,17 +5,17 @@ menu:
     options:
       - Fisk med dillsås, picklad fänkål och bakad broccoli
       - Portabellosvamp med rostad spetskål, kålbuljong och hasselnötter
-      - "Fläsksida med spetskål och svart vitlökssky "
+      - "Fläsksida från Björlanda gård med spetskål och svart vitlökssky "
   - weekday: "3"
     options:
       - Lax med palsternackspuré, friterade linser och brynt smör
       - Portabellosvamp med rostad spetskål, kålbuljong och hasselnötter
-      - "Fläsksida med spetskål och svart vitlökssky "
+      - "Fläsksida från Björlanda gård med spetskål och svart vitlökssky "
   - weekday: "4"
     options:
       - "Fiskfärsbiffar med räkröra och potatispuré "
       - Portabellosvamp med rostad spetskål, kålbuljong och hasselnötter
-      - "Fläsksida med spetskål och svart vitlökssky "
+      - "Fläsksida från Björlanda gård med spetskål och svart vitlökssky "
 ---
 Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se), 11 minuter från restaurangen. [](http://www.bjorlandagard.se)
 
