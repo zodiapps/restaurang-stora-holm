@@ -1,24 +1,21 @@
 ---
-title: Lunchmeny vecka 46
+title: Lunchmeny vecka 47
 menu:
   - weekday: "2"
     options:
-      - Pankobakad fisk med pepparrotskräm och brynt smörpotatis
-      - Risotto med getost, picklad pumpa och brynt salviasmör
-      - Nattbakad bringa från Björlanda med dragonmajonnäs, rostad potatis och
-        picklad lök
+      - Fisk med dillsås, picklad fänkål och bakad broccoli
+      - Portabellosvamp med rostad spetskål, kålbuljong och hasselnötter
+      - "Fläsksida med spetskål och svart vitlökssky "
   - weekday: "3"
     options:
-      - Bakad lubb med gubbröra, bakad fänkål och brynt smör
-      - Risotto med getost, picklad pumpa och brynt salviasmör
-      - Nattbakad bringa från Björlanda med dragonmajonnäs, rostad potatis och
-        picklad lök
+      - Lax med palsternackspuré, friterade linser och brynt smör
+      - Portabellosvamp med rostad spetskål, kålbuljong och hasselnötter
+      - "Fläsksida med spetskål och svart vitlökssky "
   - weekday: "4"
     options:
-      - Lax med citronmajonnäs, picklad lök och sotad pak choi
-      - Risotto med getost, picklad pumpa och brynt salviasmör
-      - Nattbakad bringa från Björlanda med dragonmajonnäs, rostad potatis och
-        picklad lök
+      - "Fiskfärsbiffar med räkröra och potatispuré "
+      - Portabellosvamp med rostad spetskål, kålbuljong och hasselnötter
+      - "Fläsksida med spetskål och svart vitlökssky "
 ---
 Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se), 11 minuter från restaurangen. [](http://www.bjorlandagard.se)
 
