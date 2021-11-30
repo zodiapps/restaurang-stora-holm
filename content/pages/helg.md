@@ -3,10 +3,12 @@ title: Helg
 description: Läs mer om helgkasse och helgmeny
 thumbnail: /images/uploads/stora_holm_1.jpg
 ---
-Helgen vecka 47 serverar vi 
+Helgen vecka 48 har vi julmarknad på gården och vi serverar:
 
-Hamburgare från Björlanda kött med karamelliserad lök, ost och kålsallad 
+ Gulasch med potatis
 
-Jordärtskocksoppa med ramslöksolja och svartkålchips
+Jordärtskocksoppa med rotfruktschips
 
-Räkmacka med dillmajo, picklad fänkål och brynt smör
+Sillmacka med ostkräm och brynt smör
+
+Skinkmacka med vår egna senap
