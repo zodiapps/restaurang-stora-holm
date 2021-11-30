@@ -1,21 +1,21 @@
 ---
-title: Lunchmeny vecka 47
+title: Lunchmeny vecka 48
 menu:
   - weekday: "2"
     options:
-      - Fisk med dillsås, picklad fänkål och bakad broccoli
-      - Portabellosvamp med rostad spetskål, kålbuljong och hasselnötter
-      - "Fläsksida från Björlanda gård med spetskål och svart vitlökssky "
+      - Pocherad fisk med vitvinssås och brysselkål
+      - Svart bönbiff med picklad chili, pak choi & svart vitlökskräm
+      - Schnitzel från Björlanda gård med rostad potatis och örtsmör
   - weekday: "3"
     options:
-      - Lax med palsternackspuré, friterade linser och brynt smör
-      - Portabellosvamp med rostad spetskål, kålbuljong och hasselnötter
-      - "Fläsksida från Björlanda gård med spetskål och svart vitlökssky "
+      - Fisk med dillmajonnäs, brynt smör och stekt kål
+      - Svart bönbiff med picklad chili, pak choi & svart vitlökskräm
+      - Schnitzel från Björlanda gård med rostad potatis och örtsmör
   - weekday: "4"
     options:
-      - "Fiskfärsbiffar med räkröra och potatispuré "
-      - Portabellosvamp med rostad spetskål, kålbuljong och hasselnötter
-      - "Fläsksida från Björlanda gård med spetskål och svart vitlökssky "
+      - Fisk med skaldjurssås, räkor och kålrabbi
+      - Svart bönbiff med picklad chili, pak choi & svart vitlökskräm
+      - Schnitzel från Björlanda gård med rostad potatis och örtsmör
 ---
 Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se), 11 minuter från restaurangen. [](http://www.bjorlandagard.se)
 
