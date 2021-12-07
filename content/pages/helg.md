@@ -3,12 +3,10 @@ title: Helg
 description: Läs mer om helgkasse och helgmeny
 thumbnail: /images/uploads/stora_holm_1.jpg
 ---
-Helgen vecka 48 har vi julmarknad på gården och vi serverar:
+Helgen vecka 49 serverar vi:
 
- Gulasch med potatis
+Torskrygg med vitvinssås och broccoli
 
-Jordärtskocksoppa med rotfruktschips
 
-Sillmacka med ostkräm och brynt smör
 
-Skinkmacka med vår egna senap
+Tomatsoppa med mozzarella och svartkål
