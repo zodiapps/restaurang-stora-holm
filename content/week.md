@@ -1,21 +1,21 @@
 ---
-title: Lunchmeny vecka 48
+title: Lunchmeny vecka 49
 menu:
   - weekday: "2"
     options:
-      - Pocherad fisk med vitvinssås och brysselkål
-      - Svart bönbiff med picklad chili, pak choi & svart vitlökskräm
-      - Schnitzel från Björlanda gård med rostad potatis och örtsmör
+      - Färskostbakad lubb med brynt smör, jordärtskocka och potatis
+      - Svampbiff med rostad morot och rödvinssås smaksatt med glögg
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
   - weekday: "3"
     options:
-      - Fisk med dillmajonnäs, brynt smör och stekt kål
-      - Svart bönbiff med picklad chili, pak choi & svart vitlökskräm
-      - Schnitzel från Björlanda gård med rostad potatis och örtsmör
+      - Kolja med saffransaioli, bakad fänkål och svartkålschips
+      - Svampbiff med rostad morot och rödvinssås smaksatt med glögg
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
   - weekday: "4"
     options:
-      - Fisk med skaldjurssås, räkor och kålrabbi
-      - Svart bönbiff med picklad chili, pak choi & svart vitlökskräm
-      - Schnitzel från Björlanda gård med rostad potatis och örtsmör
+      - Lax med syrad grädde, örtolja och blomkål
+      - Svampbiff med rostad morot och rödvinssås smaksatt med glögg
+      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
 ---
 Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se), 11 minuter från restaurangen. [](http://www.bjorlandagard.se)
 
