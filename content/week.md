@@ -1,21 +1,21 @@
 ---
-title: Lunchmeny vecka 49
+title: Lunchmeny vecka 50
 menu:
   - weekday: "2"
     options:
-      - Färskostbakad lubb med brynt smör, jordärtskocka och potatis
-      - Svampbiff med rostad morot och rödvinssås smaksatt med glögg
-      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
+      - Torsk med gubbröra, potatis och brynt smör
+      - Stekt ost med variation på kål och örtkräm
+      - Nattbakad fläsksida med apelsinsås, brysselkål och rostad potatis
   - weekday: "3"
     options:
-      - Kolja med saffransaioli, bakad fänkål och svartkålschips
-      - Svampbiff med rostad morot och rödvinssås smaksatt med glögg
-      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
+      - Kolja med grönkålsråraka, sandefjordsås och kryddpeppar
+      - Stekt ost med variation på kål och örtkräm
+      - Nattbakad fläsksida med apelsinsås, brysselkål och rostad potatis
   - weekday: "4"
     options:
-      - Lax med syrad grädde, örtolja och blomkål
-      - Svampbiff med rostad morot och rödvinssås smaksatt med glögg
-      - Boeuf Bourguinon med potatispuré och rökt sidfläsk
+      - Lax med hovmästarsås, potatis och picklad lök
+      - Stekt ost med variation på kål och örtkräm
+      - Nattbakad fläsksida med apelsinsås, brysselkål och rostad potatis
 ---
 Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se), 11 minuter från restaurangen. [](http://www.bjorlandagard.se)
 
