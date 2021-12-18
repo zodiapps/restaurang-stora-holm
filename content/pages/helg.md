@@ -5,8 +5,7 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Helgen vecka 49 serverar vi:
 
-Torskrygg med vitvinssås och broccoli
+Hälleflundra med broccolipuré och brynt smörsås
 
-
-
-Tomatsoppa med mozzarella och svartkål
+\
+Broccolisoppa
