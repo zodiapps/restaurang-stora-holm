@@ -1,21 +1,21 @@
 ---
-title: Lunchmeny vecka 50
+title: Vi öppnar den 20e januari
 menu:
   - weekday: "2"
     options:
-      - Torsk med gubbröra, potatis och brynt smör
-      - Stekt ost med variation på kål och örtkräm
-      - Nattbakad fläsksida med apelsinsås, brysselkål och rostad potatis
+      - "-"
+      - "-"
+      - "-"
   - weekday: "3"
     options:
-      - Kolja med grönkålsråraka, sandefjordsås och kryddpeppar
-      - Stekt ost med variation på kål och örtkräm
-      - Nattbakad fläsksida med apelsinsås, brysselkål och rostad potatis
+      - "-"
+      - "-"
+      - "-"
   - weekday: "4"
     options:
-      - Lax med hovmästarsås, potatis och picklad lök
-      - Stekt ost med variation på kål och örtkräm
-      - Nattbakad fläsksida med apelsinsås, brysselkål och rostad potatis
+      - "-"
+      - "-"
+      - "-"
 ---
 Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se), 11 minuter från restaurangen. [](http://www.bjorlandagard.se)
 
