@@ -1,25 +1,23 @@
 ---
-title: Vecka 3 (OBS! Vi öppnar på torsdag 20/1)
+title: Vecka 4
 menu:
   - weekday: "2"
     options:
-      - Stängt
-      - "-"
-      - "-"
+      - Dagens fångst med rostad palsternacka och brynt hasselnötssmör
+      - Svamprisotto med ostronskivling och svartkålschips
+      - Wallenbergare med rårörda lingon, ärtor och potatispuré
   - weekday: "3"
     options:
-      - Dagens fångst med brynt smör, pocherat ägg, pepparrot & räkor
-      - Stekt getost med råraka, kumminmorot och honungsyoghurt
-      - Schnitzel från Björlanda gård med örtsmör, rostad potatis och rödvinssås
+      - Dagens fångst med skaldjurssås och pommes anna
+      - Svamprisotto med ostronskivling och svartkålschips
+      - Wallenbergare med rårörda lingon, ärtor och potatispuré
   - weekday: "4"
     options:
-      - Dagens fångst med brynt smörsås, rostad jordärtskocka och picklad lök
-      - Stekt getost med råraka, kumminmorot och honungsyoghurt
-      - Schnitzel från Björlanda gård med örtsmör, rostad potatis och rödvinssås
+      - Pocherad fisk med vitvinssås och purjolök
+      - Svamprisotto med ostronskivling och svartkålschips
+      - Wallenbergare med rårörda lingon, ärtor och potatispuré
 ---
-Allt kött kommer från [Björlanda Gård](https://www.bjorlandagard.se), 11 minuter från restaurangen. [](http://www.bjorlandagard.se)
-
-[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
+[](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
 📫 info@restaurangstoraholm.se
 
