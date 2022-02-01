@@ -3,10 +3,10 @@ title: Helg
 description: Läs mer om helgkasse och helgmeny
 thumbnail: /images/uploads/stora_holm_1.jpg
 ---
-Denna helgen serverar vi:
+Denna helgen serverar vi, förutom nybakat fika:
 
-Fisk med blåmusslor, rökt musselsås och purjolök
+Panerad fisk med dansk remouladsås och potatis
 
-Broccolisoppa med friterad ostronskivling
+Vegetarisk soppa med nybakat bröd
 
 Ugnspannkaka med blåbärssylt och grädde
