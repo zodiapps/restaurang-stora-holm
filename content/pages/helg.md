@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Panerad fisk med dansk remouladsås och potatis
+Boeuf bourguinon med potatispuré och bakad rödlök
 
-Vegetarisk soppa med nybakat bröd
+Vegetarisk pumpasoppa med grönkål och rostade pumpafrön
 
 Ugnspannkaka med blåbärssylt och grädde
