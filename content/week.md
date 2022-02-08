@@ -1,24 +1,21 @@
 ---
-title: Vecka 5
+title: Vecka 6
 menu:
   - weekday: "2"
     options:
-      - Dagens fångst med rostad spetskål, sandefjordssås och amandinepotatis
-      - Lasagne med parmesan och rökt olja
-      - Nattbakat högrev från Björlanda gård med dragonmajonnäs, pommes anna och
-        morotspuré
+      - Panerad fisk med dansk remouladsås, brynt smör och dillpotatis
+      - Boeuf bourguinon med potatispuré och bakad rödlök
+      - Svampgryta med potatispuré och picklad pumpa
   - weekday: "3"
     options:
       - Dagens fångst med broccolipuré, brynt sardellsmör och kokt potatis
-      - Lasagne med parmesan och rökt olja
-      - Nattbakat högrev från Björlanda gård med dragonmajonnäs, pommes anna och
-        morotspuré
+      - Boeuf bourguinon med potatispuré och bakad rödlök
+      - Svampgryta med potatispuré och picklad pumpa
   - weekday: "4"
     options:
       - Dagens fångst med bakad fänkål och brynt smörsås
-      - Lasagne med parmesan och rökt olja
-      - Nattbakat högrev från Björlanda gård med dragonmajonnäs, pommes anna och
-        morotspuré
+      - Boeuf bourguinon med potatispuré och bakad rödlök
+      - Svampgryta med potatispuré och picklad pumpa
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
