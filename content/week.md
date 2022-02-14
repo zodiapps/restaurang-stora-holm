@@ -3,19 +3,19 @@ title: Vecka 6
 menu:
   - weekday: "2"
     options:
-      - Panerad fisk med dansk remouladsås, brynt smör och dillpotatis
-      - Boeuf bourguinon med potatispuré och bakad rödlök
-      - Svampgryta med potatispuré och picklad pumpa
+      - Stekt strömming med potatispuré, skirat smör och rårörda lingon
+      - Schnitzel med örtsmör, rödvinssås, rostad potatis och ärtor
+      - Panerad pumpa med rostad spetskål, friterad halloumi och persiljekräm
   - weekday: "3"
     options:
-      - Dagens fångst med broccolipuré, brynt sardellsmör och kokt potatis
-      - Boeuf bourguinon med potatispuré och bakad rödlök
-      - Svampgryta med potatispuré och picklad pumpa
+      - Bakad kolja med potatiskaka, räkröra och grönkål
+      - Schnitzel med örtsmör, rödvinssås, rostad potatis och ärtor
+      - Panerad pumpa med rostad spetskål, friterad halloumi och persiljekräm
   - weekday: "4"
     options:
-      - Dagens fångst med bakad fänkål och brynt smörsås
-      - Boeuf bourguinon med potatispuré och bakad rödlök
-      - Svampgryta med potatispuré och picklad pumpa
+      - Dagens fångst med skirat smör, rostad blomkål och sjökorall
+      - Schnitzel med örtsmör, rödvinssås, rostad potatis och ärtor
+      - Panerad pumpa med rostad spetskål, friterad halloumi och persiljekräm
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
