@@ -5,8 +5,10 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Boeuf bourguinon med potatispuré och bakad rödlök
+Lammchorizo med potatissallad, picklade senapsfrön och rödbetsketchup
 
-Vegetarisk pumpasoppa med grönkål och rostade pumpafrön
+Vegetarisk tomatsoppa med mozzarella och basilika
 
-Ugnspannkaka med blåbärssylt och grädde
+Räkmacka med dillmajonnäs och picklad fänkål
+
+Ugnspannkaka med sylt och grädde
