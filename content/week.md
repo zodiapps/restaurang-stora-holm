@@ -1,5 +1,5 @@
 ---
-title: Vecka 6
+title: Vecka 7
 menu:
   - weekday: "2"
     options:
