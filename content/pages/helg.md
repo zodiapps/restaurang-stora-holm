@@ -5,7 +5,7 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Lammchorizo med potatissallad, picklade senapsfrön och rödbetsketchup
+Pocherad fisk med skaldjurssås och romanesco
 
 Vegetarisk tomatsoppa med mozzarella och basilika
 
