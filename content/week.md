@@ -1,21 +1,21 @@
 ---
-title: Vecka 7
+title: Vecka 8
 menu:
   - weekday: "2"
     options:
-      - Stekt strömming med potatispuré, skirat smör och rårörda lingon
-      - Schnitzel med örtsmör, rödvinssås, rostad potatis och ärtor
-      - Panerad pumpa med rostad spetskål, friterad halloumi och persiljekräm
+      - Pocherad torsk med äggsås och potatis
+      - Nattbakad fläsksida med spetskål, picklade senapsfrön och äppelsky
+      - Linsgryta med ris, korianderyoghurt och lime
   - weekday: "3"
     options:
-      - Bakad kolja med potatiskaka, räkröra och grönkål
-      - Schnitzel med örtsmör, rödvinssås, rostad potatis och ärtor
-      - Panerad pumpa med rostad spetskål, friterad halloumi och persiljekräm
+      - Bakad torsk med vitvinssås, potatis och broccoli
+      - Nattbakad fläsksida med spetskål, picklade senapsfrön och äppelsky
+      - Linsgryta med ris, korianderyoghurt och lime
   - weekday: "4"
     options:
-      - Dagens fångst med skirat smör, rostad blomkål och sjökorall
-      - Schnitzel med örtsmör, rödvinssås, rostad potatis och ärtor
-      - Panerad pumpa med rostad spetskål, friterad halloumi och persiljekräm
+      - Dagens fångst med räkor, pepparrot och dillsås
+      - Nattbakad fläsksida med spetskål, picklade senapsfrön och äppelsky
+      - Linsgryta med ris, korianderyoghurt och lime
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
