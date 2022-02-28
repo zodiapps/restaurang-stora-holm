@@ -1,21 +1,21 @@
 ---
-title: Vecka 8
+title: Vecka 9
 menu:
   - weekday: "2"
     options:
-      - Pocherad torsk med äggsås och potatis
-      - Nattbakad fläsksida med spetskål, picklade senapsfrön och äppelsky
-      - Linsgryta med ris, korianderyoghurt och lime
+      - Fisk med skaldjurssås, bakad fänkål och potatis med grönkål
+      - Hjortfärsbiff med gräddsås, potatispuré och lingon
+      - Friterad getostkrokett med potatisfondant, rödbetskräm och pumpa
   - weekday: "3"
     options:
-      - Bakad torsk med vitvinssås, potatis och broccoli
-      - Nattbakad fläsksida med spetskål, picklade senapsfrön och äppelsky
-      - Linsgryta med ris, korianderyoghurt och lime
+      - Havskatt med sandefjordsås, potatis och smörkokt morot
+      - Hjortfärsbiff med gräddsås, potatispuré och lingon
+      - Friterad getostkrokett med potatisfondant, rödbetskräm och pumpa
   - weekday: "4"
     options:
-      - Dagens fångst med räkor, pepparrot och dillsås
-      - Nattbakad fläsksida med spetskål, picklade senapsfrön och äppelsky
-      - Linsgryta med ris, korianderyoghurt och lime
+      - Bakad lubb med broccolipuré, brynt smörsås och friterad jordärtskocka
+      - Hjortfärsbiff med gräddsås, potatispuré och lingon
+      - Friterad getostkrokett med potatisfondant, rödbetskräm och pumpa
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
