@@ -5,10 +5,10 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Boeuf bourguinon med potatispuré, persilja och rostad morot
+Grillad surdegslevain med mozzarella, högrev och picklad chili
 
-Jordärtskocksoppa med ramslök och surdegsbröd
+Jordärtskocksoppa med ramslök och rotfruktschips
 
-Räkmacka med dillmajonnäs och picklad fänkål
+Räkmacka med inlagd fänkål, dillmajonnäs och ägg
 
 Ugnspannkaka med sylt och grädde
