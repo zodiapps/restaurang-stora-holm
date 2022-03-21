@@ -5,10 +5,10 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Grillad surdegslevain med mozzarella, högrev och picklad chili
+Varmrökt lax med svartrot, romsås och potatis
 
-Jordärtskocksoppa med ramslök och rotfruktschips
+Vegetarisk soppa med nybakat surdegsbröd
 
 Räkmacka med inlagd fänkål, dillmajonnäs och ägg
 
-Ugnspannkaka med sylt och grädde
+Ugnspannkaka med blåbärssylt och grädde
