@@ -1,24 +1,21 @@
 ---
-title: Vecka 11
+title: Vecka 12
 menu:
   - weekday: "2"
     options:
-      - Örtbakad långa med smörstekt spetskål, örtkräm och brynt smör
-      - Nattbakat högrev från Björlanda med morotspuré, dragonmajonnäs och
-        pommes anna
-      - Risotto med västerbottenost, grönkål och getost
+      - Fisk med blomkål, vitvinssås med dill och amandinepotatis
+      - Broccolibiffar med grillad kål, rostade nötter och svart vitlökskräm
+      - Wallenbergare med potatispuré, ärtor och skirat smör
   - weekday: "3"
     options:
-      - Blekafilé  med kräftolja, bakad morot och rostad grönkål
-      - Nattbakat högrev från Björlanda med morotspuré, dragonmajonnäs och
-        pommes anna
-      - Risotto med västerbottenost, grönkål och getost
+      - Dagens fångst med brynt hasselnötssmör och grillad pak choi
+      - Broccolibiffar med grillad kål, rostade nötter och svart vitlökskräm
+      - Wallenbergare med potatispuré, ärtor och skirat smör
   - weekday: "4"
     options:
-      - Pocherad torsk med blåmusselsås, sjökorall och bakat potatisstomp
-      - Nattbakat högrev från Björlanda med morotspuré, dragonmajonnäs och
-        pommes anna
-      - Risotto med västerbottenost, grönkål och getost
+      - Fisk med skaldjurssås, potatisterrin och picklad morot
+      - Broccolibiffar med grillad kål, rostade nötter och svart vitlökskräm
+      - Wallenbergare med potatispuré, ärtor och skirat smör
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
