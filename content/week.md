@@ -1,21 +1,21 @@
 ---
-title: Vecka 12
+title: Vecka 13
 menu:
   - weekday: "2"
     options:
-      - Fisk med blomkål, vitvinssås med dill och amandinepotatis
-      - Broccolibiffar med grillad kål, rostade nötter och svart vitlökskräm
-      - Wallenbergare med potatispuré, ärtor och skirat smör
+      - Fisk med rostad jordärtskocka, vitvinssås och picklad lök
+      - Linsgryta med stekost, ris och korianderyoghurt
+      - Nattbakad fläsksida med äppelsky, spetskål och rostad potatis
   - weekday: "3"
     options:
-      - Dagens fångst med brynt hasselnötssmör och grillad pak choi
-      - Broccolibiffar med grillad kål, rostade nötter och svart vitlökskräm
-      - Wallenbergare med potatispuré, ärtor och skirat smör
+      - Dagens fångst med sandefjordsås, kålrabbi och potatis
+      - Linsgryta med stekost, ris och korianderyoghurt
+      - Nattbakad fläsksida med äppelsky, spetskål och rostad potatis
   - weekday: "4"
     options:
-      - Fisk med skaldjurssås, potatisterrin och picklad morot
-      - Broccolibiffar med grillad kål, rostade nötter och svart vitlökskräm
-      - Wallenbergare med potatispuré, ärtor och skirat smör
+      - Fisk med bakat potatisstomp, brynt sardellsmör och broccoli
+      - Linsgryta med stekost, ris och korianderyoghurt
+      - Nattbakad fläsksida med äppelsky, spetskål och rostad potatis
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
