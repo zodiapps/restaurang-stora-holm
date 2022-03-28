@@ -5,7 +5,7 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Varmrökt lax med svartrot, romsås och potatis
+Lammfärsbiffar från Lycke med rostad potatis och örtkräm
 
 Vegetarisk soppa med nybakat surdegsbröd
 
