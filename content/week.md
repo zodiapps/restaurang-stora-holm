@@ -3,19 +3,19 @@ title: Vecka 13
 menu:
   - weekday: "2"
     options:
-      - Fisk med rostad jordärtskocka, vitvinssås och picklad lök
-      - Linsgryta med stekost, ris och korianderyoghurt
-      - Nattbakad fläsksida med äppelsky, spetskål och rostad potatis
+      - Fiskfärsbiff med potatiskaka, brynt citronsmör och morot
+      - Lasagne med spenat & mozzarella med kålsallad
+      - Schnitzel med rödvinssås, rostad potatis och örtsmör
   - weekday: "3"
     options:
-      - Dagens fångst med sandefjordsås, kålrabbi och potatis
-      - Linsgryta med stekost, ris och korianderyoghurt
-      - Nattbakad fläsksida med äppelsky, spetskål och rostad potatis
+      - Kolja med potatis, rödbeta, pepparrot och bechamelsås
+      - Lasagne med spenat & mozzarella med kålsallad
+      - Schnitzel med rödvinssås, rostad potatis och örtsmör
   - weekday: "4"
     options:
-      - Fisk med bakat potatisstomp, brynt sardellsmör och broccoli
-      - Linsgryta med stekost, ris och korianderyoghurt
-      - Nattbakad fläsksida med äppelsky, spetskål och rostad potatis
+      - Vinpocherad fisk med svartrot, musselsås och friterade linser
+      - Lasagne med spenat & mozzarella med kålsallad
+      - Schnitzel med rödvinssås, rostad potatis och örtsmör
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
