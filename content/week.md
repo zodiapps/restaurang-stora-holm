@@ -1,21 +1,20 @@
 ---
-title: Vecka 14
+title: Vecka 15
 menu:
   - weekday: "2"
     options:
-      - Fiskfärsbiff med potatiskaka, brynt citronsmör och morot
-      - Lasagne med spenat & mozzarella med kålsallad
-      - Schnitzel med rödvinssås, rostad potatis och örtsmör
+      - Dagens fångst med brynt smörsås och broccoli
+      - Risotto med getost, picklad pumpa och saltrostade frön
+      - Boeuf Bourguinon med potatispuré och bakad lök
   - weekday: "3"
     options:
-      - Kolja med potatis, rödbeta, pepparrot och bechamelsås
-      - Lasagne med spenat & mozzarella med kålsallad
-      - Schnitzel med rödvinssås, rostad potatis och örtsmör
+      - Dagens fångst med gubbröra, brynt smör och smörstekt vitkål
+      - Risotto med getost, picklad pumpa och saltrostade frön
+      - Boeuf Bourguinon med potatispuré och bakad lök
   - weekday: "4"
     options:
-      - Vinpocherad fisk med svartrot, musselsås och friterade linser
-      - Lasagne med spenat & mozzarella med kålsallad
-      - Schnitzel med rödvinssås, rostad potatis och örtsmör
+      - Se helgmeny
+      - OBS! Söndag 17/4 har vi stängt
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
