@@ -1,20 +1,19 @@
 ---
-title: Vecka 15
+title: Vecka 16
 menu:
   - weekday: "2"
     options:
-      - Dagens fångst med brynt smörsås och broccoli
-      - Risotto med getost, picklad pumpa och saltrostade frön
-      - Boeuf Bourguinon med potatispuré och bakad lök
+      - Färskostbakad fisk med purjolök, potatis och brynt citronsmör
+      - Svampfrittata med semitorkad tomat och örtkräm
+      - Wallenbergare med rårörda lingon, potatispuré & skirat smör
   - weekday: "3"
     options:
-      - Dagens fångst med gubbröra, brynt smör och smörstekt vitkål
-      - Risotto med getost, picklad pumpa och saltrostade frön
-      - Boeuf Bourguinon med potatispuré och bakad lök
+      - Stängt
   - weekday: "4"
     options:
-      - Se helgmeny
-      - OBS! Söndag 17/4 har vi stängt
+      - Havskatt med bakat potatisstomp, romsås och picklad kålrabbi
+      - Svampfrittata med semitorkad tomat och örtkräm
+      - Wallenbergare med rårörda lingon, potatispuré & skirat smör
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
