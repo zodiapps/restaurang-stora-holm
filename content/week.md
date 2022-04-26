@@ -1,19 +1,21 @@
 ---
-title: Vecka 16
+title: Vecka 17
 menu:
   - weekday: "2"
     options:
-      - Färskostbakad fisk med purjolök, potatis och brynt citronsmör
-      - Svampfrittata med semitorkad tomat och örtkräm
-      - Wallenbergare med rårörda lingon, potatispuré & skirat smör
+      - Pocherad kolja med sparris, hollandaisesås och färskpotatis
+      - Broccolibiff med svart vitlökskräm, picklad chili och pak choi
+      - Fläsksida med morotspuré, svart vitlökskräm och confiterad potatisfondant
   - weekday: "3"
     options:
-      - Stängt
+      - Fisk med ramslökssås, amandinepotatis och broccolipuré
+      - Broccolibiff med svart vitlökskräm, picklad chili och pak choi
+      - Fläsksida med morotspuré, svart vitlökskräm och confiterad potatisfondant
   - weekday: "4"
     options:
-      - Havskatt med bakat potatisstomp, romsås och picklad kålrabbi
-      - Svampfrittata med semitorkad tomat och örtkräm
-      - Wallenbergare med rårörda lingon, potatispuré & skirat smör
+      - Pankopanerad fiskfärsbiff med räkröra och picklad morot
+      - Broccolibiff med svart vitlökskräm, picklad chili och pak choi
+      - Fläsksida med morotspuré, svart vitlökskräm och confiterad potatisfondant
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
