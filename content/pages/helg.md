@@ -5,10 +5,10 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Grillad focaccia med confiterad kyckling, chimichurri och picklad chil
+Sparrissoppa med ramslök
 
-Sillmacka med ostkräm, potatis och brynt smör
+Varmrökt laxsallad med polkabeta och lagrad ost
 
-Vegetarisk tomatsoppa soppa med nybakat bröd
+Grillad focaccia med porchetta och svart vitlökskräm
 
 Ugnspannkaka med blåbärssylt och grädde
