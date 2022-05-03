@@ -1,21 +1,21 @@
 ---
-title: Vecka 17
+title: Vecka 18
 menu:
   - weekday: "2"
     options:
-      - Pocherad kolja med sparris, hollandaisesås och färskpotatis
-      - Broccolibiff med svart vitlökskräm, picklad chili och pak choi
-      - Fläsksida med morotspuré, svart vitlökskräm och confiterad potatisfondant
+      - Pocherad sej med rapsskott, vitvinssås och sparrispotatis
+      - Svampragu med rostade rotfrukter och svartkål
+      - Högrev från Björlanda med dragonmajonnäs & rostade rotfrukter
   - weekday: "3"
     options:
-      - Fisk med ramslökssås, amandinepotatis och broccolipuré
-      - Broccolibiff med svart vitlökskräm, picklad chili och pak choi
-      - Fläsksida med morotspuré, svart vitlökskräm och confiterad potatisfondant
+      - Torsk med äggsås, amandinepotatis och nyplockad ramslök
+      - Svampragu med rostade rotfrukter och svartkål
+      - Högrev från Björlanda med dragonmajonnäs & rostade rotfrukter
   - weekday: "4"
     options:
-      - Pankopanerad fiskfärsbiff med räkröra och picklad morot
-      - Broccolibiff med svart vitlökskräm, picklad chili och pak choi
-      - Fläsksida med morotspuré, svart vitlökskräm och confiterad potatisfondant
+      - Långa med sandefjordsås och blomkål
+      - Svampragu med rostade rotfrukter och svartkål
+      - Högrev från Björlanda med dragonmajonnäs & rostade rotfrukter
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
