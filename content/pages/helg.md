@@ -5,10 +5,10 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Sparrissoppa med ramslök
-
-Varmrökt laxsallad med polkabeta och lagrad ost
-
 Grillad focaccia med porchetta och svart vitlökskräm
+
+Ramslökssoppa med nybakat bröd
+
+Varmrökt laxsallad med vit sparris
 
 Ugnspannkaka med blåbärssylt och grädde
