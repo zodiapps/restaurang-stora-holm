@@ -3,19 +3,19 @@ title: Vecka 18
 menu:
   - weekday: "2"
     options:
-      - Pocherad sej med rapsskott, vitvinssås och sparrispotatis
-      - Svampragu med rostade rotfrukter och svartkål
-      - Högrev från Björlanda med dragonmajonnäs & rostade rotfrukter
+      - Lubb med sotad pak choi och brynt sardellsmör
+      - Arancini med picklad lök, jordärtskockpuré & friterade linser
+      - Hjortfärsbiff med rårörda vinbär, gräddsås och potatis
   - weekday: "3"
     options:
-      - Torsk med äggsås, amandinepotatis och nyplockad ramslök
-      - Svampragu med rostade rotfrukter och svartkål
-      - Högrev från Björlanda med dragonmajonnäs & rostade rotfrukter
+      - Fisk med gubbröra, brynt smör och potatis
+      - Arancini med picklad lök, jordärtskockpuré & friterade linser
+      - Hjortfärsbiff med rårörda vinbär, gräddsås och potatis
   - weekday: "4"
     options:
-      - Långa med sandefjordsås och blomkål
-      - Svampragu med rostade rotfrukter och svartkål
-      - Högrev från Björlanda med dragonmajonnäs & rostade rotfrukter
+      - Fisk med betor, pepparrot och bechamelsås
+      - Arancini med picklad lök, jordärtskockpuré & friterade linser
+      - Hjortfärsbiff med rårörda vinbär, gräddsås och potatis
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
