@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Varmrökt lax med potatis och romsås
+Flankstek med rostad potatis, picklad chili och dragonmajonnäs
 
-Ramslökssoppa med nybakat bröd 
+Vegetarisk soppa med nybakat bröd
 
 Ugnspannkaka med blåbärssylt och grädde
