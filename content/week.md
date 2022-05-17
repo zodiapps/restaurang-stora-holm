@@ -1,21 +1,21 @@
 ---
-title: Vecka 19
+title: Vecka 20
 menu:
   - weekday: "2"
     options:
-      - Lubb med sotad pak choi och brynt sardellsmör
-      - Arancini med picklad lök, jordärtskockpuré & friterade linser
-      - Hjortfärsbiff med rårörda vinbär, gräddsås och potatis
+      - Fisk med sparrissås & broccolipuré
+      - Örtbakad svamp med kål, morot & ramslökspesto
+      - Schnitzel med rostad potatis, örtsmör & rödvinssås
   - weekday: "3"
     options:
-      - Fisk med gubbröra, brynt smör och potatis
-      - Arancini med picklad lök, jordärtskockpuré & friterade linser
-      - Hjortfärsbiff med rårörda vinbär, gräddsås och potatis
+      - Fisk med dillsås,savojkål och picklad morot
+      - Örtbakad svamp med kål, morot & ramslökspesto
+      - Schnitzel med rostad potatis, örtsmör & rödvinssås
   - weekday: "4"
     options:
-      - Fisk med betor, pepparrot och bechamelsås
-      - Arancini med picklad lök, jordärtskockpuré & friterade linser
-      - Hjortfärsbiff med rårörda vinbär, gräddsås och potatis
+      - Bakad torsk med potatiskaka och vitvinssås
+      - Örtbakad svamp med kål, morot & ramslökspesto
+      - Schnitzel med rostad potatis, örtsmör & rödvinssås
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
