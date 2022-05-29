@@ -1,21 +1,21 @@
 ---
-title: Vecka 21
+title: Vecka 22
 menu:
   - weekday: "2"
     options:
-      - Fisk med smörstekt kål och dillemulsion
-      - Lasagne med gråärt, västerbottenost & kålsallad
-      - Wallenbergare med potatispuré, skirat smör & rårörda lingon
+      - Bakad fisk med gräslökssås och sparris
+      - Linsgryta med halloumi och korianderyoghurt
+      - Boeuf Bourguignon med potatispuré och bakad rödlök
   - weekday: "3"
     options:
-      - Fisk med brynt smörsås och rostad fänkål
-      - Lasagne med gråärt, västerbottenost & kålsallad
-      - Wallenbergare med potatispuré, skirat smör & rårörda lingon
+      - Torsk med äggsås, pepparrot och sparrisbroccoli
+      - Linsgryta med halloumi och korianderyoghurt
+      - Boeuf Bourguignon med potatispuré och bakad rödlök
   - weekday: "4"
     options:
-      - Pocherad fisk med sparris och skaldjurssås
-      - Lasagne med gråärt, västerbottenost & kålsallad
-      - Wallenbergare med potatispuré, skirat smör & rårörda lingon
+      - Dagens fångst med picklad blomkål och skaldjurssås
+      - Linsgryta med halloumi och korianderyoghurt
+      - Boeuf Bourguignon med potatispuré och bakad rödlök
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
