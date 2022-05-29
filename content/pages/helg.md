@@ -5,8 +5,12 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Flankstek med rostad potatis, picklad chili och dragonmajonnäs
 
-Vegetarisk soppa med nybakat bröd
+
+Caesarsallad med knäredkyckling och parmesan
+
+Tomatsoppa med basilikaolja och nybakat bröd
+
+Räkmacka med örtmajonnäs och picklad fänkål 
 
 Ugnspannkaka med blåbärssylt och grädde
