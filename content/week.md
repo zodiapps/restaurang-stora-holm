@@ -1,21 +1,21 @@
 ---
-title: Vecka 22
+title: Vecka 23
 menu:
   - weekday: "2"
     options:
-      - Bakad fisk med gräslökssås och sparris
-      - Linsgryta med halloumi och korianderyoghurt
-      - Boeuf Bourguignon med potatispuré och bakad rödlök
+      - Långa med brynt sojasmör och pak choi
+      - Portabello med stekt gnocchi, parmesankräm och picklad lök
+      - Nattbakad fläsksida med äppelsky och spetskål
   - weekday: "3"
     options:
-      - Torsk med äggsås, pepparrot och sparrisbroccoli
-      - Linsgryta med halloumi och korianderyoghurt
-      - Boeuf Bourguignon med potatispuré och bakad rödlök
+      - Kummel med gubbröra, fänkål och potatis
+      - Portabello med stekt gnocchi, parmesankräm och picklad lök
+      - Nattbakad fläsksida med äppelsky och spetskål
   - weekday: "4"
     options:
-      - Dagens fångst med picklad blomkål och skaldjurssås
-      - Linsgryta med halloumi och korianderyoghurt
-      - Boeuf Bourguignon med potatispuré och bakad rödlök
+      - Dagens fångst med fermenterad ramslöksås & zucchini
+      - Portabello med stekt gnocchi, parmesankräm och picklad lök
+      - Nattbakad fläsksida med äppelsky och spetskål
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
