@@ -9,6 +9,4 @@ Pocherad fisk med vitvinssås, friterade linser och broccoli
 
 Tomatsoppa med basilikaolja och nybakat bröd
 
-Räkmacka med örtmajonnäs och picklad fänkål 
-
 Ugnspannkaka med blåbärssylt och grädde
