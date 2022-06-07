@@ -5,9 +5,7 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-
-
-Caesarsallad med knäredkyckling och parmesan
+Pocherad fisk med vitvinssås, friterade linser och broccoli
 
 Tomatsoppa med basilikaolja och nybakat bröd
 
