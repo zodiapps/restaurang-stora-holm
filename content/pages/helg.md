@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi, förutom nybakat fika:
 
-Pocherad fisk med vitvinssås, friterade linser och broccoli
+Pocherad fisk med picklad fänkål, morot & skaldjurssås
 
-Tomatsoppa med basilikaolja och nybakat bröd
+Sillmacka med färskost, potatis och brynt smör
 
-Ugnspannkaka med blåbärssylt och grädde
+Ugnspannkaka med hallonsylt och grädde
