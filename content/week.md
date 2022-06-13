@@ -1,21 +1,21 @@
 ---
-title: Vecka 23
+title: Vecka 24
 menu:
   - weekday: "2"
     options:
-      - Långa med brynt sojasmör och pak choi
-      - Portabello med stekt gnocchi, parmesankräm och picklad lök
-      - Nattbakad fläsksida med äppelsky och spetskål
+      - Panerad fiskfärsbiff med räkröra och potatispuré
+      - Vegetarisk svampragu med rotfrukter och grönkål
+      - Flankstek med pommes anna, dijonnaise och picklad chili
   - weekday: "3"
     options:
-      - Kummel med gubbröra, fänkål och potatis
-      - Portabello med stekt gnocchi, parmesankräm och picklad lök
-      - Nattbakad fläsksida med äppelsky och spetskål
+      - "Dagens fångst med rostad och picklad jordärtskocka & beurre blanc "
+      - Vegetarisk svampragu med rotfrukter och grönkål
+      - Flankstek med pommes anna, dijonnaise och picklad chili
   - weekday: "4"
     options:
-      - Dagens fångst med fermenterad ramslöksås & zucchini
-      - Portabello med stekt gnocchi, parmesankräm och picklad lök
-      - Nattbakad fläsksida med äppelsky och spetskål
+      - Färskostbakad fisk med potatisstomp och brynt citronsmör
+      - Vegetarisk svampragu med rotfrukter och grönkål
+      - Flankstek med pommes anna, dijonnaise och picklad chili
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
