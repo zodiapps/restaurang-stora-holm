@@ -1,21 +1,15 @@
 ---
-title: Vecka 24
+title: Vecka 25
 menu:
   - weekday: "2"
     options:
-      - Panerad fiskfärsbiff med räkröra och potatispuré
-      - Vegetarisk svampragu med rotfrukter och grönkål
-      - Flankstek med pommes anna, dijonnaise och picklad chili
+      - Stängt
   - weekday: "3"
     options:
-      - "Dagens fångst med rostad och picklad jordärtskocka & beurre blanc "
-      - Vegetarisk svampragu med rotfrukter och grönkål
-      - Flankstek med pommes anna, dijonnaise och picklad chili
+      - Vi serverar en sillmacka och en svampsoppa
   - weekday: "4"
     options:
-      - Färskostbakad fisk med potatisstomp och brynt citronsmör
-      - Vegetarisk svampragu med rotfrukter och grönkål
-      - Flankstek med pommes anna, dijonnaise och picklad chili
+      - Stängt
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
