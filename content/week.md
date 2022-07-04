@@ -1,21 +1,21 @@
 ---
-title: Vecka 26
+title: Vecka 27
 menu:
   - weekday: "2"
     options:
-      - Pankopanerad kolja med dansk remoulad och potatis
-      - Örtstekt blomkål med bönhummus, picklad kålrabbi och rökt syrad grädde
-      - Knäredkyckling med rostad vitlökskräm, potatisfondant och morot
+      - Smörstekt långa med sotad pak choi och brynt sardellsmör
+      - Vegetarisk lasagne med gråärt, mozzarella och kålsallad
+      - Hjortfärsbiff med rostade rotfrukter, rårörda lingon och gräddsås
   - weekday: "3"
     options:
-      - Halstrad vildlax med hovmästarsås, färskpotatis och fänkål
-      - Örtstekt blomkål med bönhummus, picklad kålrabbi och rökt syrad grädde
-      - Knäredkyckling med rostad vitlökskräm, potatisfondant och morot
+      - Kummel med smörstekt kål och örtmajonnäs
+      - Vegetarisk lasagne med gråärt, mozzarella och kålsallad
+      - Hjortfärsbiff med rostade rotfrukter, rårörda lingon och gräddsås
   - weekday: "4"
     options:
-      - Fisk med blomkålspuré, persiljesås och picklad jordärtskocka
-      - Örtstekt blomkål med bönhummus, picklad kålrabbi och rökt syrad grädde
-      - Knäredkyckling med rostad vitlökskräm, potatisfondant och morot
+      - TBA
+      - Vegetarisk lasagne med gråärt, mozzarella och kålsallad
+      - Hjortfärsbiff med rostade rotfrukter, rårörda lingon och gräddsås
 ---
 [](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
 
