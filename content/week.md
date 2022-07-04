@@ -13,7 +13,7 @@ menu:
       - Hjortfärsbiff med rostade rotfrukter, rårörda lingon och gräddsås
   - weekday: "4"
     options:
-      - TBA
+      - Dagens fångst med broccoli och vitvinssås
       - Vegetarisk lasagne med gråärt, mozzarella och kålsallad
       - Hjortfärsbiff med rostade rotfrukter, rårörda lingon och gräddsås
 ---
