@@ -3,7 +3,7 @@ title: Vecka 27
 menu:
   - weekday: "2"
     options:
-      - Smörstekt långa med sotad pak choi och brynt sardellsmör
+      - Långa med sotad pak choi och brynt sardellsmör
       - Vegetarisk lasagne med gråärt, mozzarella och kålsallad
       - Hjortfärsbiff med rostade rotfrukter, rårörda lingon och gräddsås
   - weekday: "3"
