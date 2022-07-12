@@ -1,23 +1,8 @@
 ---
-title: Vecka 27
-menu:
-  - weekday: "2"
-    options:
-      - Långa med sotad pak choi och brynt sardellsmör
-      - Vegetarisk lasagne med gråärt, mozzarella och kålsallad
-      - Hjortfärsbiff med rostade rotfrukter, rårörda lingon och gräddsås
-  - weekday: "3"
-    options:
-      - Kummel med smörstekt kål och örtmajonnäs
-      - Vegetarisk lasagne med gråärt, mozzarella och kålsallad
-      - Hjortfärsbiff med rostade rotfrukter, rårörda lingon och gräddsås
-  - weekday: "4"
-    options:
-      - Dagens fångst med broccoli och vitvinssås
-      - Vegetarisk lasagne med gråärt, mozzarella och kålsallad
-      - Hjortfärsbiff med rostade rotfrukter, rårörda lingon och gräddsås
+title: Vi har semesterstängt och öppnar den 10e augusti
+menu: []
 ---
-[](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)Ta gärna en titt på vår helgmeny under rubriken [Helg](https://www.restaurangstoraholm.se/helg/?i=2)
+[](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)[](https://www.restaurangstoraholm.se/helg/?i=2)[](https://www.restaurangstoraholm.se/helg/?i=2)
 
 📫 info@restaurangstoraholm.se
 
