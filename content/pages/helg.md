@@ -3,10 +3,10 @@ title: Helg
 description: Läs mer om helgkasse och helgmeny
 thumbnail: /images/uploads/stora_holm_1.jpg
 ---
-Denna helgen serverar vi
+Denna helgen serverar vi:
 
-Pizza med mozzarella och nduja
+Surdegspizza med mozzarella och nduja
 
-Getostsallad med valnöt och grönsaker
+Getostsallad med valnötter, honungsdressing och palsternacka
 
-Ugnspannkaka med grädde och sylt
+Ugnspannkaka med grädde och blåbärssylt
