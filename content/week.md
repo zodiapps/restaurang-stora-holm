@@ -1,21 +1,21 @@
 ---
-title: Lunch vecka 32
+title: Lunch vecka 33
 menu:
   - weekday: "2"
     options:
-      - Kolja med pocherat ägg, räkor och brynt smör
-      - Kyckling med kantarellsås, rostad polentapotatis och grönkål
-      - Broccolibiff med smörstekt kål, picklad purjolök och purjolökkräm
+      - Pocherad fisk med gubbröra och råraka
+      - Wallenbergare med potatispuré, lingon och skirat smör
+      - Lasagne med gråärt, tomat och mozzarella samt kålsallad
   - weekday: "3"
     options:
-      - Vinpocherad fisk med rödbetor, pepparrot och bechamel
-      - Kyckling med kantarellsås, rostad polentapotatis och grönkål
-      - Broccolibiff med smörstekt kål, picklad purjolök och purjolökkräm
+      - Bleka med blomkålspuré, brynt smörsås och marinerad broccoli
+      - Wallenbergare med potatispuré, lingon och skirat smör
+      - Lasagne med gråärt, tomat och mozzarella samt kålsallad
   - weekday: "4"
     options:
-      - Sej med stuvad purjolök, rostad jordärtskocka och purjolökskräm
-      - Kyckling med kantarellsås, rostad polentapotatis och grönkål
-      - Broccolibiff med smörstekt kål, picklad purjolök och purjolökkräm
+      - Fisk med grillad pak choi och brynt citronsmör
+      - Wallenbergare med potatispuré, lingon och skirat smör
+      - Lasagne med gråärt, tomat och mozzarella samt kålsallad
 ---
 Vi har öppet onsdag till söndag 11 - 16
 
