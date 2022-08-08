@@ -13,7 +13,7 @@ menu:
       - Broccolibiff med smörstekt kål, picklad purjolök och purjolökkräm
   - weekday: "4"
     options:
-      - Kyckling med kantarellsås, rostad polentapotatis och grönkål
+      - Sej med stuvad purjolök, rostad jordärtskocka och purjolökskräm
       - Kyckling med kantarellsås, rostad polentapotatis och grönkål
       - Broccolibiff med smörstekt kål, picklad purjolök och purjolökkräm
 ---
