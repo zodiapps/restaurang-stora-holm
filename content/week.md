@@ -1,8 +1,25 @@
 ---
 title: Vi har semesterstängt och öppnar den 10e augusti
-menu: []
+menu:
+  - weekday: "2"
+    options:
+      - Kolja med pocherat ägg, räkor och brynt smör
+      - Kyckling med kantarellsås, rostad polentapotatis och grönkål
+      - Broccolibiff med smörstekt kål, picklad purjolök och purjolökkräm
+  - weekday: "3"
+    options:
+      - Vinpocherad fisk med rödbetor, pepparrot och bechamel
+      - Kyckling med kantarellsås, rostad polentapotatis och grönkål
+      - Broccolibiff med smörstekt kål, picklad purjolök och purjolökkräm
+  - weekday: "4"
+    options:
+      - Kyckling med kantarellsås, rostad polentapotatis och grönkål
+      - Kyckling med kantarellsås, rostad polentapotatis och grönkål
+      - Broccolibiff med smörstekt kål, picklad purjolök och purjolökkräm
 ---
-[](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)[](https://www.restaurangstoraholm.se/helg/?i=2)[](https://www.restaurangstoraholm.se/helg/?i=2)
+Vi har öppet onsdag till söndag 11 - 16
+
+Lunchen serveras till 14.[](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)[](https://www.restaurangstoraholm.se/helg/?i=2)[](https://www.restaurangstoraholm.se/helg/?i=2)
 
 📫 info@restaurangstoraholm.se
 
