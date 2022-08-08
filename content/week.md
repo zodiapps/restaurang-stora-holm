@@ -1,5 +1,5 @@
 ---
-title: Vi har semesterstängt och öppnar den 10e augusti
+title: Lunch vecka 32
 menu:
   - weekday: "2"
     options:
