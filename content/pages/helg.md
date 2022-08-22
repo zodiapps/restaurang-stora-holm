@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Surdegspizza med mozzarella och nduja
+Grillad focaccia med flankstek, svart vitlöksmajonnäs och picklad chili
 
-Getostsallad med valnötter, honungsdressing och palsternacka
+Sallad med getost, rostad morot och valnöt
 
-Ugnspannkaka med grädde och blåbärssylt
+Ugnspannkaka med blåbärssylt och grädde
