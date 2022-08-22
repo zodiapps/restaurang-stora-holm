@@ -13,7 +13,7 @@ items:
     description: Läs mer om vår helgmeny
     thumbnail: /images/uploads/stora_holm_1.jpg
     link: helg
-  - title: Om oss
+  - title: Kontakta oss
     description: Hitta hit
     thumbnail: /images/uploads/brod.jpg
     link: om-oss
