@@ -10,7 +10,7 @@ Smörstekt sej med räkor och pepparrotshollandaise**
 **Veckans vegetariska:
 Svampragu med rostad potatis och friterad svartkål**
 
-**Veckans kött:**\
+**Veckans kött:**
 **Schnitzel med rödvinssås, rostad potatis och örtsmör**
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
