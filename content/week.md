@@ -1,21 +1,21 @@
 ---
-title: Lunch vecka 33
+title: Lunch vecka 34
 menu:
   - weekday: "2"
     options:
-      - Pocherad fisk med gubbröra och råraka
-      - Wallenbergare med potatispuré, lingon och skirat smör
-      - Lasagne med gråärt, tomat och mozzarella samt kålsallad
+      - Smörstekt sej med räkor och pepparrotshollandaise
+      - Schnitzel med rödvinssås, rostad potatis och örtsmör
+      - Svampragu med rostad potatis och friterad svartkål
   - weekday: "3"
     options:
-      - Bleka med blomkålspuré, brynt smörsås och marinerad broccoli
-      - Wallenbergare med potatispuré, lingon och skirat smör
-      - Lasagne med gråärt, tomat och mozzarella samt kålsallad
+      - Smörstekt sej med räkor och pepparrotshollandaise
+      - Schnitzel med rödvinssås, rostad potatis och örtsmör
+      - Svampragu med rostad potatis och friterad svartkål
   - weekday: "4"
     options:
-      - Fisk med grillad pak choi och brynt citronsmör
-      - Wallenbergare med potatispuré, lingon och skirat smör
-      - Lasagne med gråärt, tomat och mozzarella samt kålsallad
+      - Smörstekt sej med räkor och pepparrotshollandaise
+      - Schnitzel med rödvinssås, rostad potatis och örtsmör
+      - Svampragu med rostad potatis och friterad svartkål
 ---
 Vi har öppet onsdag till söndag 11 - 16
 
