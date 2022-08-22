@@ -13,7 +13,7 @@ Svampragu med rostad potatis och friterad svartkål**
 **Veckans kött:**\
 **Schnitzel med rödvinssås, rostad potatis och örtsmör**
 
-Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2)
+Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
 Vi har öppet onsdag till söndag 11 - 16
 
