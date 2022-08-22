@@ -4,17 +4,16 @@ menu: []
 ---
 Onsdag till fredag:
 
-Veckans fisk:\
-Smörstekt sej med räkor och pepparrotshollandaise
+**Veckans fisk:
+Smörstekt sej med räkor och pepparrotshollandaise**
 
-Veckans vegetariska:\
-Svampragu med rostad potatis och friterad svartkål
+**Veckans vegetariska:
+Svampragu med rostad potatis och friterad svartkål**
 
-Veckans kött:Schnitzel med rödvinssås, rostad potatis och örtsmör
+**Veckans kött:**\
+**Schnitzel med rödvinssås, rostad potatis och örtsmör**
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2)
-
-
 
 Vi har öppet onsdag till söndag 11 - 16
 
