@@ -1,17 +1,17 @@
 ---
-title: Lunch vecka 34
+title: Lunch vecka 35
 menu: []
 ---
 Onsdag till fredag:
 
-**Veckans fisk:
-Smörstekt sej med räkor och pepparrotshollandaise**
+**Veckans fisk:**
+Kummel med fermenterad krondillsås, broccoli och potatis
 
-**Veckans vegetariska:
-Svampragu med rostad potatis och friterad svartkål**
+**Veckans vegetariska:**
+Getost med rödbetsråraka, örtyoghurt och marinerad broccoli
 
 **Veckans kött:**
-**Schnitzel med rödvinssås, rostad potatis och örtsmör**
+Nattbakad rapsgrissida med kål, morot och äppelsky
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
