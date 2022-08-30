@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Grillad focaccia med flankstek, svart vitlöksmajonnäs och picklad chili
+Grillad focaccia med kyckling, mozzarella och picklad chili
 
-Sallad med getost, rostad morot och valnöt
+Sallad med getost, rödbeta och valnöt
 
 Ugnspannkaka med blåbärssylt och grädde
