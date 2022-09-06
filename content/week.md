@@ -5,13 +5,13 @@ menu: []
 Onsdag till fredag:
 
 **Veckans fisk:**
-Kummel med fermenterad krondillsås, broccoli och potatis
+Halstrad lax med zucchini, syrad grädde och potatis
 
 **Veckans vegetariska:**
-Getost med rödbetsråraka, örtyoghurt och marinerad broccoli
+Linsgryta med halloumi och korianderyoghurt
 
 **Veckans kött:**
-Nattbakad rapsgrissida med kål, morot och äppelsky
+Boeuf Bourguinon med potatispuré och grillad lök
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
