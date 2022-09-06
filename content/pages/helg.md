@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Grillad focaccia med kyckling, mozzarella och picklad chili
+Tacos med fläsksida, jalapeno och grillad gurka
 
-Sallad med getost, rödbeta och valnöt
+Vegetarisk taco med svamp och friterade linser
 
 Ugnspannkaka med blåbärssylt och grädde
