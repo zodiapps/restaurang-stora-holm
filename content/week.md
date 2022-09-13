@@ -1,17 +1,17 @@
 ---
-title: Lunch vecka 36
+title: Lunch vecka 37
 menu: []
 ---
 Onsdag till fredag:
 
 **Veckans fisk:**
-Halstrad lax med zucchini, syrad grädde och potatis
+Dagens fångst med äggsås, rödbeta och pepparrot
 
 **Veckans vegetariska:**
-Linsgryta med halloumi och korianderyoghurt
+Morotsbiff med halloumi med rödbetspuré och dragonmajonnäs
 
 **Veckans kött:**
-Boeuf Bourguinon med potatispuré och grillad lök
+Kyckling med dragonmajonnäs, morotspuré och örtpotatis
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
