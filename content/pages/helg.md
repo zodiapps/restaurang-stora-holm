@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Tacos med fläsksida, jalapeno och grillad gurka
+Vegetarisk soppa med nybakat bröd och brödröra 
 
-Vegetarisk taco med svamp och friterade linser
+Fisk med vitvinssås, zucchini och potatis
 
-Ugnspannkaka med blåbärssylt och grädde
+Ugnspannkaka med sylt och grädde
