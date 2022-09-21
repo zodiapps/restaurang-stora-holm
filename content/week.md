@@ -4,14 +4,14 @@ menu: []
 ---
 Onsdag till fredag:
 
-**Veckans fisk:**
-Dagens fångst med äggsås, rödbeta och pepparrot
+Veckans fisk\
+Dagens fångst med vitvinssås, ärtpuré och picklad pumpa
 
-**Veckans vegetariska:**
-Morotsbiff med halloumi med rödbetspuré och dragonmajonnäs
+Veckans vegetariska\
+svamp med matvete, kålbuljong och grillad palsternacka
 
-**Veckans kött:**
-Kyckling med dragonmajonnäs, morotspuré och örtpotatis
+Veckans kött\
+Oxkind med rostad morot, rostad vitlökskräm och potatis
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
