@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Vegetarisk soppa med nybakat bröd och brödröra 
+Boeuf Bourguinon med potatispuré 
 
-Fisk med vitvinssås, zucchini och potatis
+Vegetarisk soppa med nybakat bröd och brödröra
 
 Ugnspannkaka med sylt och grädde
