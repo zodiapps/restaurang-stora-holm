@@ -5,7 +5,7 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Boeuf Bourguinon med potatispuré 
+Dagens fångst med broccoli och brynt smörsås
 
 Vegetarisk soppa med nybakat bröd och brödröra
 
