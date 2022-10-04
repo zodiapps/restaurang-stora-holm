@@ -1,17 +1,17 @@
 ---
-title: Lunch vecka 39
+title: Lunch vecka 40
 menu: []
 ---
 Onsdag till fredag:
 
 Veckans fisk\
-Dagens fångst med smörstekt kål och örtkräm
+Dagens fångst med sandefjordsås, blomkål och sjökorall
 
 Veckans vegetariska\
-Lasagne med spenat, mozzarella och gråärt
+Svampgryta med pumpa och kumminrostad potatis
 
 Veckans kött\
-Färsbiff med lingon och kantarellsås
+Schnitzel med rödvinssås, rostad potatis och örtsmör
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
