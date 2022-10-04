@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Dagens fångst med broccoli och brynt smörsås
+Pocherad fisk med vitvinssås, broccolipuré och kålrabbi
 
-Vegetarisk soppa med nybakat bröd och brödröra
+Tomatsoppa med nybakat bröd och brödröra
 
 Ugnspannkaka med sylt och grädde
