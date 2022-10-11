@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Pocherad fisk med vitvinssås, broccolipuré och kålrabbi
+Gulasch med turkisk yoghurt
 
-Tomatsoppa med nybakat bröd och brödröra
+Höstsallad med Löfsta stekaren, äpple, jordärtskocka och äppeldressing
 
 Ugnspannkaka med sylt och grädde
