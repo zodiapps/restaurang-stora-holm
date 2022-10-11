@@ -1,17 +1,17 @@
 ---
-title: Lunch vecka 40
+title: Lunch vecka 41
 menu: []
 ---
 Onsdag till fredag:
 
 Veckans fisk\
-Dagens fångst med sandefjordsås, blomkål och sjökorall
+Vildfångad vänerlax med citronkräm picklad fänkål och potatis
 
 Veckans vegetariska\
-Svampgryta med pumpa och kumminrostad potatis
+Grillad kålrabbi med gotlandslinser och dragonmajonnäs
 
 Veckans kött\
-Schnitzel med rödvinssås, rostad potatis och örtsmör
+Wallenbergare med potatispuré, rårörda lingon och skirat smör
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
