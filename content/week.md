@@ -5,7 +5,7 @@ menu: []
 Onsdag till fredag:
 
 Veckans fisk\
-Dagens fångst med gubbröra och broccoli
+Dagens fångst med gubbröra, broccoli och sparrispotatis
 
 Veckans vegetariska\
 Frittata med semitorkad tomat och persiljekräm
