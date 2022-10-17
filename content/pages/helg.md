@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Gulasch med turkisk yoghurt
+Gulasch med yoghurt och nybakat surdegsbröd
 
-Höstsallad med Löfsta stekaren, äpple, jordärtskocka och äppeldressing
+Vegetarisk paj med grönkål, valnöt och parmesan
 
 Ugnspannkaka med sylt och grädde
