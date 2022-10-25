@@ -1,17 +1,18 @@
 ---
-title: Lunch vecka 42
+title: Lunch vecka 43
 menu: []
 ---
 Onsdag till fredag:
 
 Veckans fisk\
-Dagens fångst med gubbröra, broccoli och sparrispotatis
+Dagens fångst med krondillsås, 
 
 Veckans vegetariska\
-Frittata med semitorkad tomat och persiljekräm
+Linsbiff med , kumminyoghurt och 
 
-Veckans kött\
-Kyckling med pommes anna, dragonkräm och picklad lök
+Veckans köttKålpudding med hjort, grönpepparsås och rostade rotsaker
+
+
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
