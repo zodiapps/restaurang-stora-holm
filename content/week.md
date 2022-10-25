@@ -5,14 +5,14 @@ menu: []
 Onsdag till fredag:
 
 Veckans fisk\
-Dagens fångst med krondillsås, 
+Dagens fångst med krondillsås och vaxbönor
 
 Veckans vegetariska\
-Linsbiff med , kumminyoghurt och 
+Linsbiff med  kumminyoghurt och rostad potatis
 
-Veckans köttKålpudding med hjort, grönpepparsås och rostade rotsaker
+Veckans kött
 
-
+Kålpudding med hjort, grönpepparsås och rostade rotsaker
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
