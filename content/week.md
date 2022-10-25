@@ -12,7 +12,7 @@ Linsbiff med  kumminyoghurt och rostad potatis
 
 Veckans kött
 
-Kålpudding med hjort, grönpepparsås och rostade rotsaker
+Kålpudding på hjortfärs, grönpepparsås och rostade rotsaker
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
