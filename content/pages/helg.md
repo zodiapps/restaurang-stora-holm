@@ -5,9 +5,7 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-
-
-Matig våffla med chevre, rödbeta och spenat
+Flankstek med rostad potatis, dragonkräm och picklad lök
 
 Tomatsoppa med basilika och nybakat bröd
 
