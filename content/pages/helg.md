@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Flankstek med rostad potatis, dragonkräm och picklad lök
+Viltfärsbiff med potatispuré, gräddsås & rårörda lingon
 
-Tomatsoppa med basilika och nybakat bröd
+Risotto med ostronskivling, picklad pumpa, grönkål och brynt salviasmör
 
 Ugnspannkaka med sylt och grädde
