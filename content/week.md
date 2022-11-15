@@ -1,17 +1,17 @@
 ---
-title: Lunch vecka 45
+title: Lunch vecka 46
 menu: []
 ---
 Onsdag till fredag:
 
 Veckans fisk\
-Dagens fångst med confiterad morot, sjökorall och musselsås
+Dagens fångst med smörstekt rödbeta och bechamel
 
 Veckans vegetariska\
-Svart bönbiff med rostad majskräm, picklad chili och svart ris
+Stekt gnocchi med skogschampinjon, grönkål och västerbottensostkräm
 
 Veckans kött\
-Pluma med linser, kycklingsky och korianderolja
+Schnitzel med rödvinssås, rostad potatis och örtsmör
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
