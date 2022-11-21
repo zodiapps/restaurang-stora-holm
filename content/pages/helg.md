@@ -5,7 +5,7 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi:
 
-Grillad macka med bringa, surkål och rostad vitlöksmajo 
+Fisk med amandinepotatis, brynt sojasmör och mangold
 
 Vegetarisk soppa med nybakat bröd
 
