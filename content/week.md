@@ -7,13 +7,13 @@ menu:
 ---
 Onsdag till fredag:
 
-Veckans fisk 149kr\
+Veckans fisk 149kr
 Dagens fångst med grillad blomkål, blomkålssås och picklad blomkål
 
-Veckans vegetariska 139kr\
+Veckans vegetariska 139kr
 Morotsbiff med getost, dragonkräm, rostad potatis och körvelolja
 
-Veckans kött 149kr\
+Veckans kött 149kr
 Wallenbergare med potatispuré, lingon och skirat smör
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
