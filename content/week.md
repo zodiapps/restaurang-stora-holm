@@ -1,9 +1,6 @@
 ---
 title: Lunch vecka 48
-menu:
-  - weekday: "2"
-    options:
-      - "488"
+menu: []
 ---
 Onsdag till fredag:
 
@@ -22,7 +19,7 @@ Vi har öppet onsdag till söndag 11 - 16.
 
 Boka gärna bord om ni är fler än 8 personer.
 
-Lunchen serveras till 14.[](http://www.bjorlandagard.se)[](http://www.bjorlandagard.se)[](https://www.restaurangstoraholm.se/helg/?i=2)[](https://www.restaurangstoraholm.se/helg/?i=2)
+Lunchen serveras till 14.[](https://www.restaurangstoraholm.se/helg/?i=2)
 
 📫 info@restaurangstoraholm.se
 
