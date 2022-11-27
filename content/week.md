@@ -1,6 +1,9 @@
 ---
 title: Lunch vecka 48
-menu: []
+menu:
+  - weekday: "2"
+    options:
+      - "48"
 ---
 Onsdag till fredag:
 
