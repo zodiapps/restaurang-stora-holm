@@ -1,18 +1,17 @@
 ---
-title: Lunch vecka 47
+title: Lunch vecka 48
 menu: []
 ---
 Onsdag till fredag:
 
-Veckans fisk\
-Dagens fångst med romsås, örtolja och fänkål
+Veckans fisk 149kr\
+Dagens fångst med grillad blomkål, blomkålssås och picklad blomkål
 
-Veckans vegetariska\
-Linsgryta med ris, holloumi och korianderyoghurt
+Veckans vegetariska 139kr\
+Morotsbiff med getost, dragonkräm, rostad potatis och körvelolja
 
-Veckans kött
-
-Boeuf Bourguinon med potatispuré
+Veckans kött 149kr\
+Wallenbergare med potatispuré, lingon och skirat smör
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
