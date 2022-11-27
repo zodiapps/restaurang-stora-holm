@@ -3,7 +3,7 @@ title: Lunch vecka 48
 menu:
   - weekday: "2"
     options:
-      - "48"
+      - "488"
 ---
 Onsdag till fredag:
 
