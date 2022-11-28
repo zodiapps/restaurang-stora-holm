@@ -2,7 +2,7 @@
 title: Lunch vecka 48
 menu: []
 ---
-Onsdag till fredag:ll
+Onsdag till fredag:
 
 Veckans fisk 149kr
 Dagens fångst med grillad blomkål, blomkålssås och picklad blomkål
