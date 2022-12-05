@@ -3,8 +3,11 @@ title: Helg
 description: Läs mer om helgkasse och helgmeny
 thumbnail: /images/uploads/stora_holm_1.jpg
 ---
-Välkomna på julmarknad den 3e och 4e december. Vi kommer servera gott fika samt 
+I helgen serverar vi, förutom gott fika:
 
-Gulaschsoppa med yoghurt 
+Kyckling med grönkålssallad, bakad rotselleri\
+& kycklingsky smaksatt med dragon
 
-Jordärtskocksoppa med ramslök
+Vegetarisk soppa med nybakat bröd 
+
+Ugnspannkaka med sylt och grädde
