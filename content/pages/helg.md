@@ -5,9 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 I helgen serverar vi, förutom gott fika:
 
-Kyckling med grönkålssallad, bakad rotselleri\
-& kycklingsky smaksatt med dragon
+Våfflor med goda tillbehör
 
-Vegetarisk soppa med nybakat bröd 
+Vegetarisk soppa
 
 Ugnspannkaka med sylt och grädde
