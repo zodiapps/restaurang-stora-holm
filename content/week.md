@@ -4,14 +4,14 @@ menu: []
 ---
 Onsdag till fredag:
 
-Veckans fisk 149kr\
-Långa med amandinepotatis, brysselkål & bechamel smaksatt med kryddpeppar
+Veckans fisk: \
+Långa med amandinepotatis, brysselkål & bechamel smaksatt med kryddpeppar 149kr
 
-Veckans vegetariska 139kr\
-Smörstekt broccoliblast med pumpapuré, getost och friterade linser
+Veckans vegetariska:\
+Smörstekt broccoliblast med pumpapuré, getost och friterade linser 139kr
 
-Veckans kött 149kr\
-Gulasch med potatis, yoghurt och persilja
+Veckans kött:\
+Gulasch med potatis, yoghurt och persilja 149kr
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
