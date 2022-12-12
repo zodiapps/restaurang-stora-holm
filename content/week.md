@@ -1,18 +1,17 @@
 ---
-title: Lunch vecka 49
+title: Lunch vecka 50
 menu: []
 ---
 Onsdag till fredag:
 
-Veckans fisk:\
-Dagens fångst med smörstekt vitkål, brynt smör\
-& saffransaioli 149kr
+Veckans fisk 149kr\
+Långa med amandinepotatis, brysselkål & bechamel smaksatt med kryddpeppar
 
-Veckans vegetariska:\
-Svampragu med krossad potatis och grönkålschips 139kr
+Veckans vegetariska 139kr\
+Smörstekt broccoliblast med pumpapuré, getost och friterade linser
 
-Veckans kött:\
-Fläsksida med kumminrostad morot och äppelsky 149kr
+Veckans kött 149kr\
+Gulasch med potatis, yoghurt och persilja
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
