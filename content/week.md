@@ -1,17 +1,20 @@
 ---
-title: Lunch vecka 50
+title: Lunch vecka 51
 menu: []
 ---
-Onsdag till fredag:
+Vi har endast öppet torsdag 22/12.
 
-Veckans fisk: \
-Långa med amandinepotatis, brysselkål & bechamel smaksatt med kryddpeppar 149kr
+Dagens kött:
 
-Veckans vegetariska:\
-Smörstekt broccoliblast med pumpapuré, getost och friterade linser 139kr
+Brässerad oxkind med rödvinssås, rostad potatis och dragonkräm
 
-Veckans kött:\
-Gulasch med potatis, yoghurt och persilja 149kr
+Dagens fisk:
+
+Dagens fångst med gubbröra, brynt smör och vitkål
+
+Dagens vegetariska:
+
+Råraka med getostkräm och gotlandslinser
 
 Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
 
