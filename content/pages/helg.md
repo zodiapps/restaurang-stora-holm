@@ -3,10 +3,8 @@ title: Helg
 description: Läs mer om helgkasse och helgmeny
 thumbnail: /images/uploads/stora_holm_1.jpg
 ---
-I helgen serverar vi, förutom gott fika:
+Söndag (18/12) har restaurangen stängt p.g.a sjukdom.
 
-Våfflor med goda tillbehör
+Vi öppnar igen vecka 5. 
 
-Vegetarisk soppa
-
-Ugnspannkaka med sylt och grädde
+Boka gärna på info@restaurangstoraholm.se
