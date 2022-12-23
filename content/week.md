@@ -1,24 +1,8 @@
 ---
-title: Lunch vecka 51
+title: God jul och gott nytt år
 menu: []
 ---
-Vi har endast öppet torsdag 22/12.
-
-Dagens kött:
-
-Brässerad oxkind med rödvinssås, rostad potatis och dragonkräm
-
-Dagens fisk:
-
-Dagens fångst med gubbröra, brynt smör och vitkål
-
-Dagens vegetariska:
-
-Råraka med getostkräm och gotlandslinser
-
-Helgmenyn hittar ni [här](https://www.restaurangstoraholm.se/helg/?i=2).
-
-Vi har öppet onsdag till söndag 11 - 16. 
+Vi öppnar den 18e januari.
 
 Boka gärna bord om ni är fler än 8 personer.
 
