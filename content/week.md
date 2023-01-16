@@ -1,8 +1,14 @@
 ---
-title: God jul och gott nytt år
+title: vecka 3
 menu: []
 ---
-Vi öppnar den 18e januari.
+**Veckans fisk**\
+Vinpocherad fisk med mandelpotatis, gubbröra och kålrabbi
+
+**Veckans vegetariska**\
+Linsgryta med grillost och korianderyoghurt
+
+**Veckans kött**Rödvinsbräserad oxkind med rostad palsternacka ochrostad vitlökskräm
 
 Boka gärna bord om ni är fler än 8 personer.
 
