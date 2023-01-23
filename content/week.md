@@ -1,14 +1,21 @@
 ---
-title: vecka 3
+title: vecka 4
 menu: []
 ---
+\
+**Onsdag till fredag:**
+
 **Veckans fisk**\
-Vinpocherad fisk med mandelpotatis, gubbröra och kålrabbi
+Dagens fångst med savojkål, fermenterad ramslöksås och picklad jordärtskocka 
 
 **Veckans vegetariska**\
-Linsgryta med grillost och korianderyoghurt
+Lasagne med getost, gråärt och kålsallad 
 
-**Veckans kött**Rödvinsbräserad oxkind med rostad palsternacka ochrostad vitlökskräm
+**Veckans kött**\
+Kålpudding på hjortfärs med grönpepparsås, kokt potatis och rårörda lingon
+
+\
+149kr inkl. nybakat bröd, kaffe och kaka
 
 Boka gärna bord om ni är fler än 8 personer.
 
