@@ -1,19 +1,17 @@
 ---
-title: vecka 4
+title: vecka 5
 menu: []
 ---
-
 **Onsdag till fredag:**
 
-**Veckans fisk**
-Dagens fångst med savojkål, fermenterad ramslöksås och picklad jordärtskocka 
+Veckans fisk\
+Vinpocherad bleka med räkröra, gulbeta och dillvinägrett
 
-**Veckans vegetariska**
-Lasagne med getost, gråärt och kålsallad 
+Veckans vegetariska\
+Portabello med chimichurri, kål och kålbuljong
 
-**Veckans kött**
-Kålpudding på hjortfärs med grönpepparsås, kokt potatis och rårörda lingon
-
+Veckans kött\
+Helstekt kotlettrad med äppelmarinerad savojkål, chimichurri och rostad potatis
 
 149kr inkl. nybakat bröd, kaffe och kaka
 
