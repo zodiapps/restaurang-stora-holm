@@ -11,7 +11,7 @@ Veckans vegetariska\
 Portabello med chimichurri, kål och kålbuljong
 
 Veckans kött\
-Helstekt kotlettrad med äppelmarinerad savojkål, chimichurri och rostad potatis
+Helstekt kotlettrad från Dalsjöfors med äppelmarinerad savojkål, chimichurri och rostad potatis
 
 149kr inkl. nybakat bröd, kaffe och kaka
 
