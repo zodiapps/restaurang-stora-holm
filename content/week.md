@@ -1,17 +1,17 @@
 ---
-title: vecka 5
+title: vecka 6
 menu: []
 ---
 **Onsdag till fredag:**
 
 Veckans fisk\
-Vinpocherad bleka med räkröra, gulbeta och dillvinägrett
+Stekt strömming med rårörda lingon, potatispuré och skirat smör
 
 Veckans vegetariska\
-Portabello med chimichurri, kål och kålbuljong
+Risotto med getost, picklad pumpa och brynt salviasmör
 
 Veckans kött\
-Helstekt kotlettrad från Dalsjöfors med äppelmarinerad savojkål, chimichurri och rostad potatis
+Boeuf Bourguinon med potatispuré och grillad lök
 
 149kr inkl. nybakat bröd, kaffe och kaka
 
