@@ -1,19 +1,19 @@
 ---
-title: vecka 6
+title: vecka 7
 menu: []
 ---
 **Onsdag till fredag:**
 
 Veckans fisk\
-Stekt strömming med rårörda lingon, potatispuré och skirat smör
+Halstrad sejrygg med grön ärtkräm, pepparrot och brynt citronsmör
 
 Veckans vegetariska\
-Risotto med getost, picklad pumpa och brynt salviasmör
+Gulärtbiff med polentarostad potatis, grönkålsallad och kumminyoghurt
 
 Veckans kött\
-Boeuf Bourguinon med potatispuré och grillad lök
+Kyckling med pommes Anna, dragonkräm och picklad lök
 
-149kr inkl. nybakat bröd, kaffe och kaka
+149kr inkl. sallad, bröd, kaffe och kaka
 
 Boka gärna bord om ni är fler än 8 personer.
 
