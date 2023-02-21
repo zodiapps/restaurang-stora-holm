@@ -5,13 +5,13 @@ menu: []
 **Onsdag till fredag:**
 
 Veckans fisk\
-Halstrad sejrygg med grön ärtkräm, pepparrot och brynt citronsmör
+Regnbågslax med rotselleripuré, picklad rotselleri och citronkräm
 
 Veckans vegetariska\
-Gulärtbiff med polentarostad potatis, grönkålsallad och kumminyoghurt
+Svampragu med rostad potatis och friterade linser
 
 Veckans kött\
-Kyckling med pommes Anna, dragonkräm och picklad lök
+Wallenbergare med potatispuré, skirat smör, lingon och ärtor
 
 149kr inkl. sallad, bröd, kaffe och kaka
 
