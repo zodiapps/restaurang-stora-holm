@@ -7,8 +7,8 @@ D﻿enna helgen serverar vi förutom gott fika
 
 Vegetarisk soppa med nybakat bröd
 
-Sillmacka med friterad schalottenlök, ostkräm och brynt smör
+Sallad med kyckling, rostade rotfrukter och ceasardressing
 
-Västerbottensostpaj med lufttorkad skinka och dijonkräm
+Sillmacka med friterade linser, ostkräm och brynt smör
 
 Boka gärna på info@restaurangstoraholm.se
