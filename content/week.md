@@ -1,17 +1,17 @@
 ---
-title: vecka 8
+title: vecka 9
 menu: []
 ---
 **Onsdag till fredag:**
 
 Veckans fisk\
-Regnbågslax med rotselleripuré, picklad rotselleri och citronkräm
+Fisk med dillmajonnäs och kål
 
 Veckans vegetariska\
-Svampragu med rostad potatis och friterade linser
+Linsgryta med ris, halloumi och korianderyoghurt
 
 Veckans kött\
-Wallenbergare med potatispuré, skirat smör, lingon och ärtor
+Schnitzel med örtsmör, rostad potatis och rödvinssås
 
 149kr inkl. sallad, bröd, kaffe och kaka
 
