@@ -4,10 +4,10 @@ menu: []
 ---
 **Onsdag till fredag:**
 
-**Veckans fisk**\
+**Veckans fisk**
 Fiskfärsbiff med potatispuré, skaldjurssås och picklad fänkål
 
-**Veckans vegetariska**\
+**Veckans vegetariska**
 Lasagne med gråärt och västerbottensost och kålsallad
 
 **Veckans kött**
