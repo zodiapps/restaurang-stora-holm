@@ -10,7 +10,9 @@ Fiskfärsbiff med potatispuré, skaldjurssås och picklad fänkål
 **Veckans vegetariska**\
 Lasagne med gråärt och västerbottensost och kålsallad
 
-**Veckans kött**Ungersk gulasch med yoghurt och örtpotatis
+**Veckans kött**
+
+Ungersk gulasch med yoghurt och örtpotatis
 
 149kr inkl. sallad, bröd, kaffe och kaka
 
