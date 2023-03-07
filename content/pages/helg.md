@@ -3,12 +3,14 @@ title: Helg
 description: Läs mer om helgkasse och helgmeny
 thumbnail: /images/uploads/stora_holm_1.jpg
 ---
-D﻿enna helgen serverar vi förutom gott fika
+I﻿ helgen serverar vi förutom gott fika
 
-Vegetarisk soppa med nybakat bröd
+P﻿umpasoppa med svartkål och nybakat bröd
 
-Sallad med kyckling, rostade rotfrukter och ceasardressing
+Paj med picklad pumpa, kålsallad och senapskräm
 
 Sillmacka med friterade linser, ostkräm och brynt smör
 
-Boka gärna på info@restaurangstoraholm.se
+
+
+Ä﻿r ni ett större sällskap får ni gärna boka på info@restaurangstoraholm.se
