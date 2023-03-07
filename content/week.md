@@ -1,17 +1,16 @@
 ---
-title: vecka 9
+title: vecka 10
 menu: []
 ---
 **Onsdag till fredag:**
 
-Veckans fisk\
-Fisk med dillmajonnäs och kål
+**Veckans fisk**\
+Fiskfärsbiff med potatispuré, skaldjurssås och picklad fänkål
 
-Veckans vegetariska\
-Linsgryta med ris, halloumi och korianderyoghurt
+**Veckans vegetariska**\
+Lasagne med gråärt och västerbottensost och kålsallad
 
-Veckans kött\
-Schnitzel med örtsmör, rostad potatis och rödvinssås
+**Veckans kött**Ungersk gulasch med yoghurt och örtpotatis
 
 149kr inkl. sallad, bröd, kaffe och kaka
 
