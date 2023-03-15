@@ -4,15 +4,14 @@ menu: []
 ---
 **Onsdag till fredag:**
 
-**Veckans fisk**
-Fiskfärsbiff med potatispuré, skaldjurssås och picklad fänkål
+**Veckans fisk**\
+Halstrad sej med brynt sojasmör, jordärtskocka och friterad palsternacka 
 
-**Veckans vegetariska**
-Lasagne med gråärt och västerbottensost och kålsallad
+**Veckans vegetariska**\
+Morotsbiff med stekost, rostad kål, kålsky och svart vitlökskräm
 
-**Veckans kött**
-
-Ungersk gulasch med yoghurt och örtpotatis
+**Veckans kött**\
+Helstekt kotlettrad med svart vitlökskräm, kål och rostad potatis 
 
 149kr inkl. sallad, bröd, kaffe och kaka
 
