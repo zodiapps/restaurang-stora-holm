@@ -7,7 +7,7 @@ I﻿ helgen serverar vi förutom gott fika
 
 Jordärtskocksoppa med bröd
 
-Kycklingsallad med caesardressing, rostade rotfrukter och pickles
+Kycklingsallad med caesardressing, rostade rotfrukter och picklad morot
 
 Matjessillmacka med ägg, potatis och brynt smör
 
