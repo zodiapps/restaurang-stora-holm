@@ -4,13 +4,13 @@ menu: []
 ---
 **Onsdag till fredag:**
 
-Veckans fisk\
+Veckans fisk
 Vinpocherad fisk med picklad blomkål & vitvinsås
 
-Veckans vegetariska\
+Veckans vegetariska
 Gnocchi med svamp, kål och picklad lök 
 
-Veckans kött\
+Veckans kött
 Kålpudding med gräddsås, rårörda lingon och potatis
 
 149kr inkl. sallad, bröd, kaffe och kaka
