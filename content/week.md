@@ -1,17 +1,17 @@
 ---
-title: vecka 10
+title: vecka 12
 menu: []
 ---
 **Onsdag till fredag:**
 
-**Veckans fisk**\
-Halstrad sej med brynt sojasmör, jordärtskocka och friterad palsternacka 
+Veckans fisk\
+Vinpocherad fisk med picklad blomkål & vitvinsås
 
-**Veckans vegetariska**\
-Morotsbiff med stekost, rostad kål, kålsky och svart vitlökskräm
+Veckans vegetariska\
+Gnocchi med svamp, kål och picklad lök 
 
-**Veckans kött**\
-Helstekt kotlettrad med svart vitlökskräm, kål och rostad potatis 
+Veckans kött\
+Kålpudding med gräddsås, rårörda lingon och potatis
 
 149kr inkl. sallad, bröd, kaffe och kaka
 
