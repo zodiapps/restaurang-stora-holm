@@ -21,4 +21,6 @@ Lunchen serveras till 14.[](https://www.restaurangstoraholm.se/helg/?i=2)
 
 📫 info@restaurangstoraholm.se
 
-☎️ 070-602 85 69
+Boka/lunch
+☎️ 073-980 37 84
+070-602 85 69
