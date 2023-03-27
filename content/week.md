@@ -13,12 +13,17 @@ Linsgryta med ris, halloumi & korianderyoghurt
 Veckans kött
 Kyckling med kantarellsås och pommes anna
 
-
 149kr inkl. sallad, bröd, kaffe och kaka
 
-Boka gärna bord om ni är fler än 8 personer.
+**Påskmiddag för avhämtning 6-7 april.**
 
-Lunchen serveras till 14.[](https://www.restaurangstoraholm.se/helg/?i=2)
+Grillat surdegsbröd med rökt lamm, brödröra, bladpesto och jordärtskocka
+
+Halstrad lax med fänkålssallad, bakad äggula, potatis och sandefjordsås
+
+Pannacotta med passionsfrukt och lakritsmaräng
+
+329kr per person (beställ senast 4/4)
 
 📫 info@restaurangstoraholm.se
 
