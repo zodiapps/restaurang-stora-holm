@@ -1,17 +1,18 @@
 ---
-title: vecka 12
+title: vecka 13
 menu: []
 ---
 **Onsdag till fredag:**
 
 Veckans fisk
-Vinpocherad fisk med picklad blomkål & vitvinsås
+Fisk med rödbeta, bechamel med pepparrot och potatis
 
 Veckans vegetariska
-Gnocchi med svamp, kål och picklad lök 
+Linsgryta med ris, halloumi & korianderyoghurt 
 
 Veckans kött
-Kålpudding med gräddsås, rårörda lingon och potatis
+Kyckling med kantarellsås och pommes anna
+
 
 149kr inkl. sallad, bröd, kaffe och kaka
 
