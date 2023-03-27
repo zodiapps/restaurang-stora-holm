@@ -7,8 +7,9 @@ I﻿ helgen serverar vi förutom gott fika
 
 Jordärtskocksoppa med bröd
 
-Kycklingsallad med caesardressing, rostade rotfrukter och picklad morot
+Västerbottenostpaj med picklad pumpa och senapskräm
 
 Matjessillmacka med ägg, potatis och brynt smör
+
 
 Ä﻿r ni ett större sällskap får ni gärna boka på info@restaurangstoraholm.se
