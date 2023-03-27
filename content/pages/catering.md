@@ -11,7 +11,7 @@ Halstrad lax med fänkålssallad, bakad äggula, potatis och sandefjordsås
 
 Pannacotta med passionsfrukt och lakritsmaräng
 
-329kr per person
+345kr per person
 
 beställ på [info@restaurangstoraholm.se](info@restaurangstoraholm.se) senast 4/4
 
