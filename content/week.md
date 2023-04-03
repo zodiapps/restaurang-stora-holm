@@ -4,14 +4,14 @@ menu: []
 ---
 **Onsdag till fredag:**
 
-Veckans fisk
-Fisk med rödbeta, bechamel med pepparrot och potatis
+VVeckans Fisk\
+Långa med gubbröra, broccoli och potatis
 
-Veckans vegetariska
-Linsgryta med ris, halloumi & korianderyoghurt 
+Veckans vegetariska\
+Gråärtlasagne med mozzarella, getost och kålsallad 
 
-Veckans kött
-Kyckling med kantarellsås och pommes anna
+Veckans kött\
+Lammfärsbiff med rostad palsternacka och tomatsås
 
 149kr inkl. sallad, bröd, kaffe och kaka
 
@@ -22,7 +22,6 @@ Grillat surdegsbröd med rökt lamm, brödröra, bladpesto och jordärtskocka
 Halstrad lax med fänkålssallad, bakad äggula, potatis och sandefjordsås
 
 Pannacotta med passionsfrukt och lakritsmaräng
-
 
 📫 info@restaurangstoraholm.se
 
