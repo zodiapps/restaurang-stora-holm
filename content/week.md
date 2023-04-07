@@ -1,19 +1,17 @@
 ---
-title: vecka 14
+title: vecka 15
 menu: []
 ---
 **Onsdag till fredag:**
 
-VVeckans Fisk\
-Långa med gubbröra, broccoli och potatis
+Veckans Fisk\
+Fisk med romsås, svartrot och friterad dill
 
 Veckans vegetariska\
-Gråärtlasagne med mozzarella, getost och kålsallad 
+Örtbakad kålrabbi med dragonkräm, rostade rotfrukter och picklad lök
 
 Veckans kött\
-Lammfärsbiff med rostad palsternacka och tomatsås
-
-149kr inkl. sallad, bröd, kaffe och kaka
+Köttbullar med gräddsås, potatispuré och rårörda lingon149kr inkl. sallad, bröd, kaffe och kaka
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
