@@ -6,8 +6,12 @@ menu: []
 
 Veckans Fisk
 Bleka med sandefjordsås, dillolja och potatiskaka
+
+
 Veckans vegetariska
 Ärtbiff med grön ärthummus, friterat majsbröd och picklad chili
+
+
 Veckans kött
 Nattbakad fläsksida med potatis, picklad chili och rostad vitlökskräm
 
