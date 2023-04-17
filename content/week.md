@@ -4,14 +4,12 @@ menu: []
 ---
 **Onsdag till fredag:**
 
-Veckans Fisk\
-Fisk med romsås, svartrot och friterad dill
-
-Veckans vegetariska\
-Örtbakad kålrabbi med dragonkräm, rostade rotfrukter och picklad lök
-
-Veckans kött\
-Köttbullar med gräddsås, potatispuré och rårörda lingon149kr inkl. sallad, bröd, kaffe och kaka
+Veckans Fisk
+Bleka med sandefjordsås, dillolja och potatiskaka
+Veckans vegetariska
+Ärtbiff med grön ärthummus, friterat majsbröd och picklad chili
+Veckans kött
+Nattbakad fläsksida med potatis, picklad chili och rostad vitlökskräm
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
