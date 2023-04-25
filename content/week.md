@@ -1,19 +1,17 @@
 ---
-title: vecka 16
+title: vecka 17
 menu: []
 ---
 **Onsdag till fredag:**
 
 Veckans Fisk
-Bleka med sandefjordsås, dillolja och potatiskaka
-
+Sej med smörstekt vitkål & dillmajonnäs
 
 Veckans vegetariska
-Ärtbiff med grön ärthummus, friterat majsbröd och picklad chili
-
+Färskostbakad portabella med pommes anna och rödvinssås
 
 Veckans kött
-Nattbakad fläsksida med potatis, picklad chili och rostad vitlökskräm
+Boeuf Bourguinon med potatispuré och sotad lök
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
