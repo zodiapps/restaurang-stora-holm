@@ -1,17 +1,15 @@
 ---
-title: vecka 17
+title: vecka 18
 menu: []
 ---
-**Onsdag till fredag:**
-
+Onsdag och torsdag:
 Veckans Fisk
-Sej med smörstekt vitkål & dillmajonnäs
-
+Fiskfärsbiff med rostade rotfrukter, skaldjurssås och picklad gulbeta
 Veckans vegetariska
-Färskostbakad portabella med pommes anna och rödvinssås
-
+Linsgryta med korianderyoghurt, halloumiost och ris
 Veckans kött
-Boeuf Bourguinon med potatispuré och sotad lök
+Schnitzel med örtsmör, rödvinssås och rostad potatis
+FREDAG 5/5 är restaurangen ABONNERAD
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
