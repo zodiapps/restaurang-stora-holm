@@ -1,16 +1,14 @@
 ---
-title: vecka 18
+title: vecka 19
 menu: []
 ---
-FREDAG 5/5 är restaurangen ABONNERAD
-
-Onsdag och torsdag:
+Lunch onsdag till fredag:
 Veckans Fisk
-Fiskfärsbiff med rostade rotfrukter, skaldjurssås och picklad gulbeta
+Fisk med sandefjordsås, broccoli och stekt kavring
 Veckans vegetariska
-Linsgryta med korianderyoghurt, halloumiost och ris
-Veckans kött
-Schnitzel med örtsmör, rödvinssås och rostad potatis
+Broccolibiff med pommes anna, dragonkräm och picklad pumpa
+Veckans kött\
+Kyckling med pommes Anna, dragonkräm och picklad pumpa
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
