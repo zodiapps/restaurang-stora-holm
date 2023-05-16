@@ -1,14 +1,23 @@
 ---
-title: vecka 19
+title: vecka 20
 menu: []
 ---
-Lunch onsdag till fredag:
-Veckans Fisk
-Fisk med sandefjordsås, broccoli och stekt kavring
-Veckans vegetariska
-Broccolibiff med pommes anna, dragonkräm och picklad pumpa
-Veckans kött\
-Kyckling med pommes Anna, dragonkräm och picklad pumpa
+Onsdag\
+Långa med zucchini, vitvinssås och amandinepotatis
+
+\
+Boeuf Bourguinon med potatispuré
+
+\
+Vegetarisk lasagne med kålsallad
+
+Torsdag - söndag
+
+Vegetarisk lasagne
+
+Långa med zucchini, vitvinssås och amandinepotatis
+
+Ugnspannkaka med rabarbersylt och grädde
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
