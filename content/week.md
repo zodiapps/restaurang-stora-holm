@@ -2,14 +2,7 @@
 title: vecka 20
 menu: []
 ---
-Onsdag\
-Långa med zucchini, vitvinssås och amandinepotatis
-
-\
-Boeuf Bourguinon med potatispuré
-
-\
-Vegetarisk lasagne med kålsallad
+Onsdag 17/5 är restaurangen abonnerad, välkomna på torsdag.
 
 Torsdag - söndag
 
