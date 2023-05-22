@@ -2,15 +2,16 @@
 title: vecka 20
 menu: []
 ---
-Onsdag 17/5 är restaurangen abonnerad, välkomna på torsdag.
+Veckans Fisk
+Fisk med blåmusslor och musselsås och pak choi
 
-Torsdag - söndag
+Veckans vegetariska
+Svampgryta med rostad palsternacka
 
-Vegetarisk lasagne
+Veckans kött
+Färsbiff med gräddsås, vinbärsgelé och rostade rotsaker
 
-Långa med zucchini, vitvinssås och amandinepotatis
-
-Ugnspannkaka med rabarbersylt och grädde
+Helgmeny
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
