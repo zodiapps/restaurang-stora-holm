@@ -2,16 +2,14 @@
 title: vecka 21
 menu: []
 ---
-Veckans Fisk
-Fisk med blåmusslor och musselsås och pak choi
+Veckans Fisk\
+Fisk med blåmusslor, musselsås och pak choi
 
-Veckans vegetariska
-Svampgryta med rostad palsternacka
+Veckans vegetariska\
+Svampgryta med rostad palsternacka 
 
-Veckans kött
-Färsbiff med gräddsås, vinbärsgelé och rostade rotsaker
-
-Helgmeny
+Veckans kött\
+Färsbiff med gräddsås, vinbärsgelé och kumminrostad potatis
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
