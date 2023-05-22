@@ -3,8 +3,10 @@ title: Helg
 description: Läs mer om helgkasse och helgmeny
 thumbnail: /images/uploads/stora_holm_1.jpg
 ---
-Vegetarisk lasagne
+Denna helgen serverar vi förutom gott fika
 
-Långa med zucchini, vitvinssås och amandinepotatis
+Halstrad lax med sparris och ramslöksås
+
+Macka med nattbakat fläsk, rostad vitlökskräm och chimichurri
 
 Ugnspannkaka med rabarbersylt och grädde
