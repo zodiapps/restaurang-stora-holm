@@ -5,8 +5,8 @@ thumbnail: /images/uploads/stora_holm_1.jpg
 ---
 Denna helgen serverar vi förutom gott fika
 
-Halstrad lax med sparris och ramslöksås
+Räkmacka med picklad fänkål, örtkräm och friterad jordärtskocka
 
-Macka med nattbakat fläsk, rostad vitlökskräm och chimichurri
+Blomkålssoppa med jordärtskocka och ramslök
 
 Ugnspannkaka med rabarbersylt och grädde
