@@ -1,15 +1,15 @@
 ---
-title: vecka 21
+title: vecka 22
 menu: []
 ---
-Veckans Fisk\
-Fisk med blåmusslor, musselsås och pak choi
+Veckans Fisk
+Dagens fångst med smörstekt vitkål, dillpotatis och örtkräm
 
-Veckans vegetariska\
-Svampgryta med rostad palsternacka 
+Veckans vegetariska
+Broccolibiff med broccoli, rostad vitlökskräm och 
 
-Veckans kött\
-Färsbiff med gräddsås, vinbärsgelé och kumminrostad potatis
+Veckans kött
+Boeuf Bourguignon med potatispuré och grillad lök
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
