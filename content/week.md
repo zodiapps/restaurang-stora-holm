@@ -1,15 +1,15 @@
 ---
-title: vecka 22
+title: vecka 23
 menu: []
 ---
-Veckans Fisk
-Dagens fångst med smörstekt vitkål, dillpotatis och örtkräm
+Veckans fisk
+Fiskfärsbiff med räkröra, broccoli och potatis
 
 Veckans vegetariska
-Broccolibiff med broccoli, rostad vitlökskräm och 
+Lasagne med getost, parmesan och kålsallad
 
 Veckans kött
-Boeuf Bourguignon med potatispuré och grillad lök
+Nattbakad kotlettrad med rostad vitlökskräm, rotfrukter och picklad lök
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
