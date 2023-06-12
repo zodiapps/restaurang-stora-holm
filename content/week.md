@@ -2,13 +2,13 @@
 title: vecka 24
 menu: []
 ---
-Veckans Fisk\
+Veckans Fisk
 Sej med gubbröra, purjolök och färskpotatis 
 
-Veckans vegetariska\
+Veckans vegetariska
 Svampragu med friterad palsternacka och örtpotatis
 
-Veckans kött\
+Veckans kött
 Wallenbergare med potatispuré, lingon och skirat smör
 
 📫 info@restaurangstoraholm.se
