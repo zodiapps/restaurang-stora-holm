@@ -9,4 +9,4 @@ Räkmacka med picklad fänkål, örtkräm och friterad jordärtskocka
 
 Blomkålssoppa med jordärtskocka och ramslök
 
-Ugnspannkaka med rabarbersylt och grädde
+Ugnspannkaka med sylt och grädde
