@@ -1,15 +1,15 @@
 ---
-title: vecka 23
+title: vecka 24
 menu: []
 ---
-Veckans fisk
-Fiskfärsbiff med räkröra, broccoli och potatis
+Veckans Fisk\
+Sej med gubbröra, purjolök och färskpotatis 
 
-Veckans vegetariska
-Lasagne med getost, parmesan och kålsallad
+Veckans vegetariska\
+Svampragu med friterad palsternacka och örtpotatis
 
-Veckans kött
-Nattbakad kotlettrad med rostad vitlökskräm, rotfrukter och picklad lök
+Veckans kött\
+Wallenbergare med potatispuré, lingon och skirat smör
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
