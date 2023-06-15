@@ -2,6 +2,8 @@
 title: vecka 24
 menu: []
 ---
+Torsdag endast förbokade
+
 Veckans Fisk
 Sej med gubbröra, purjolök och färskpotatis 
 
