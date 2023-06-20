@@ -1,13 +1,14 @@
 ---
-title: vecka 24
+title: vecka 25
 menu: []
 ---
+Vi har endast öppet onsdag och torsdag denna veckan
 Veckans fisk
-Fisk med sandefjordsås 
+Bleka med sandefjordsås och amandinepotatis
 Veckans vegetariska
-falafel ärekräm picklad chili
+Falafel med grön ärtpuré, picklad chili och 
 Veckans kött
-kyckling, pommes Anna dragonkräm morot
+Kyckling med Pommes Anna, dragonkräm och morot
 
 
 📫 info@restaurangstoraholm.se
