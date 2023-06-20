@@ -2,16 +2,13 @@
 title: vecka 24
 menu: []
 ---
-Torsdag endast förbokade
-
-Veckans Fisk
-Sej med gubbröra, purjolök och färskpotatis 
-
+Veckans fisk
+Fisk med sandefjordsås 
 Veckans vegetariska
-Svampragu med friterad palsternacka och örtpotatis
-
+falafel ärekräm picklad chili
 Veckans kött
-Wallenbergare med potatispuré, lingon och skirat smör
+kyckling, pommes Anna dragonkräm morot
+
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
