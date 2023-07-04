@@ -1,15 +1,15 @@
 ---
-title: vecka 26
+title: vecka 27
 menu: []
 ---
 Veckans fisk
-Lubb med vitvinssås, potatis & fänkål
+Kummel med smörstekt kål, örtkräm och dill
 
 Veckans vegetariska
-Linsgryta med ris, halloumi & korianderyoghurt
+Portabello med kålsky och rostad palsternacka
 
 Veckans kött
-Köttbullar med potatispuré, kantarellsås & lingon
+Helstekt kotlettrad med picklad rotselleri och äppelsky
 
 📫 info@restaurangstoraholm.se
 ☎️ 073-980 37 84
